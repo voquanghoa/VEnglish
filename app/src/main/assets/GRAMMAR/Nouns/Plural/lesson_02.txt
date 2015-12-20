@@ -1,0 +1,43 @@
+﻿Ex: a baby --> babies
+
+1. a fruit  
+fruit
+
+2. an egg  
+eggs
+
+3. a leaf  
+leaves
+
+4. a berry   
+berries
+
+6. a woman  
+women
+
+7. a foot  
+feet
+
+8. a mouse  
+mice
+
+9. a child  
+children
+
+10. a goose  
+geese
+
+11. a tooth  
+teeth
+
+12. a cherry  
+cherries
+
+13. a man  
+men
+
+14. a knife  
+knives
+
+15. a shelf  
+shelves

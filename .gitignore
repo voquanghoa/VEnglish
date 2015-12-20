@@ -26,3 +26,5 @@ proguard/
 # Log Files
 *.log
 .idea
+tools/VEnglishDataManager/VEnglishDataManager/obj
+tools/VEnglishDataManager/VEnglishDataManager/bin

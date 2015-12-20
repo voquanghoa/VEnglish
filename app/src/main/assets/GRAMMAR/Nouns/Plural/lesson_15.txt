@@ -1,0 +1,31 @@
+﻿Ex:<br> a book ---> books
+
+1. A berry  
+berries
+
+2. A shelf  
+shelves
+
+3. A desk  
+desks
+
+4. A policeman  
+policemen
+
+5. A word  
+words
+
+6. A valley  
+valleys
+
+7. A dish  
+dishes
+
+8. A wife  
+wives
+
+9. A test  
+tests
+
+10. A foot 
+feet

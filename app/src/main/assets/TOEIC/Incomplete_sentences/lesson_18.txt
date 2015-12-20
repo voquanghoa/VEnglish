@@ -1,0 +1,59 @@
+The purpose of an audit is to gather and evaluate evidence in order to form an opinion on the ....... of a company's financial statements.
+(a) rationality 
+(b) realization 
+(c)  reliability 
+(d) responsibility
+
+The audit ....... is usually no more than a page in length and is attached to the financial statements.
+(a)  report 
+(b) response 
+(c) result 
+(d) review
+
+Auditors are not responsible for the ....... of the financial statements of an company.
+(a) evaluation 
+(b) examination 
+(c) position 
+(d)  preparation
+
+In the financial statements, the company implicitly states that all items, account balances and transactions are ....... valid, complete and accurate.
+(a) essentially 
+(b) generally 
+(c)  materially 
+(d) precisely
+
+An error in ....... is committed when the financial statements include an item that should not be included.
+(a) accuracy 
+(b) auditing 
+(c) completeness 
+(d)  validity
+
+An error in ....... is committed when the financial statements do not include an item which should be included.
+(a) accuracy 
+(b) auditing 
+(c)  completeness 
+(d) validity
+
+An error in ....... is committed when the financial statements include incorrect information about an item that should be included.
+(a)  accuracy 
+(b) auditing 
+(c) completeness 
+(d) validity
+
+One of the principal goals of the auditor is to add ....... to this assertion.
+(a) credentials 
+(b)  credibility 
+(c) creditworthiness 
+(d) credulity
+
+Audit risk is the risk that the auditor expresses an inappropriate audit opinion when the financial statements are significantly ........
+(a)  misstated 
+(b) overstated 
+(c) restated 
+(d) understated
+
+In addition to the financial statements, the auditor also examines the company's internal ....... procedures for effectiveness.
+(a) coherence 
+(b) command 
+(c)  control 
+(d) correspondence

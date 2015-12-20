@@ -1,0 +1,37 @@
+﻿Ex: book --> books
+
+1. man  
+men
+
+2. kiss  
+kisses
+
+3. child  
+children
+
+4. thief  
+thieves
+
+5. roof  
+roofs
+
+6. box  
+boxes
+
+7. leaf  
+leaves
+
+8. wife  
+wives
+
+9. foot  
+feet
+
+10. mouse  
+mice
+
+11. woman  
+women
+
+12. boy  
+boys

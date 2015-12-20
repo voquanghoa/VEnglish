@@ -1,0 +1,39 @@
+1. motorcycle
+(a)  Countable
+(b) Non_Countable
+ 
+2. air
+(a) Countable
+(b)  Non_Countable
+
+3. bird
+(a)  Countable
+(b) Non_Countable
+
+4. disk
+(a)  Countable
+(b) Non_Countable
+
+5. soap
+(a) Countable
+(b)  Non_Countable
+
+6. car
+(a)  Countable
+(b) Non_Countable
+
+7. lumber
+(a) Countable
+(b)  Non_Countable
+
+8. spoon
+(a)  Countable
+(b) Non_Countable
+
+9. hand
+(a)  Countable
+(b) Non_Countable
+
+10. fog
+(a) Countable
+(b)  Non_Countable

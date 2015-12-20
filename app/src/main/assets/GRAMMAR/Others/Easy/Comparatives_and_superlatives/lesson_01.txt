@@ -1,0 +1,39 @@
+1. Fast
+a.  Faster
+b. More fast
+
+2. Beautiful
+a. Beautifuler
+b.  More beautiful
+
+3. Happy
+a.  Happier
+b. More happy
+
+4. Old
+a.  Older
+b. More old
+
+5. Cheap
+a.  Cheaper
+b. More cheap
+
+6. Expensive
+a. Expensiver
+b.  More expensive
+
+7. Hungry
+a.  Hungrier
+b. More hungry
+
+8. Good
+a.  Better
+b. More better
+
+9. Bad
+a.  worse
+b. more bad
+
+10. Dangerous
+a. Dangerouser
+b.  More dangerous
