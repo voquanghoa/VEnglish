@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">English for all level</string>
+    <string name="loading">Loading...</string>
 </resources>
