@@ -27,7 +27,7 @@ public class FileSelectionActivity extends BaseActivity {
 
     public void onBackPressed() {
         DataItem parentItem = DataUtil.getParent(dataItem, adapter.getDataItem());
-        if(dataItem != null){
+        if(parentItem != null){
             adapter.setDataItem(parentItem);
         }else{
             super.onBackPressed();
