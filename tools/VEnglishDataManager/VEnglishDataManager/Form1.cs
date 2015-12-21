@@ -50,7 +50,7 @@ namespace VEnglishDataManager
 			}
 			else
 			{
-				var realData = LoadDir(TxtDataPath.Text);
+				var realData = LoadDir(TxtDataPath.Text, 0);
 				var jsonData = LoadJson(TxtJsonPath.Text);
 				MergeDataItem(realData, jsonData);
 				SaveJson(TxtJsonPath.Text, realData);
@@ -78,27 +78,31 @@ namespace VEnglishDataManager
 			}
 		}
 
-		private DataItem LoadDir(string path)
+		private DataItem LoadDir(string path, int level)
 		{
 			var dataItem = new DataItem();
 
 			dataItem.FileName = Path.GetFileName(path);
-			dataItem.Display = DefaultFormat(dataItem.FileName);
+			dataItem.Display = DefaultFormat(dataItem.FileName, level>0);
 
 			if (File.GetAttributes(path).HasFlag(FileAttributes.Directory))
 			{
-				List<string> files = Directory.EnumerateFileSystemEntries(path).ToList();
+				var files = Directory.EnumerateFileSystemEntries(path).Where(x=>!x.EndsWith(DefaultDataFile)).ToList();
 
-				dataItem.Children = files.Select(x => LoadDir(Path.Combine(path, x))).ToList();
+				dataItem.Children = files.Select(x => LoadDir(Path.Combine(path, x), level + 1)).ToList();
 			}
 
 			return dataItem;
 		}
 
-		private string DefaultFormat(string fileName)
+		private string DefaultFormat(string fileName, bool toLower)
 		{
 			var withoutExt = Path.GetFileNameWithoutExtension(fileName);
 			var withSpace = withoutExt.Replace('_', ' ');
+			if (toLower)
+			{
+				withSpace = withSpace.ToLower();
+			}
 			var capital = char.ToUpper(withSpace[0]) + withSpace.Substring(1);
 			return capital;
 		}

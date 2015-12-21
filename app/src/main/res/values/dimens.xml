@@ -3,7 +3,8 @@
     <dimen name="main_menu_new_button_margin">10dp</dimen>
     <dimen name="main_menu_padding">10dp</dimen>
     <dimen name="list_item_height">70dp</dimen>
+    <dimen name="list_item_button_margin">10dp</dimen>
     <dimen name="list_icon_size">50dp</dimen>
-    <dimen name="list_item_padding_left_right">20dp</dimen>
+    <dimen name="list_item_padding_left_right">10dp</dimen>
     <dimen name="list_item_padding_top_bottom">2dp</dimen>
 </resources>

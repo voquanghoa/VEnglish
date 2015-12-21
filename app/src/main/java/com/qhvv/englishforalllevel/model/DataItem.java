@@ -32,4 +32,8 @@ public class DataItem {
     public void setChildren(List<DataItem> children) {
         this.children = children;
     }
+
+    public boolean isFileTest(){
+        return children==null || children.size()==0;
+    }
 }

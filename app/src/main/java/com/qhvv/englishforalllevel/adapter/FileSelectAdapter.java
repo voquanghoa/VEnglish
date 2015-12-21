@@ -5,7 +5,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
-import android.widget.Button;
+import android.widget.TextView;
 
 import com.qhvv.englishforalllevel.R;
 import com.qhvv.englishforalllevel.model.DataItem;
@@ -65,9 +65,9 @@ public class FileSelectAdapter extends BaseAdapter {
     public View getView(int position, View convertView, ViewGroup parent) {
         final DataItem rowDataItem = (DataItem) getItem(position);
 
-        convertView = createView();
+        convertView = createView(rowDataItem);
 
-        Button button = (Button) convertView.findViewById(R.id.button_main_menu);
+        TextView button =  (TextView)convertView.findViewById(R.id.button_main_menu);
         button.setOnClickListener(new View.OnClickListener(){
             public void onClick(View v) {
                 List<DataItem> localChildren = rowDataItem.getChildren();
@@ -83,9 +83,15 @@ public class FileSelectAdapter extends BaseAdapter {
         return convertView;
     }
 
-    private View createView(){
-        int layout = pathStack.size()==0 ? R.layout.data_item_category_layout:
-                R.layout.data_item_folder_layout;
+    private View createView(DataItem dataItem){
+        //NOTED : Implement pool object if any issue relative to memory leak or performance here
+        int layout =  R.layout.data_item_folder_layout;
+
+        if(pathStack.size()==0){
+            layout = R.layout.data_item_category_layout;
+        }else if(dataItem.isFileTest()){
+            layout = R.layout.data_item_file_test;
+        }
 
         return LayoutInflater.from(context).inflate(layout, null);
     }

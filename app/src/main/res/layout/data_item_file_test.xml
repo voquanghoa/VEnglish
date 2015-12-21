@@ -9,7 +9,7 @@
         android:layout_height="@dimen/list_icon_size"
         android:adjustViewBounds="true"
         android:layout_centerVertical="true"
-        android:src="@drawable/folder_test"
+        android:src="@drawable/test_english_icon"
         />
     <TextView
         android:id="@+id/button_main_menu"
