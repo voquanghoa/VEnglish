@@ -4,7 +4,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/main_menu_bg"
-    android:weightSum="1280"
+    android:padding="@dimen/main_menu_padding"
+    android:weightSum="1260"
     >
     <View
         android:layout_width="match_parent"
@@ -24,13 +25,13 @@
         style="@style/MainMenuItemRow"
         >
         <ImageView
-            android:src="@drawable/main_menu_lesson_icon"
+            android:src="@drawable/main_menu_grammar_icon"
             style="@style/MainMenuItemIcon"
             />
         <com.qhvv.englishforalllevel.control.EffectfulImageView
-            android:src="@drawable/main_menu_lesson_button"
+            android:src="@drawable/main_menu_grammar_button"
             android:adjustViewBounds="true"
-            android:onClick="onLessonClicked"
+            android:onClick="onGrammarClicked"
             style="@style/MainMenuItemButton"
             />
     </LinearLayout>
@@ -39,12 +40,12 @@
         style="@style/MainMenuItemRow"
         >
         <com.qhvv.englishforalllevel.control.EffectfulImageView
-            android:src="@drawable/main_menu_exercise_button"
-            android:onClick="onExerciseClicked"
+            android:src="@drawable/main_menu_study_offline_button"
+            android:onClick="onStudyOfflineClick"
             style="@style/MainMenuItemButton"
             />
         <ImageView
-            android:src="@drawable/main_menu_exercise_icon"
+            android:src="@drawable/main_menu_study_offline_icon"
             style="@style/MainMenuItemIcon"
             />
     </LinearLayout>
@@ -57,7 +58,7 @@
             />
         <com.qhvv.englishforalllevel.control.EffectfulImageView
             android:src="@drawable/main_menu_examination_button"
-            android:onClick="onPuzzleClicked"
+            android:onClick="onExaminationClick"
             style="@style/MainMenuItemButton"
             />
     </LinearLayout>
@@ -67,7 +68,7 @@
         >
         <com.qhvv.englishforalllevel.control.EffectfulImageView
             android:src="@drawable/main_menu_more_app_button"
-            android:onClick="onLessonClicked"
+            android:onClick="onMoreAppClick"
             style="@style/MainMenuItemButton"
             />
         <ImageView

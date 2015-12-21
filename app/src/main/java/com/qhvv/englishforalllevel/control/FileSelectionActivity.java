@@ -1,23 +1,19 @@
-package com.qhvv.englishforalllevel;
+package com.qhvv.englishforalllevel.control;
 
 import android.os.Bundle;
 import android.widget.ListView;
 
 import com.qhvv.englishforalllevel.adapter.FileSelectAdapter;
-import com.qhvv.englishforalllevel.control.BaseActivity;
-import com.qhvv.englishforalllevel.controller.AssetDataController;
 import com.qhvv.englishforalllevel.model.DataItem;
 
 
-public class FileSelectionActivity extends BaseActivity {
+public abstract class FileSelectionActivity extends BaseActivity {
     private FileSelectAdapter adapter;
-    private DataItem dataItem;
 
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         ListView listView = new ListView(this);
-        dataItem = AssetDataController.getInstance().getDataItem();
-        adapter = new FileSelectAdapter(this, dataItem);
+        adapter = new FileSelectAdapter(this, getDataItem());
         listView.setAdapter(adapter);
         setContentView(listView);
     }
@@ -27,4 +23,7 @@ public class FileSelectionActivity extends BaseActivity {
             super.onBackPressed();
         }
     }
+
+    protected abstract DataItem getDataItem();
+
 }
