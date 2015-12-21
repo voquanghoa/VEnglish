@@ -4,7 +4,6 @@ import android.app.Activity;
 import android.app.ProgressDialog;
 import android.content.DialogInterface;
 import android.os.Bundle;
-import android.view.View;
 import android.view.Window;
 import android.view.WindowManager;
 import android.widget.Toast;
@@ -24,7 +23,7 @@ public class BaseActivity extends Activity implements DialogInterface.OnCancelLi
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
     }
 
-    protected  void showLoadingDialog(){
+    protected synchronized void showLoadingDialog(){
         if(progressDialog==null){
             progressDialog = ProgressDialog.show(this, "",getString(R.string.loading) , true);
             progressDialog.setOnCancelListener(this);
@@ -32,21 +31,35 @@ public class BaseActivity extends Activity implements DialogInterface.OnCancelLi
         progressDialog.show();
     }
 
-    protected  void closeLoadingDialog(){
-        if(progressDialog!=null){
-            progressDialog.hide();
-        }
+    protected synchronized void closeLoadingDialog(){
+        this.runOnUiThread(new Runnable() {
+            public void run() {
+                if (progressDialog != null) {
+                    progressDialog.hide();
+                }
+            }
+        });
+    }
+
+    protected synchronized void setProgressMessage(final String message){
+        this.runOnUiThread(new Runnable() {
+            public void run() {
+                if(progressDialog!=null){
+                    progressDialog.setMessage(message);
+                }
+            }
+        });
     }
 
     public void onCancel(DialogInterface dialog) {
 
     }
 
-    protected void showMessage(String content){
-        Toast.makeText(this, content, Toast.LENGTH_SHORT).show();
-    }
-
-    public void onHomeButtonClicked(View view){
-        this.finish();
+    protected void showMessage(final String content){
+        this.runOnUiThread(new Runnable() {
+            public void run() {
+                Toast.makeText(BaseActivity.this, content, Toast.LENGTH_SHORT).show();
+            }
+        });
     }
 }
