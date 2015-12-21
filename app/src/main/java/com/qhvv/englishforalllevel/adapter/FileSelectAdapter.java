@@ -65,9 +65,7 @@ public class FileSelectAdapter extends BaseAdapter {
     public View getView(int position, View convertView, ViewGroup parent) {
         final DataItem rowDataItem = (DataItem) getItem(position);
 
-        if(convertView == null){
-            convertView = LayoutInflater.from(context).inflate(R.layout.data_item_layout, null);
-        }
+        convertView = createView();
 
         Button button = (Button) convertView.findViewById(R.id.button_main_menu);
         button.setOnClickListener(new View.OnClickListener(){
@@ -83,5 +81,12 @@ public class FileSelectAdapter extends BaseAdapter {
         });
         button.setText(rowDataItem.getDisplay());
         return convertView;
+    }
+
+    private View createView(){
+        int layout = pathStack.size()==0 ? R.layout.data_item_category_layout:
+                R.layout.data_item_folder_layout;
+
+        return LayoutInflater.from(context).inflate(layout, null);
     }
 }
