@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/app_title_height"
+    android:background="@color/app_title"
+    android:padding="@dimen/app_title_padding"
+    >
+    <com.qhvv.englishforalllevel.control.EffectfulImageView
+        android:id="@+id/action_facebook"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:src="@drawable/facebook"
+        android:layout_alignParentRight="true"
+        android:adjustViewBounds="true"
+        />
+    <com.qhvv.englishforalllevel.control.EffectfulImageView
+        android:id="@+id/action_google"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:src="@drawable/google"
+        android:layout_toLeftOf="@+id/action_facebook"
+        android:layout_marginRight="@dimen/app_title_icon_space"
+        android:adjustViewBounds="true"
+        />
+    <com.qhvv.englishforalllevel.control.EffectfulImageView
+        android:id="@+id/app_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:src="@drawable/ic_launcher"
+        android:adjustViewBounds="true"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:text="@string/app_name"
+        android:layout_toRightOf="@id/app_icon"
+        android:textColor="@color/app_title_text"
+        android:textSize="@dimen/app_title_font_size"
+        android:layout_marginLeft="@dimen/app_title_text_space"
+        />
+</RelativeLayout>
