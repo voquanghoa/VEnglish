@@ -13,22 +13,33 @@ import com.qhvv.englishforalllevel.util.Utils;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Stack;
 
 /**
- * Created by voqua on 12/20/2015.
+ * Created by Vo Quang Hoa on 12/20/2015.
  */
 public class FileSelectAdapter extends BaseAdapter {
 
     private Context context;
     private DataItem dataItem;
     private List<DataItem> children;
+    private Stack<DataItem> pathStack;
 
     public FileSelectAdapter(Context context, DataItem dataItem){
-        setDataItem(dataItem);
+        setDisplayDataItem(dataItem);
         this.context = context;
+        this.pathStack = new Stack<>();
     }
 
-    public void setDataItem(DataItem dataItem){
+    public boolean showParent(){
+        if(pathStack.size()>0){
+            setDisplayDataItem(pathStack.pop());
+            return true;
+        }
+        return false;
+    }
+
+    public void setDisplayDataItem(DataItem dataItem){
         this.dataItem = dataItem;
         this.children = dataItem.getChildren();
         if(this.children == null){
@@ -52,29 +63,25 @@ public class FileSelectAdapter extends BaseAdapter {
 
 
     public View getView(int position, View convertView, ViewGroup parent) {
-        final DataItem dataItem = (DataItem) getItem(position);
+        final DataItem rowDataItem = (DataItem) getItem(position);
 
         if(convertView == null){
-            LayoutInflater inflator = LayoutInflater.from(context);
-            convertView = inflator.inflate(R.layout.data_item_layout, null);
+            convertView = LayoutInflater.from(context).inflate(R.layout.data_item_layout, null);
         }
 
         Button button = (Button) convertView.findViewById(R.id.button_main_menu);
         button.setOnClickListener(new View.OnClickListener(){
             public void onClick(View v) {
-                List<DataItem> localChildren = dataItem.getChildren();
+                List<DataItem> localChildren = rowDataItem.getChildren();
                 if(localChildren!=null && localChildren.size()>0){
-                    FileSelectAdapter.this.setDataItem(dataItem);
+                    FileSelectAdapter.this.pathStack.push(dataItem);
+                    FileSelectAdapter.this.setDisplayDataItem(rowDataItem);
                 }else{
                     Utils.Log("Click on file item");
                 }
             }
         });
-        button.setText(dataItem.getDisplay());
+        button.setText(rowDataItem.getDisplay());
         return convertView;
-    }
-
-    public DataItem getDataItem() {
-        return dataItem;
     }
 }
