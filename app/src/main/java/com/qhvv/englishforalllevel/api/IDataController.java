@@ -9,6 +9,5 @@ import com.qhvv.englishforalllevel.model.DataItem;
  */
 public interface IDataController {
     void loadDataItem(Context context);
-    void loadTestFile(String path);
     DataItem getDataItem();
 }

@@ -25,6 +25,10 @@
             android:label="@string/app_name"
             android:name=".GramarActivity">
         </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name=".QuestionListActivity">
+        </activity>
 
     </application>
 
