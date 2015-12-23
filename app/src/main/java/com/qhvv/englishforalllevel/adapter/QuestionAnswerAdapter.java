@@ -12,6 +12,7 @@ import android.widget.RadioGroup;
 import android.widget.TextView;
 
 import com.qhvv.englishforalllevel.R;
+import com.qhvv.englishforalllevel.controller.QuestionHelper;
 import com.qhvv.englishforalllevel.model.Question;
 import com.qhvv.englishforalllevel.model.TestContent;
 import com.qhvv.englishforalllevel.util.ViewUtils;
@@ -22,7 +23,8 @@ import com.qhvv.englishforalllevel.util.ViewUtils;
 public class QuestionAnswerAdapter extends BaseAdapter {
     private Context context;
     private TestContent test;
-    private boolean showAnswer;
+    private boolean showAnswer = false;
+
     public QuestionAnswerAdapter(Context context, TestContent test) {
         this.context = context;
         this.test = test;
@@ -69,17 +71,46 @@ public class QuestionAnswerAdapter extends BaseAdapter {
         }
 
         radioGroup.setEnabled(!showAnswer);
+        rdAnswerA.setEnabled(!showAnswer);
+        rdAnswerB.setEnabled(!showAnswer);
+        rdAnswerC.setEnabled(!showAnswer);
+        rdAnswerD.setEnabled(!showAnswer);
+
         tvQuestion.setText(Html.fromHtml(question.getQuestion().replace("<u>", "").replace("</u>", "")
                 .trim()));
-        rdAnswerA.setText(Html.fromHtml(question.getAnswerA()));
-        rdAnswerB.setText(Html.fromHtml(question.getAnswerB()));
-        rdAnswerC.setText(Html.fromHtml(question.getAnswerC()));
-        rdAnswerD.setText(Html.fromHtml(question.getAnswerD()));
+
 
         ViewUtils.setViewVisibility(rdAnswerA, question.getAnswerA().length() > 0);
         ViewUtils.setViewVisibility(rdAnswerB, question.getAnswerB().length() > 0);
         ViewUtils.setViewVisibility(rdAnswerC, question.getAnswerC().length() > 0);
         ViewUtils.setViewVisibility(rdAnswerD, question.getAnswerD().length() > 0);
+
+        if(showAnswer){
+            rdAnswerA.setText(Html.fromHtml(QuestionHelper.convertToColor(question.getAnswerA(), "black")));
+            rdAnswerB.setText(Html.fromHtml(QuestionHelper.convertToColor(question.getAnswerB(), "black")));
+            rdAnswerC.setText(Html.fromHtml(QuestionHelper.convertToColor(question.getAnswerC(), "black")));
+            rdAnswerD.setText(Html.fromHtml(QuestionHelper.convertToColor(question.getAnswerD(), "black")));
+
+            switch (question.getCorrectAnswer()){
+                case 0:
+                    rdAnswerA.setText(Html.fromHtml(QuestionHelper.convertToColor(question.getAnswerA(), "blue")));
+                    break;
+                case 1:
+                    rdAnswerB.setText(Html.fromHtml(QuestionHelper.convertToColor(question.getAnswerB(), "blue")));
+                    break;
+                case 2:
+                    rdAnswerC.setText(Html.fromHtml(QuestionHelper.convertToColor(question.getAnswerC(), "blue")));
+                    break;
+                case 3:
+                    rdAnswerD.setText(Html.fromHtml(QuestionHelper.convertToColor(question.getAnswerD(), "blue")));
+                    break;
+            }
+        }else{
+            rdAnswerA.setText(Html.fromHtml(question.getAnswerA()));
+            rdAnswerB.setText(Html.fromHtml(question.getAnswerB()));
+            rdAnswerC.setText(Html.fromHtml(question.getAnswerC()));
+            rdAnswerD.setText(Html.fromHtml(question.getAnswerD()));
+        }
 
 
         return convertView;

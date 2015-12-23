@@ -22,6 +22,12 @@ public class QuestionHelper {
         return testContent;
     }
 
+    public static String convertToColor(String originalString, String colorCode){
+        String clearColor = originalString.replace("color='red'", "color='"+colorCode+"'");
+        String result = "<font color='"+colorCode+"'>" + clearColor +"</font>";
+        return result;
+    }
+
     private static Question createQuestion(ArrayList<String> lineGroup){
         int first = 0;
         Question question = new Question();

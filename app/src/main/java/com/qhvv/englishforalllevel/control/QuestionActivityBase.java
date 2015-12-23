@@ -41,12 +41,13 @@ public class QuestionActivityBase extends BaseActivity {
                 .setTitle("This is result")
                 .setMessage("Correct: 6/10 \nTime test: 00:11")
                 .setCancelable(false)
-                .setPositiveButton("Show Answers",new DialogInterface.OnClickListener() {
-                    public void onClick(DialogInterface dialog,int id) {
-
+                .setPositiveButton("Show Answers", new DialogInterface.OnClickListener() {
+                    public void onClick(DialogInterface dialog, int id) {
+                        questionAnswerAdapter.setShowAnswer(true);
                     }
                 });
         AlertDialog alertDialog = alertDialogBuilder.create();
+
         alertDialog.show();
     }
 }
