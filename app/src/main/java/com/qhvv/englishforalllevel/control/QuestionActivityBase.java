@@ -1,6 +1,9 @@
 package com.qhvv.englishforalllevel.control;
 
+import android.app.AlertDialog;
+import android.content.DialogInterface;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.ListView;
 
 import com.qhvv.englishforalllevel.R;
@@ -30,5 +33,20 @@ public class QuestionActivityBase extends BaseActivity {
         }catch (Exception ex) {
             Utils.Log(ex);
         }
+    }
+
+    public void onSubmit(View view){
+        AlertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(this);
+        alertDialogBuilder
+                .setTitle("This is result")
+                .setMessage("Correct: 6/10 \nTime test: 00:11")
+                .setCancelable(false)
+                .setPositiveButton("Show Answers",new DialogInterface.OnClickListener() {
+                    public void onClick(DialogInterface dialog,int id) {
+
+                    }
+                });
+        AlertDialog alertDialog = alertDialogBuilder.create();
+        alertDialog.show();
     }
 }

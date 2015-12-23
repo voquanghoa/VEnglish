@@ -34,6 +34,6 @@ public class DataItem {
     }
 
     public boolean isFileTest(){
-        return children==null || children.size()==0;
+        return fileName.contains(".") &&  (children==null || children.size()==0);
     }
 }

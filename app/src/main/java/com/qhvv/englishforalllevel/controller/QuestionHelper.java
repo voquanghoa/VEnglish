@@ -28,12 +28,7 @@ public class QuestionHelper {
         if(lineGroup.size()==6){
             question.setCategory(lineGroup.get(first++));
         }
-
-        question.setQuestion(lineGroup.get(first++));
-        question.setAnswerA(lineGroup.get(first++));
-        question.setAnswerB(lineGroup.get(first++));
-        question.setAnswerC(lineGroup.get(first++));
-        question.setAnswerD(lineGroup.get(first++));
+        setAnswers(question, lineGroup, first);
 
         if(question.getAnswerA().startsWith(" ")){
             question.setCorrectAnswer(0);
@@ -47,6 +42,84 @@ public class QuestionHelper {
             Utils.Log("Error, the correct answer is not found !!!" +question.getQuestion());
         }
         return question;
+    }
+
+
+
+    private static void setAnswers(Question question, ArrayList<String> lineGroup, int first){
+        question.setQuestion(getQuestionString(lineGroup, first++));
+
+        question.setAnswerA(getAnswerString(lineGroup, first++));
+        question.setAnswerB(getAnswerString(lineGroup, first++));
+        question.setAnswerC(getAnswerString(lineGroup, first++));
+        question.setAnswerD(getAnswerString(lineGroup, first++));
+    }
+
+    private static String getQuestionString(ArrayList<String> lineGroup, int lineIndex){
+        if(lineIndex < lineGroup.size()) {
+            String question = lineGroup.get(lineIndex);
+
+            if(question.length()>0){
+                char firstChar = question.charAt(0);
+
+                if(Character.isDigit(firstChar) || (firstChar=='﻿' && question.charAt(1)=='1')){
+                    if(question.charAt(1)=='.' || firstChar=='('){
+                        question=question.substring(2).trim();
+                    }else {
+                        if(question.charAt(2)=='.' || question.charAt(0)=='('){
+                            question=question.substring(3).trim();
+                        }else if(question.charAt(3)=='.' || question.charAt(0)=='('){
+                            question=question.substring(4).trim();
+                        }
+                    }
+                }
+            }
+            return question;
+        }
+        return "";
+    }
+
+    private static String getAnswerString(ArrayList<String> lineGroup, int lineIndex){
+        if(lineIndex < lineGroup.size()) {
+            String answer = lineGroup.get(lineIndex);
+
+            if(answer.length()>0){
+                char firstChar = answer.charAt(0);
+
+                if(firstChar=='('){
+                    if(answer.charAt(2)==')' && answer.length()>=5) {
+                        answer = answer.substring(4);
+                    }
+                }else if(isCharBetweenValue(firstChar, 'A', 'D') && answer.length()>=3){
+                    if(isCharInSet(answer.charAt(1), '.', ')')){
+                        answer=answer.substring(3);
+                    }
+                }else if(answer.length()>=4 && isCharBetweenValue(answer.charAt(1), 'A', 'D')){
+                    if(answer.charAt(2)=='.' && answer.charAt(0)==' '){
+                        answer=answer.substring(4);
+                    }
+                }
+            }
+
+            return answer;
+        }
+        return "";
+    }
+
+    private static boolean isCharInSet(char ch, char ... set){
+        for(int i=0; i<set.length; i++){
+            if(ch == set[i]){
+                return true;
+            }
+        }
+        return false;
+    }
+
+    private static boolean isCharBetweenValue(char ch, char minimal, char maximum){
+        ch = Character.toUpperCase(ch);
+        minimal = Character.toUpperCase(minimal);
+        maximum = Character.toUpperCase(maximum);
+        return ch >= minimal && ch <= maximum;
     }
 
     private static ArrayList<ArrayList<String>> analystLines(ArrayList<String> lines){

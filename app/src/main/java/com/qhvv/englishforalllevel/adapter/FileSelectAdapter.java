@@ -73,7 +73,7 @@ public class FileSelectAdapter extends BaseAdapter {
         convertView = createView(rowDataItem);
 
         TextView button =  (TextView)convertView.findViewById(R.id.button_main_menu);
-        button.setOnClickListener(new View.OnClickListener(){
+        View.OnClickListener onClickListener = new View.OnClickListener(){
             public void onClick(View v) {
                 List<DataItem> localChildren = rowDataItem.getChildren();
 
@@ -88,7 +88,11 @@ public class FileSelectAdapter extends BaseAdapter {
                     }
                 }
             }
-        });
+        };
+
+        button.setOnClickListener(onClickListener);
+        convertView.setOnClickListener(onClickListener);
+
         button.setText(rowDataItem.getDisplay());
         return convertView;
     }
