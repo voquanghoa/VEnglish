@@ -6,6 +6,7 @@ import com.qhvv.englishforalllevel.util.Utils;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Random;
 
 /**
  * Created by Vo Quang Hoa on 12/22/2015.
@@ -19,11 +20,12 @@ public class QuestionHelper {
             questions.add(createQuestion(group));
         }
         testContent.setQuestions(questions);
+        makeRandomQuestions(testContent);
         return testContent;
     }
 
     public static String convertToColor(String originalString, String colorCode){
-        String clearColor = originalString.replace("color='red'", "color='"+colorCode+"'");
+        String clearColor = originalString.replace("color='red'", "color='" + colorCode + "'");
         String result = "<font color='"+colorCode+"'>" + clearColor +"</font>";
         return result;
     }
@@ -50,6 +52,36 @@ public class QuestionHelper {
         return question;
     }
 
+    private static void makeRandomQuestions(TestContent testContent){
+        int firstIndex = 0;
+        int count = 1;
+        List<Question> questions = testContent.getQuestions();
+        for(int i=1;i<=questions.size();i++){
+            if(i==questions.size() || questions.get(i).isCategory()){
+                makeRandomQuestionsSegment(testContent, firstIndex, count);
+                firstIndex = i;
+                count=1;
+            }else{
+                count++;
+            }
+        }
+    }
+
+    private static void makeRandomQuestionsSegment(TestContent testContent, int firstId, int count){
+        Random random = new Random();
+        List<Question> questions = testContent.getQuestions();
+        String category = questions.get(firstId).getCategory();
+        questions.get(firstId).setCategory("");
+        for(int i=0;i<count;i++){
+            int random1 = firstId + random.nextInt(count);
+            int random2 = firstId + random.nextInt(count);
+            Question question1 = questions.get(random1);
+            Question question2 = questions.get(random2);
+            questions.set(random1, question2);
+            questions.set(random2, question1);
+        }
+        questions.get(firstId).setCategory(category);
+    }
 
 
     private static void setAnswers(Question question, ArrayList<String> lineGroup, int first){

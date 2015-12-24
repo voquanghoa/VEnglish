@@ -1,7 +1,6 @@
 package com.qhvv.englishforalllevel.adapter;
 
 import android.content.Context;
-import android.support.annotation.NonNull;
 import android.text.Html;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -83,13 +82,12 @@ public class QuestionAnswerAdapter extends BaseAdapter implements CompoundButton
         setRadioButtonEnable(radioButtons);
         setRadioButtonShow(radioButtons, question);
         showCategoryQuestion(question, categoryButton);
-        setQuestionText(question, tvQuestion);
+        setQuestionText(question, tvQuestion, position);
         setAnswerText(radioButtons, question);
         setRadioOnChanged(radioButtons, true);
         return convertView;
     }
 
-    @NonNull
     private RadioButton[] getRadioButtons(View convertView) {
         return new RadioButton[]{
                     (RadioButton)convertView.findViewById(R.id.answer_a),
@@ -120,7 +118,6 @@ public class QuestionAnswerAdapter extends BaseAdapter implements CompoundButton
         }
     }
 
-
     private void setAnswerText(RadioButton[] radioButtons,Question question){
         for(int i=0;i<radioButtons.length;i++){
             RadioButton radioButton = radioButtons[i];
@@ -134,8 +131,8 @@ public class QuestionAnswerAdapter extends BaseAdapter implements CompoundButton
         }
     }
 
-    private void setQuestionText(Question question, TextView tvQuestion) {
-        tvQuestion.setText(Html.fromHtml(question.getQuestion()
+    private void setQuestionText(Question question, TextView tvQuestion, int position) {
+        tvQuestion.setText(Html.fromHtml(position+ ". " + question.getQuestion()
                 .replace("<u>", "").replace("</u>", "")
                 .trim()));
     }

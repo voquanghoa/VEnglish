@@ -74,6 +74,10 @@ public class Question {
         this.category = category;
     }
 
+    public boolean isCategory(){
+        return this.category!=null && this.category.length()>0;
+    }
+
     public String getAnswer(int index){
         switch (index){
             case 0:
