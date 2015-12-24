@@ -1,5 +1,7 @@
 package com.qhvv.englishforalllevel.model;
 
+import com.qhvv.englishforalllevel.util.Utils;
+
 /**
  * Created by Vo Quang Hoa on 12/22/2015.
  */
@@ -56,6 +58,10 @@ public class Question {
         return correctAnswer;
     }
 
+    public boolean checkCorrectAnswer(int index){
+        return correctAnswer==index;
+    }
+
     public void setCorrectAnswer(int correctAnswer) {
         this.correctAnswer = correctAnswer;
     }
@@ -66,5 +72,21 @@ public class Question {
 
     public void setCategory(String category) {
         this.category = category;
+    }
+
+    public String getAnswer(int index){
+        switch (index){
+            case 0:
+                return this.getAnswerA();
+            case 1:
+                return this.getAnswerB();
+            case 2:
+                return this.getAnswerC();
+            case 3:
+                return this.getAnswerD();
+            default:
+                Utils.Log("Get answer with index "+index);
+                return "";
+        }
     }
 }
