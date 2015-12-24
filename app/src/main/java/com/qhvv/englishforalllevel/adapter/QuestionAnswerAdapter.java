@@ -46,6 +46,18 @@ public class QuestionAnswerAdapter extends BaseAdapter implements CompoundButton
         }
     }
 
+    public String getResultAsString(int timeDuration){
+        int total = this.userSelection.length;
+        int correct =0;
+        for(int i=0;i<total;i++){
+            if(userSelection[i] == test.getQuestions().get(i).getCorrectAnswer()){
+                correct ++;
+            }
+        }
+        return String.format(this.context.getString(R.string.dialog_result_content), correct, total,
+                timeDuration/60, timeDuration%60);
+    }
+
     public void setShowAnswer(boolean showAnswer){
         this.showAnswer = showAnswer;
         this.notifyDataSetChanged();
@@ -132,7 +144,7 @@ public class QuestionAnswerAdapter extends BaseAdapter implements CompoundButton
     }
 
     private void setQuestionText(Question question, TextView tvQuestion, int position) {
-        tvQuestion.setText(Html.fromHtml(position+ ". " + question.getQuestion()
+        tvQuestion.setText(Html.fromHtml((1+position)+ ". " + question.getQuestion()
                 .replace("<u>", "").replace("</u>", "")
                 .trim()));
     }
@@ -165,7 +177,7 @@ public class QuestionAnswerAdapter extends BaseAdapter implements CompoundButton
 
             for(int id=0;id<radioButtonId.length;id++) {
                 if (viewId == radioButtonId[id]) {
-                    userSelection[questionIndex] = viewId;
+                    userSelection[questionIndex] = id;
                 }
             }
         }

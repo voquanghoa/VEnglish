@@ -16,8 +16,10 @@ import com.qhvv.englishforalllevel.util.Utils;
 /**
  * Created by Vo Quang Hoa on 12/22/2015.
  */
-public class QuestionActivityBase extends BaseActivity {
+public class QuestionActivityBase extends BaseActivity implements Runnable {
     private QuestionAnswerAdapter questionAnswerAdapter;
+    private int timeDuration = 0;
+    private boolean isStopTimer = false;
 
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -33,21 +35,34 @@ public class QuestionActivityBase extends BaseActivity {
         }catch (Exception ex) {
             Utils.Log(ex);
         }
+        timeDuration = 0;
+        new Thread(this).start();
     }
 
     public void onSubmit(View view){
         AlertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(this);
         alertDialogBuilder
-                .setTitle("This is result")
-                .setMessage("Correct: 6/10 \nTime test: 00:11")
+                .setTitle(R.string.dialog_result_title)
+                .setMessage(questionAnswerAdapter.getResultAsString(timeDuration))
                 .setCancelable(false)
-                .setPositiveButton("Show Answers", new DialogInterface.OnClickListener() {
+                .setPositiveButton(R.string.dialog_result_button, new DialogInterface.OnClickListener() {
                     public void onClick(DialogInterface dialog, int id) {
                         questionAnswerAdapter.setShowAnswer(true);
                     }
                 });
         AlertDialog alertDialog = alertDialogBuilder.create();
-
+        isStopTimer = true;
         alertDialog.show();
+    }
+
+    public void run() {
+        while(!isStopTimer){
+            try{
+                Thread.sleep(1000);
+            }catch (Exception ex){
+                return;
+            }
+            timeDuration ++;
+        }
     }
 }
