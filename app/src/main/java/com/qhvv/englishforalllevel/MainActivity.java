@@ -13,7 +13,7 @@ import com.qhvv.englishforalllevel.controller.OnlineDataController;
 public class MainActivity extends BaseActivity implements HttpDownloadController.IDownload, AppConstant {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.main_menu_layout);
         AssetDataController.getInstance().loadDataItem(this);
     }
 
@@ -42,6 +42,10 @@ public class MainActivity extends BaseActivity implements HttpDownloadController
         closeLoadingDialog();
         OnlineDataController.getInstance().loadData(data);
         startActivity(new Intent(this, GramarActivity.class));
+    }
+
+    public void onListenExerciseClick(View view) {
+
     }
 
     public void onDownloadFail(String message) {

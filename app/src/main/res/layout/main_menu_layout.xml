@@ -1,94 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/main_menu_bg"
+    android:orientation="vertical"
     android:padding="@dimen/main_menu_padding"
-    android:weightSum="1260"
-    >
+    android:weightSum="1260">
+
     <View
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="40" />
+
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="225"
-        android:src="@drawable/main_menu_header"
-        />
+        android:src="@drawable/main_menu_header" />
+
     <View
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="34" />
-    <LinearLayout
-        style="@style/MainMenuItemRow"
-        >
+
+    <LinearLayout style="@style/MainMenuItemRow">
+
         <ImageView
-            android:src="@drawable/main_menu_grammar_icon"
             style="@style/MainMenuItemIcon"
-            />
+            android:src="@drawable/main_menu_grammar_icon" />
+
         <com.qhvv.englishforalllevel.control.EffectfulImageView
-            android:src="@drawable/main_menu_grammar_button"
+            style="@style/MainMenuItemButton"
             android:adjustViewBounds="true"
             android:onClick="onGrammarClicked"
-            style="@style/MainMenuItemButton"
-            />
+            android:src="@drawable/main_menu_grammar_button" />
     </LinearLayout>
-    <LinearLayout
-        android:gravity="right"
-        style="@style/MainMenuItemRow"
-        >
-        <com.qhvv.englishforalllevel.control.EffectfulImageView
-            android:src="@drawable/main_menu_study_offline_button"
-            android:onClick="onStudyOfflineClick"
-            style="@style/MainMenuItemButton"
-            />
-        <ImageView
-            android:src="@drawable/main_menu_study_offline_icon"
-            style="@style/MainMenuItemIcon"
-            />
-    </LinearLayout>
+
     <LinearLayout
         style="@style/MainMenuItemRow"
-        >
-        <ImageView
-            android:src="@drawable/main_menu_examination_icon"
-            style="@style/MainMenuItemIcon"
-            />
+        android:gravity="right">
+
         <com.qhvv.englishforalllevel.control.EffectfulImageView
-            android:src="@drawable/main_menu_examination_button"
+            style="@style/MainMenuItemButton"
             android:onClick="onExaminationClick"
-            style="@style/MainMenuItemButton"
-            />
-    </LinearLayout>
-    <LinearLayout
-        android:gravity="right"
-        style="@style/MainMenuItemRow"
-        >
-        <com.qhvv.englishforalllevel.control.EffectfulImageView
-            android:src="@drawable/main_menu_more_app_button"
-            android:onClick="onMoreAppClick"
-            style="@style/MainMenuItemButton"
-            />
+            android:src="@drawable/main_menu_examination_button" />
+
         <ImageView
-            android:src="@drawable/main_menu_more_app_icon"
             style="@style/MainMenuItemIcon"
-            />
+            android:src="@drawable/main_menu_examination_icon" />
     </LinearLayout>
+
+    <LinearLayout style="@style/MainMenuItemRow">
+
+        <ImageView
+            style="@style/MainMenuItemIcon"
+            android:src="@drawable/main_menu_study_offline_icon" />
+
+        <com.qhvv.englishforalllevel.control.EffectfulImageView
+            style="@style/MainMenuItemButton"
+            android:onClick="onStudyOfflineClick"
+            android:src="@drawable/main_menu_study_offline_button" />
+    </LinearLayout>
+
     <LinearLayout
-        android:gravity="center"
         style="@style/MainMenuItemRow"
-        >
+        android:gravity="right">
+
         <com.qhvv.englishforalllevel.control.EffectfulImageView
-            android:src="@drawable/main_menu_gplus_button"
-            android:onClick="onLessonClicked"
             style="@style/MainMenuItemButton"
-            />
+            android:onClick="onMoreAppClick"
+            android:src="@drawable/main_menu_more_app_button" />
+
+        <ImageView
+            style="@style/MainMenuItemIcon"
+            android:src="@drawable/main_menu_more_app_icon" />
+    </LinearLayout>
+
+    <LinearLayout style="@style/MainMenuItemRow">
+
+        <ImageView
+            style="@style/MainMenuItemIcon"
+            android:src="@drawable/main_menu_listen_icon" />
+
         <com.qhvv.englishforalllevel.control.EffectfulImageView
-            android:src="@drawable/main_menu_facebook_button"
-            android:onClick="onLessonClicked"
             style="@style/MainMenuItemButton"
-            />
+            android:onClick="onListenExerciseClick"
+            android:src="@drawable/main_menu_listen_button" />
     </LinearLayout>
 </LinearLayout>
