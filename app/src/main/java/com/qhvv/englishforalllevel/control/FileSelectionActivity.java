@@ -35,7 +35,7 @@ public abstract class FileSelectionActivity extends BaseActivity implements File
 
     protected abstract DataItem getDataItem();
 
-    public void customHanlder(DataItem dataItem) {
+    public void customCommand(DataItem dataItem) {
 
     }
 

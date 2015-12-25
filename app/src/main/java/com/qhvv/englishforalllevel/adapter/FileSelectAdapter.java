@@ -18,17 +18,11 @@ import java.util.Stack;
  * Created by Vo Quang Hoa on 12/20/2015.
  */
 public class FileSelectAdapter extends BaseAdapter {
-    public interface FileSelectFeedback{
-        void customHanlder(DataItem dataItem);
-        void openFile(String filePath);
-    }
-
     private Context context;
     private DataItem dataItem;
     private List<DataItem> children;
     private Stack<DataItem> pathStack;
     private FileSelectFeedback selectFeedback;
-
     public FileSelectAdapter(Context context, DataItem dataItem, FileSelectFeedback selectFeedback){
         setDisplayDataItem(dataItem);
         this.context = context;
@@ -52,20 +46,18 @@ public class FileSelectAdapter extends BaseAdapter {
         }
         this.notifyDataSetChanged();
     }
+
     public int getCount() {
         return children.size();
     }
-
 
     public Object getItem(int position) {
         return children.get(position);
     }
 
-
     public long getItemId(int position) {
         return 0;
     }
-
 
     public View getView(int position, View convertView, ViewGroup parent) {
         final DataItem rowDataItem = (DataItem) getItem(position);
@@ -84,7 +76,7 @@ public class FileSelectAdapter extends BaseAdapter {
                     if(rowDataItem.getFileName().contains(".")){
                         selectFeedback.openFile(getCurrentPath() + rowDataItem.getFileName());
                     }else{
-                        selectFeedback.customHanlder(rowDataItem);
+                        selectFeedback.customCommand(rowDataItem);
                     }
                 }
             }
@@ -98,11 +90,11 @@ public class FileSelectAdapter extends BaseAdapter {
     }
 
     private String getCurrentPath(){
-        StringBuffer sb = new StringBuffer();
+        StringBuilder sb = new StringBuilder();
         for(int i=1; i<pathStack.size(); i++){
-            sb.append(pathStack.get(i).getFileName()+"/");
+            sb.append(pathStack.get(i).getFileName()).append("/");
         }
-        sb.append(dataItem.getFileName()+"/");
+        sb.append(dataItem.getFileName()).append("/");
         return sb.toString();
     }
 
@@ -117,5 +109,11 @@ public class FileSelectAdapter extends BaseAdapter {
         }
 
         return LayoutInflater.from(context).inflate(layout, null);
+    }
+
+    public interface FileSelectFeedback {
+        void customCommand(DataItem dataItem);
+
+        void openFile(String filePath);
     }
 }
