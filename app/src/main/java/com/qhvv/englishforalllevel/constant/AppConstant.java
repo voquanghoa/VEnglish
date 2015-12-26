@@ -8,4 +8,6 @@ public interface AppConstant {
     String ONLINE_PATH_FILE = "http://doanit.com/Voonn_cam_xoa/english_for_all_level/data.json";
 
     String MESSAGE_FILE_NAME = "file_name";
+    String USER_RESULT_FILE = "user_result.json";
+    String CHARSET = "UTF-8";
 }

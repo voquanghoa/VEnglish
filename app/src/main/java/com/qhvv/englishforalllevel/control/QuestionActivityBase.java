@@ -12,6 +12,7 @@ import com.qhvv.englishforalllevel.R;
 import com.qhvv.englishforalllevel.adapter.QuestionAnswerAdapter;
 import com.qhvv.englishforalllevel.constant.AppConstant;
 import com.qhvv.englishforalllevel.controller.AssetDataController;
+import com.qhvv.englishforalllevel.controller.UserResultController;
 import com.qhvv.englishforalllevel.model.TestContent;
 import com.qhvv.englishforalllevel.util.Utils;
 
@@ -33,6 +34,7 @@ public class QuestionActivityBase extends BaseActivity implements Runnable {
         }
     };
     private boolean isDelayFinish = true;
+    private String currentFileName;
 
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -40,9 +42,9 @@ public class QuestionActivityBase extends BaseActivity implements Runnable {
         appTitle = (AppTitle) findViewById(R.id.app_title);
         ListView listView = (ListView) findViewById(R.id.question_list_view);
 
-        String fileName = getIntent().getExtras().getString(AppConstant.MESSAGE_FILE_NAME);
+        currentFileName = getIntent().getExtras().getString(AppConstant.MESSAGE_FILE_NAME);
         try{
-            TestContent test = AssetDataController.getInstance().loadTestFile(this, fileName);
+            TestContent test = AssetDataController.getInstance().loadTestFile(this, currentFileName);
             questionAnswerAdapter = new QuestionAnswerAdapter(this, test);
             listView.setAdapter(questionAnswerAdapter);
 
@@ -75,11 +77,13 @@ public class QuestionActivityBase extends BaseActivity implements Runnable {
             AlertDialog alertDialog = alertDialogBuilder.create();
             isStopTimer = true;
             alertDialog.show();
+            UserResultController.getInstance().setResult(currentFileName,
+                    questionAnswerAdapter.getCorrects(), questionAnswerAdapter.getTotal());
         }
     }
 
     public void onBackPressed() {
-        if (isDelayFinish || questionAnswerAdapter.isShowAnswer()) {
+        if (isDelayFinish && !questionAnswerAdapter.isShowAnswer()) {
             showMessage(R.string.delay_backkey_message);
             isDelayFinish = false;
             new Handler().postDelayed(new Runnable() {

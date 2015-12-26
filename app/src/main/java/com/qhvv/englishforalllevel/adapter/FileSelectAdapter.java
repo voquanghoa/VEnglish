@@ -8,7 +8,9 @@ import android.widget.BaseAdapter;
 import android.widget.TextView;
 
 import com.qhvv.englishforalllevel.R;
+import com.qhvv.englishforalllevel.controller.UserResultController;
 import com.qhvv.englishforalllevel.model.DataItem;
+import com.qhvv.englishforalllevel.model.UserResult;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -73,7 +75,7 @@ public class FileSelectAdapter extends BaseAdapter {
                     FileSelectAdapter.this.pathStack.push(dataItem);
                     FileSelectAdapter.this.setDisplayDataItem(rowDataItem);
                 }else if(selectFeedback!=null){
-                    if(rowDataItem.getFileName().contains(".")){
+                    if(rowDataItem.isFileTest()){
                         selectFeedback.openFile(getCurrentPath() + rowDataItem.getFileName());
                     }else{
                         selectFeedback.customCommand(rowDataItem);
@@ -82,11 +84,35 @@ public class FileSelectAdapter extends BaseAdapter {
             }
         };
 
+        if(rowDataItem.isFileTest()){
+            setUserResult(rowDataItem, convertView);
+        }
+
         button.setOnClickListener(onClickListener);
         convertView.setOnClickListener(onClickListener);
 
         button.setText(rowDataItem.getDisplay());
         return convertView;
+    }
+
+    private void setUserResult(DataItem dataItem, View displayView){
+        String filePath = getCurrentPath() + dataItem.getFileName();
+        UserResult userResult = UserResultController.getInstance().getResult(filePath);
+        TextView tvResult = (TextView)displayView.findViewById(R.id.text_badge);
+
+        if(userResult == null){
+            tvResult.setVisibility(View.INVISIBLE);
+        }else{
+            tvResult.setVisibility(View.VISIBLE);
+            if(userResult.getCorrect()*2 >= userResult.getTotal()){
+                tvResult.setBackgroundResource(R.drawable.green_badge);
+            }
+            else {
+                tvResult.setBackgroundResource(R.drawable.gray_badge);
+            }
+
+            tvResult.setText(userResult.getDisplay());
+        }
     }
 
     private String getCurrentPath(){

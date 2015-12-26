@@ -46,15 +46,22 @@ public class QuestionAnswerAdapter extends BaseAdapter implements CompoundButton
         }
     }
 
-    public String getResultAsString(String timeDuration) {
-        int total = this.userSelection.length;
+    public int getTotal(){
+        return this.userSelection.length;
+    }
+
+    public int getCorrects(){
         int correct =0;
-        for(int i=0;i<total;i++){
+        for(int i=0;i<getTotal();i++){
             if(userSelection[i] == test.getQuestions().get(i).getCorrectAnswer()){
                 correct ++;
             }
         }
-        return String.format(this.context.getString(R.string.dialog_result_content), correct, total) +
+        return correct;
+    }
+
+    public String getResultAsString(String timeDuration) {
+        return String.format(this.context.getString(R.string.dialog_result_content), getCorrects(), getTotal()) +
                 timeDuration;
     }
 

@@ -9,6 +9,7 @@ import com.qhvv.englishforalllevel.QuestionListActivity;
 import com.qhvv.englishforalllevel.R;
 import com.qhvv.englishforalllevel.adapter.FileSelectAdapter;
 import com.qhvv.englishforalllevel.constant.AppConstant;
+import com.qhvv.englishforalllevel.controller.UserResultController;
 import com.qhvv.englishforalllevel.model.DataItem;
 
 
@@ -25,6 +26,13 @@ public abstract class FileSelectionActivity extends BaseActivity implements File
     public void onBackPressed() {
         if(!adapter.showParent()){
             super.onBackPressed();
+        }
+    }
+
+    public void onResume() {
+        super.onResume();
+        if(UserResultController.getInstance().isRequestUpdate()){
+            adapter.notifyDataSetChanged();
         }
     }
 

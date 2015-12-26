@@ -8,4 +8,5 @@
     <string name="dialog_result_button">Show Answers</string>
     <string name="duration_time_format" formatted="false">%2d:%2d</string>
     <string name="delay_backkey_message">Please click BACK again to exit</string>
+    <string name="admob_id">ca-app-pub-8190508285797907/3171395470</string>
 </resources>
