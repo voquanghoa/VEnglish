@@ -11,4 +11,8 @@ public class ExaminationActivity extends FileSelectionActivity {
     protected DataItem getDataItem() {
         return OnlineDataController.getInstance().getExaminationDataItem();
     }
+
+    protected String getFolder() {
+        return EXAMINATION_FOLDER;
+    }
 }

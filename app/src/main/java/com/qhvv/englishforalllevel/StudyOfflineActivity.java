@@ -11,4 +11,8 @@ public class StudyOfflineActivity extends FileSelectionActivity {
     protected DataItem getDataItem() {
         return AssetDataController.getInstance().getGrammarDataItem();
     }
+
+    protected String getFolder() {
+        return null;
+    }
 }

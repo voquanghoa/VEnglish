@@ -31,7 +31,7 @@ public class MainActivity extends BaseActivity implements HttpDownloadController
     }
 
     public void onExaminationClick(View view){
-        if(OnlineDataController.getInstance().getGrammarDataItem() == null) {
+        if(OnlineDataController.getInstance().getExaminationDataItem() == null) {
             showLoadingDialog();
             HttpDownloadController.getInstance().startDownload(EXAMINATION_JSON_PATH, this);
         }else{

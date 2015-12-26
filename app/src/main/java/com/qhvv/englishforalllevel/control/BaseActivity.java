@@ -13,11 +13,12 @@ import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdSize;
 import com.google.android.gms.ads.AdView;
 import com.qhvv.englishforalllevel.R;
+import com.qhvv.englishforalllevel.constant.AppConstant;
 
 /**
  * Created by voqua on 12/20/2015.
  */
-public class BaseActivity extends Activity implements DialogInterface.OnCancelListener {
+public class BaseActivity extends Activity implements DialogInterface.OnCancelListener, AppConstant {
     protected AppTitle appTitle;
     private ProgressDialog progressDialog;
     private AdView adView;
@@ -39,6 +40,7 @@ public class BaseActivity extends Activity implements DialogInterface.OnCancelLi
 
     public void setContentView(int layoutResID) {
         super.setContentView(layoutResID);
+        appTitle = (AppTitle) findViewById(R.id.app_title);
         RelativeLayout adsLayout = (RelativeLayout)findViewById(R.id.adView);
         if(adsLayout!=null){
             String AD_UNIT_ID = getString(R.string.admob_id);
@@ -67,6 +69,10 @@ public class BaseActivity extends Activity implements DialogInterface.OnCancelLi
                 }
             }
         });
+    }
+
+    protected synchronized void setProgressMessage(final int messageId){
+        this.setProgressMessage(getString(messageId));
     }
 
     protected synchronized void setProgressMessage(final String message){

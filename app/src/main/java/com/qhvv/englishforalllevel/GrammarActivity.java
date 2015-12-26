@@ -11,4 +11,8 @@ public class GrammarActivity extends FileSelectionActivity {
     protected DataItem getDataItem() {
         return OnlineDataController.getInstance().getGrammarDataItem();
     }
+
+    protected String getFolder() {
+        return GRAMMAR_FOLDER;
+    }
 }

@@ -12,16 +12,20 @@ import com.qhvv.englishforalllevel.R;
 import com.qhvv.englishforalllevel.adapter.QuestionAnswerAdapter;
 import com.qhvv.englishforalllevel.constant.AppConstant;
 import com.qhvv.englishforalllevel.controller.AssetDataController;
+import com.qhvv.englishforalllevel.controller.HttpDownloadController;
+import com.qhvv.englishforalllevel.controller.OnlineDataController;
 import com.qhvv.englishforalllevel.controller.UserResultController;
 import com.qhvv.englishforalllevel.model.TestContent;
 import com.qhvv.englishforalllevel.util.Utils;
 
+import java.io.IOException;
+import java.io.UnsupportedEncodingException;
 import java.text.DecimalFormat;
 
 /**
  * Created by Vo Quang Hoa on 12/22/2015.
  */
-public class QuestionActivityBase extends BaseActivity implements Runnable {
+public class QuestionActivityBase extends BaseActivity implements Runnable, HttpDownloadController.IDownload {
     private static final int BACK_KEY_DELAY_TIME = 2000;
     private QuestionAnswerAdapter questionAnswerAdapter;
     private int timeDuration = 0;
@@ -35,27 +39,58 @@ public class QuestionActivityBase extends BaseActivity implements Runnable {
     };
     private boolean isDelayFinish = true;
     private String currentFileName;
+    private String currentFolder;
+
+    private ListView listView;
 
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.test_content_layout);
-        appTitle = (AppTitle) findViewById(R.id.app_title);
-        ListView listView = (ListView) findViewById(R.id.question_list_view);
 
-        currentFileName = getIntent().getExtras().getString(AppConstant.MESSAGE_FILE_NAME);
-        try{
-            TestContent test = AssetDataController.getInstance().loadTestFile(this, currentFileName);
-            questionAnswerAdapter = new QuestionAnswerAdapter(this, test);
-            listView.setAdapter(questionAnswerAdapter);
-
-        }catch (Exception ex) {
-            Utils.Log(ex);
-        }
-        timeDuration = 0;
         appTitle.setLeftTitleText("");
-        new Thread(this).start();
-        decimalFormat = new DecimalFormat("00");
+        listView = (ListView) findViewById(R.id.question_list_view);
         submitButton = (Button) findViewById(R.id.submit_button);
+
+        Bundle bundle = getIntent().getExtras();
+        currentFileName = bundle.getString(AppConstant.MESSAGE_FILE_NAME);
+        currentFolder = bundle.getString(AppConstant.MESSAGE_FOLDER);
+
+        decimalFormat = new DecimalFormat("00");
+        timeDuration = 0;
+
+        loadFileData();
+    }
+
+    private void showData(TestContent testContent){
+        questionAnswerAdapter = new QuestionAnswerAdapter(this, testContent);
+        new Thread(this).start();
+        runOnUiThread(new Runnable() {
+            public void run() {
+                synchronized (questionAnswerAdapter) {
+                    listView.setAdapter(questionAnswerAdapter);
+                }
+            }
+        });
+    }
+
+    private void loadFileData(){
+        if(currentFileName.startsWith("assets")){
+            try {
+                showData(AssetDataController.getInstance().loadTestFile(this, currentFileName));
+            } catch (IOException e) {
+                showLoadFileError();
+            }
+        }else{
+            showLoadingDialog();
+            setProgressMessage(R.string.downloading_file);
+            String url = SERVER_BASE_PATH + currentFolder + currentFileName;
+            HttpDownloadController.getInstance().startDownload(url, this);
+        }
+    }
+
+    private void showLoadFileError(){
+        showMessage(R.string.can_not_read_file);
+        Utils.Log("Can not load file "+currentFileName);
     }
 
     public void onSubmit(View view){
@@ -110,5 +145,23 @@ public class QuestionActivityBase extends BaseActivity implements Runnable {
 
     private String getDurationTime() {
         return decimalFormat.format(timeDuration / 60) + ":" + decimalFormat.format(timeDuration % 60);
+    }
+
+    public void onDownloadDone(String url, byte[] data) {
+        try {
+            showData(OnlineDataController.getInstance().loadTestFile(data));
+        } catch (UnsupportedEncodingException e) {
+            showLoadFileError();
+        }finally {
+            closeLoadingDialog();
+        }
+    }
+
+    public void onDownloadFail(String message) {
+        showLoadFileError();
+    }
+
+    public void onDownloadProgress(int done, int total) {
+        setProgressMessage("Download " + (done/1024)+" Kb/" + (total/1024)+" Kb.");
     }
 }

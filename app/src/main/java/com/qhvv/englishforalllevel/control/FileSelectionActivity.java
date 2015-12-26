@@ -50,8 +50,11 @@ public abstract class FileSelectionActivity extends BaseActivity implements File
     public void openFile(String filePath) {
         Intent intent = new Intent(this, QuestionListActivity.class);
         Bundle bundle = new Bundle();
-        bundle.putString(AppConstant.MESSAGE_FILE_NAME,filePath);
+        bundle.putString(AppConstant.MESSAGE_FILE_NAME, filePath);
+        bundle.putString(AppConstant.MESSAGE_FOLDER, getFolder());
         intent.putExtras(bundle);
         startActivity(intent);
     }
+
+    protected abstract String getFolder();
 }
