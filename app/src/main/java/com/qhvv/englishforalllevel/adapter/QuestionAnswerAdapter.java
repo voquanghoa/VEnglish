@@ -46,7 +46,7 @@ public class QuestionAnswerAdapter extends BaseAdapter implements CompoundButton
         }
     }
 
-    public String getResultAsString(int timeDuration){
+    public String getResultAsString(String timeDuration) {
         int total = this.userSelection.length;
         int correct =0;
         for(int i=0;i<total;i++){
@@ -54,8 +54,12 @@ public class QuestionAnswerAdapter extends BaseAdapter implements CompoundButton
                 correct ++;
             }
         }
-        return String.format(this.context.getString(R.string.dialog_result_content), correct, total,
-                timeDuration/60, timeDuration%60);
+        return String.format(this.context.getString(R.string.dialog_result_content), correct, total) +
+                timeDuration;
+    }
+
+    public boolean isShowAnswer() {
+        return showAnswer;
     }
 
     public void setShowAnswer(boolean showAnswer){
@@ -119,14 +123,14 @@ public class QuestionAnswerAdapter extends BaseAdapter implements CompoundButton
 
     private void setRadioTag(RadioGroup radioGroups, RadioButton[] radioButtons, int questionId){
         radioGroups.setTag(questionId);
-        for(int i=0;i<radioButtons.length;i++) {
-            radioButtons[i].setTag(questionId);
+        for (RadioButton radioButton : radioButtons) {
+            radioButton.setTag(questionId);
         }
     }
 
     private void setRadioOnChanged(RadioButton[] radioButtons, boolean isSet){
-        for(int i=0;i<radioButtons.length;i++) {
-            radioButtons[i].setOnCheckedChangeListener(isSet? this: null);
+        for (RadioButton radioButton : radioButtons) {
+            radioButton.setOnCheckedChangeListener(isSet ? this : null);
         }
     }
 

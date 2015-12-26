@@ -14,6 +14,7 @@ import com.qhvv.englishforalllevel.R;
  * Created by voqua on 12/20/2015.
  */
 public class BaseActivity extends Activity implements DialogInterface.OnCancelListener {
+    protected AppTitle appTitle;
     private ProgressDialog progressDialog;
 
     @Override
@@ -61,5 +62,9 @@ public class BaseActivity extends Activity implements DialogInterface.OnCancelLi
                 Toast.makeText(BaseActivity.this, content, Toast.LENGTH_SHORT).show();
             }
         });
+    }
+
+    protected void showMessage(final int contentId) {
+        showMessage(getString(contentId));
     }
 }

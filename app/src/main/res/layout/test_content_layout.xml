@@ -1,23 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <com.qhvv.englishforalllevel.control.AppTitle
+        android:id="@+id/app_title"
+        style="@style/AppTitle" />
     <ListView
         android:id="@+id/question_list_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_above="@+id/submit_button"
+        android:layout_below="@id/app_title"
         >
     </ListView>
     <Button
         android:id="@+id/submit_button"
+        style="@style/CategoryButtonText"
         android:layout_width="match_parent"
         android:layout_height="@dimen/row_button_height"
         android:layout_alignParentBottom="true"
         android:layout_marginBottom="@dimen/bottom_ads_panel_height"
-        android:text="@string/submit"
         android:onClick="onSubmit"
-        style="@style/CategoryButtonText" />
+        android:text="@string/submit" />
 </RelativeLayout>
