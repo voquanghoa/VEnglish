@@ -76,4 +76,10 @@
         <item name="android:textColor">@color/app_title_text</item>
         <item name="android:textSize">@dimen/app_title_font_size</item>
     </style>
+    <style name="AdsPanel">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentBottom">true</item>
+        <item name="android:layout_centerHorizontal">true</item>
+    </style>
 </resources>

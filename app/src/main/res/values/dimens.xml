@@ -17,6 +17,4 @@
     <dimen name="row_button_height">50dp</dimen>
     <dimen name="question_margin_bottom">5dp</dimen>
     <dimen name="question_margin_top">2dp</dimen>
-
-    <dimen name="bottom_ads_panel_height">20dp</dimen>
 </resources>

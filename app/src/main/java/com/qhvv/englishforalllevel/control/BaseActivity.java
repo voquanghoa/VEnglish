@@ -6,8 +6,12 @@ import android.content.DialogInterface;
 import android.os.Bundle;
 import android.view.Window;
 import android.view.WindowManager;
+import android.widget.RelativeLayout;
 import android.widget.Toast;
 
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.AdSize;
+import com.google.android.gms.ads.AdView;
 import com.qhvv.englishforalllevel.R;
 
 /**
@@ -16,13 +20,35 @@ import com.qhvv.englishforalllevel.R;
 public class BaseActivity extends Activity implements DialogInterface.OnCancelListener {
     protected AppTitle appTitle;
     private ProgressDialog progressDialog;
+    private AdView adView;
+    private static AdRequest adRequest;
 
-    @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         requestWindowFeature(Window.FEATURE_NO_TITLE);
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
+
+        if(adRequest == null){
+            adRequest = new AdRequest.Builder()
+                    .addTestDevice(AdRequest.DEVICE_ID_EMULATOR)
+                    .addTestDevice("EF966C3E6FD639F322B1250C72187DF5")
+                    .build();
+        }
     }
+
+    public void setContentView(int layoutResID) {
+        super.setContentView(layoutResID);
+        RelativeLayout adsLayout = (RelativeLayout)findViewById(R.id.adView);
+        if(adsLayout!=null){
+            String AD_UNIT_ID = getString(R.string.admob_id);
+            adView = new AdView(this);
+            adView.setAdSize(AdSize.BANNER);
+            adView.setAdUnitId(AD_UNIT_ID);
+            adsLayout.addView(adView);
+            adView.loadAd(adRequest);
+        }
+    }
+
 
     protected synchronized void showLoadingDialog(){
         if(progressDialog==null){
@@ -45,7 +71,7 @@ public class BaseActivity extends Activity implements DialogInterface.OnCancelLi
     protected synchronized void setProgressMessage(final String message){
         this.runOnUiThread(new Runnable() {
             public void run() {
-                if(progressDialog!=null){
+                if (progressDialog != null) {
                     progressDialog.setMessage(message);
                 }
             }
@@ -66,5 +92,30 @@ public class BaseActivity extends Activity implements DialogInterface.OnCancelLi
 
     protected void showMessage(final int contentId) {
         showMessage(getString(contentId));
+    }
+
+    public void onResume() {
+        super.onResume();
+        if (adView != null) {
+            adView.resume();
+        }
+    }
+
+    @Override
+    public void onPause() {
+        if (adView != null) {
+            adView.pause();
+        }
+        super.onPause();
+    }
+
+    /** Called before the activity is destroyed. */
+    @Override
+    public void onDestroy() {
+        // Destroy the AdView.
+        if (adView != null) {
+            adView.destroy();
+        }
+        super.onDestroy();
     }
 }

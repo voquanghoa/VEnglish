@@ -21,8 +21,12 @@
         style="@style/CategoryButtonText"
         android:layout_width="match_parent"
         android:layout_height="@dimen/row_button_height"
-        android:layout_alignParentBottom="true"
-        android:layout_marginBottom="@dimen/bottom_ads_panel_height"
         android:onClick="onSubmit"
-        android:text="@string/submit" />
+        android:text="@string/submit"
+        android:layout_above="@+id/adView"
+        />
+    <RelativeLayout
+        android:id="@+id/adView"
+        style="@style/AdsPanel"
+        />
 </RelativeLayout>
