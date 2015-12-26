@@ -14,21 +14,14 @@
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:label="@string/app_name"
-            android:name=".StudyOfflineActivity">
-        </activity>
-        <activity
-            android:label="@string/app_name"
-            android:name=".GramarActivity">
-        </activity>
-        <activity
-            android:label="@string/app_name"
-            android:name=".QuestionListActivity">
-        </activity>
+
+        <activity android:name=".StudyOfflineActivity" />
+        <activity android:name=".GrammarActivity"/>
+        <activity android:name=".QuestionListActivity" />
+        <activity android:name=".ExaminationActivity" />
+
     </application>
 </manifest>

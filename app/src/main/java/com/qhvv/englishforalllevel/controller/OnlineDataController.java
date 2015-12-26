@@ -1,13 +1,12 @@
 package com.qhvv.englishforalllevel.controller;
 
-import android.content.Context;
-
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 import com.qhvv.englishforalllevel.api.IDataController;
 import com.qhvv.englishforalllevel.model.DataItem;
 import com.qhvv.englishforalllevel.util.Utils;
 
+import java.io.UnsupportedEncodingException;
 import java.lang.reflect.Type;
 
 /**
@@ -21,31 +20,44 @@ public class OnlineDataController implements IDataController {
         }
         return instance;
     }
-    private DataItem dataItem;
+    private DataItem grammarDataItem;
+    private DataItem examinationDataItem;
 
     private OnlineDataController(){
 
     }
 
-    public void loadData(byte[] data){
+    private DataItem readDataItem(byte[] data) throws UnsupportedEncodingException {
+        Type listType = new TypeToken<DataItem>(){}.getType();
+        String strData = new String(data, "UTF-8");
+        return new Gson().fromJson(strData, listType);
+    }
+
+    public void loadGrammar(byte[] data){
         try{
-            Type listType = new TypeToken<DataItem>(){}.getType();
-            String strData = new String(data, "UTF-8");
-            dataItem = new Gson().fromJson(strData, listType);
+            grammarDataItem = readDataItem(data);
         }catch (Exception ex){
             Utils.Log(ex);
         }
     }
 
-    public void loadDataItem(Context context) {
-
+    public void loadExamination(byte[] data){
+        try{
+            examinationDataItem = readDataItem(data);
+        }catch (Exception ex){
+            Utils.Log(ex);
+        }
     }
 
     public void loadTestFile(String path) {
 
     }
 
-    public DataItem getDataItem() {
-        return dataItem;
+    public DataItem getGrammarDataItem() {
+        return grammarDataItem;
+    }
+
+    public DataItem getExaminationDataItem(){
+        return examinationDataItem;
     }
 }

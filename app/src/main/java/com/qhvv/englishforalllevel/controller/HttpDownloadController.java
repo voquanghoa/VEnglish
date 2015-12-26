@@ -13,7 +13,7 @@ import java.net.URL;
  */
 public class HttpDownloadController implements AppConstant{
     public interface IDownload{
-        void onDownloadDone(byte[] data);
+        void onDownloadDone(String url, byte[] data);
         void onDownloadFail(String message);
         void onDownloadProgress(int done, int total);
     }
@@ -85,7 +85,7 @@ public class HttpDownloadController implements AppConstant{
 
                 inputStream.close();
                 byteArrayOutputStream.close();
-                downloadHandler.onDownloadDone(byteArrayOutputStream.toByteArray());
+                downloadHandler.onDownloadDone(downloadUrl, byteArrayOutputStream.toByteArray());
             }else{
                 downloadHandler.onDownloadFail("Download error. Can not download this file.");
                 Utils.Log(new Exception("Can not download file " + downloadUrl));

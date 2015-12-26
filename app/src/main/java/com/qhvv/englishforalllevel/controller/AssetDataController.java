@@ -34,7 +34,7 @@ public class AssetDataController implements IDataController, AppConstant {
 
     public void loadDataItem(Context context) {
         try {
-            String fileData = readFile(context, ASSET_PATH_FILE);
+            String fileData = readFile(context, JSON_DATA_FILE);
             Type listType = new TypeToken<DataItem>(){}.getType();
             dataItem = new Gson().fromJson(fileData, listType);
         } catch (IOException e) {
@@ -47,7 +47,7 @@ public class AssetDataController implements IDataController, AppConstant {
         return QuestionHelper.readQuestion(lines);
     }
 
-    public DataItem getDataItem() {
+    public DataItem getGrammarDataItem() {
         return dataItem;
     }
 

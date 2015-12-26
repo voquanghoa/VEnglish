@@ -5,10 +5,10 @@ import com.qhvv.englishforalllevel.controller.OnlineDataController;
 import com.qhvv.englishforalllevel.model.DataItem;
 
 /**
- * Created by Vo Quang Hoa on 12/21/2015.
+ * Created by Vo Quang Hoa on 12/26/2015.
  */
-public class GramarActivity extends FileSelectionActivity {
+public class ExaminationActivity extends FileSelectionActivity {
     protected DataItem getDataItem() {
-        return OnlineDataController.getInstance().getDataItem();
+        return OnlineDataController.getInstance().getExaminationDataItem();
     }
 }

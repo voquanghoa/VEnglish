@@ -18,11 +18,11 @@ public class MainActivity extends BaseActivity implements HttpDownloadController
     }
 
     public void onGrammarClicked(View view){
-        if(OnlineDataController.getInstance().getDataItem() == null) {
+        if(OnlineDataController.getInstance().getGrammarDataItem() == null) {
             showLoadingDialog();
-            HttpDownloadController.getInstance().startDownload(ONLINE_PATH_FILE, this);
+            HttpDownloadController.getInstance().startDownload(GRAMMAR_JSON_PATH, this);
         }else{
-            startActivity(new Intent(this, GramarActivity.class));
+            startActivity(new Intent(this, GrammarActivity.class));
         }
     }
 
@@ -31,17 +31,27 @@ public class MainActivity extends BaseActivity implements HttpDownloadController
     }
 
     public void onExaminationClick(View view){
-        showMessage("Not implemented yet !");
+        if(OnlineDataController.getInstance().getGrammarDataItem() == null) {
+            showLoadingDialog();
+            HttpDownloadController.getInstance().startDownload(EXAMINATION_JSON_PATH, this);
+        }else{
+            startActivity(new Intent(this, ExaminationActivity.class));
+        }
     }
 
     public void onMoreAppClick(View view){
         showMessage("Not implemented yet !");
     }
 
-    public void onDownloadDone(byte[] data) {
+    public void onDownloadDone(String downloadUrl, byte[] data) {
         closeLoadingDialog();
-        OnlineDataController.getInstance().loadData(data);
-        startActivity(new Intent(this, GramarActivity.class));
+        if(downloadUrl.equals(EXAMINATION_JSON_PATH)){
+            OnlineDataController.getInstance().loadExamination(data);
+            startActivity(new Intent(this, ExaminationActivity.class));
+        }else{
+            OnlineDataController.getInstance().loadGrammar(data);
+            startActivity(new Intent(this, GrammarActivity.class));
+        }
     }
 
     public void onListenExerciseClick(View view) {
