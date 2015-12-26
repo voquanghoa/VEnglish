@@ -12,7 +12,7 @@ using Newtonsoft.Json;
 
 namespace VEnglishDataManager
 {
-	public partial class Form1 : Form
+	public partial class Form1 : Form, IComparer<String>
 	{
 		private const string DefaultDataFile = "data.json";
 		
@@ -87,7 +87,7 @@ namespace VEnglishDataManager
 
 			if (File.GetAttributes(path).HasFlag(FileAttributes.Directory))
 			{
-				var files = Directory.EnumerateFileSystemEntries(path).Where(x=>!x.EndsWith(DefaultDataFile)).ToList();
+				var files = Directory.EnumerateFileSystemEntries(path).Where(x => !x.EndsWith(DefaultDataFile)).ToList().OrderBy(x => x, this);
 
 				dataItem.Children = files.Select(x => LoadDir(Path.Combine(path, x), level + 1)).ToList();
 			}
@@ -139,6 +139,54 @@ namespace VEnglishDataManager
 		private void ShowInfo(string error)
 		{
 			MessageBox.Show(error, "Information", MessageBoxButtons.OK, MessageBoxIcon.Information);
+		}
+
+		public int Compare(string x, string y)
+		{
+			x = x.Trim();
+			y = y.Trim();
+
+			if (x.LastIndexOf('.') > 0)
+			{
+				x = x.Substring(0, x.LastIndexOf('.'));
+			}
+
+			if (y.LastIndexOf('.') > 0)
+			{
+				y = y.Substring(0, y.LastIndexOf('.'));
+			}
+
+			int xLastSpace = x.LastIndexOf(' ');
+			int yLastSpace = y.LastIndexOf(' ');
+
+			if (xLastSpace < 0)
+			{
+				xLastSpace = x.LastIndexOf('_');
+			}
+
+			if (yLastSpace < 0)
+			{
+				yLastSpace = y.LastIndexOf('_');
+            }
+
+			try
+			{
+				if (yLastSpace >= 0 && xLastSpace >= 0)
+				{
+					string strNumX = x.Substring(xLastSpace + 1);
+					string strNumY = y.Substring(yLastSpace + 1);
+
+					int numX = int.Parse(strNumX);
+					int numY = int.Parse(strNumY);
+
+					return numX - numY;
+				}
+			}
+			catch
+			{
+				Console.WriteLine(x + " -- " + y);
+			}
+			return x.CompareTo(y);
 		}
 	}
 }
