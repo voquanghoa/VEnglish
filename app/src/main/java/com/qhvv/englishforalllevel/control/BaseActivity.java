@@ -32,6 +32,7 @@ public class BaseActivity extends Activity implements DialogInterface.OnCancelLi
             adRequest = new AdRequest.Builder()
                     .addTestDevice(AdRequest.DEVICE_ID_EMULATOR)
                     .addTestDevice("EF966C3E6FD639F322B1250C72187DF5")
+                    .addTestDevice("E62072DEC66B8E891FC23264834F5CCA")
                     .build();
         }
     }
