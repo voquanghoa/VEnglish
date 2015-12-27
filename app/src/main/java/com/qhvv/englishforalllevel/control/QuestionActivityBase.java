@@ -8,6 +8,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.ListView;
 
+import com.google.android.gms.ads.AdListener;
 import com.qhvv.englishforalllevel.R;
 import com.qhvv.englishforalllevel.adapter.QuestionAnswerAdapter;
 import com.qhvv.englishforalllevel.constant.AppConstant;
@@ -60,6 +61,15 @@ public class QuestionActivityBase extends BaseActivity implements Runnable, Http
         timeDuration = 0;
 
         loadFileData();
+        if(Utils.checkAds()){
+            loadFullAds();
+
+            mInterstitialAd.setAdListener(new AdListener() {
+                public void onAdLoaded() {
+                    mInterstitialAd.show();
+                }
+            });
+        }
     }
 
     private void showTestContent(TestContent testContent) {
@@ -105,8 +115,6 @@ public class QuestionActivityBase extends BaseActivity implements Runnable, Http
         String url = SERVER_BASE_PATH + currentFolder + currentFileName;
         HttpDownloadController.getInstance().startDownload(url, this);
     }
-
-
 
     private void showLoadFileError(){
         showMessage(R.string.can_not_read_file);
