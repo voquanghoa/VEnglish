@@ -74,7 +74,7 @@ public class QuestionActivityBase extends BaseActivity implements Runnable, Http
     }
 
     private void loadFileData(){
-        if(currentFileName.startsWith("assets")){
+        if(currentFolder.equals(ASSET_FOLDER)){
             try {
                 showData(AssetDataController.getInstance().loadTestFile(this, currentFileName));
             } catch (IOException e) {

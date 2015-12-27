@@ -11,6 +11,9 @@
         android:theme="@style/AppTheme"
         android:name=".application.EnglishForAllLevelApplication"
         >
+        <meta-data android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version"/>
+
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -18,10 +21,15 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".StudyOfflineActivity" />
-        <activity android:name=".GrammarActivity"/>
-        <activity android:name=".QuestionListActivity" />
-        <activity android:name=".ExaminationActivity" />
-
+        <activity android:name=".StudyOfflineActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"/>
+        <activity android:name=".GrammarActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"/>
+        <activity android:name=".QuestionListActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"/>
+        <activity android:name=".ExaminationActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"/>
+        <activity android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"/>
     </application>
 </manifest>

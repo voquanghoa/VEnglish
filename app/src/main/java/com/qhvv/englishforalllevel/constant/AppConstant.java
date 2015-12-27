@@ -9,6 +9,7 @@ public interface AppConstant {
 
     String GRAMMAR_FOLDER = "grammar/";
     String EXAMINATION_FOLDER = "examination/";
+    String ASSET_FOLDER = "assets/";
 
     String GRAMMAR_JSON_PATH = SERVER_BASE_PATH + GRAMMAR_FOLDER + JSON_DATA_FILE;
     String EXAMINATION_JSON_PATH = SERVER_BASE_PATH + EXAMINATION_FOLDER + JSON_DATA_FILE;
@@ -18,4 +19,9 @@ public interface AppConstant {
 
     String USER_RESULT_FILE = "user_result.json";
     String CHARSET = "UTF-8";
+
+    String PACKAGE_NAME = "voon.truongvan.english_for_all_level";
+    String APP_PACKAGE = "https://play.google.com/store/apps/details?id=" + PACKAGE_NAME;
+    String FACEBOOK_SHARE_PATH = "https://www.facebook.com/sharer/sharer.php?u=";
+    String FACEBOOK_SHARE_FULL_PATH = FACEBOOK_SHARE_PATH + APP_PACKAGE;
 }

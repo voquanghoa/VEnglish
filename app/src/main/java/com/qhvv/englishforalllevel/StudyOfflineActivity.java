@@ -13,6 +13,6 @@ public class StudyOfflineActivity extends FileSelectionActivity {
     }
 
     protected String getFolder() {
-        return null;
+        return ASSET_FOLDER;
     }
 }

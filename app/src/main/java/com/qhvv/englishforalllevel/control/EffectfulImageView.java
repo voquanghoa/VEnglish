@@ -66,10 +66,10 @@ public class EffectfulImageView extends ImageView {
 
     private void determinalClickEvent(MotionEvent event)
     {
-        boolean isVaildX = event.getX()>=0 && event.getX()<=this.getWidth();
-        boolean isVaildY = event.getY()>=0 && event.getY()<=this.getHeight();
+        boolean isValidX = event.getX()>=0 && event.getX()<=this.getWidth();
+        boolean isValidY = event.getY()>=0 && event.getY()<=this.getHeight();
 
-        if(isVaildX && isVaildY)
+        if(isValidX && isValidY)
         {
             try
             {
