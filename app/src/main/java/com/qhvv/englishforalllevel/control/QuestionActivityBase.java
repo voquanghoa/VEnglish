@@ -12,6 +12,7 @@ import com.qhvv.englishforalllevel.R;
 import com.qhvv.englishforalllevel.adapter.QuestionAnswerAdapter;
 import com.qhvv.englishforalllevel.constant.AppConstant;
 import com.qhvv.englishforalllevel.controller.AssetDataController;
+import com.qhvv.englishforalllevel.controller.FileCachingController;
 import com.qhvv.englishforalllevel.controller.HttpDownloadController;
 import com.qhvv.englishforalllevel.controller.OnlineDataController;
 import com.qhvv.englishforalllevel.controller.UserResultController;
@@ -61,32 +62,51 @@ public class QuestionActivityBase extends BaseActivity implements Runnable, Http
         loadFileData();
     }
 
-    private void showData(TestContent testContent){
-        questionAnswerAdapter = new QuestionAnswerAdapter(this, testContent);
-        new Thread(this).start();
-        runOnUiThread(new Runnable() {
-            public void run() {
-                synchronized (questionAnswerAdapter) {
-                    listView.setAdapter(questionAnswerAdapter);
+    private void showTestContent(TestContent testContent) {
+        try {
+            questionAnswerAdapter = new QuestionAnswerAdapter(this, testContent);
+            new Thread(this).start();
+            runOnUiThread(new Runnable() {
+                public void run() {
+                    synchronized (questionAnswerAdapter) {
+                        listView.setAdapter(questionAnswerAdapter);
+                    }
                 }
-            }
-        });
+            });
+        } catch (Exception e) {
+            showLoadFileError();
+            Utils.Log(e);
+        }
     }
 
     private void loadFileData(){
-        if(currentFolder.equals(ASSET_FOLDER)){
-            try {
-                showData(AssetDataController.getInstance().loadTestFile(this, currentFileName));
-            } catch (IOException e) {
-                showLoadFileError();
+        try{
+            if(currentFolder.equals(ASSET_FOLDER)){
+                showTestContent(AssetDataController.getInstance().loadTestFile(this, currentFileName));
+            }else{
+                String cacheContent = FileCachingController.getInstance().get(currentFolder + currentFileName);
+
+                if(cacheContent!=null && cacheContent.length()>0){
+                    showTestContent(OnlineDataController.getInstance().loadTestFile(cacheContent));
+                }else{
+                    startDownloadFile();
+                }
             }
-        }else{
-            showLoadingDialog();
-            setProgressMessage(R.string.downloading_file);
-            String url = SERVER_BASE_PATH + currentFolder + currentFileName;
-            HttpDownloadController.getInstance().startDownload(url, this);
+        }catch (IOException e){
+            showLoadFileError();
+            Utils.Log(e);
         }
+
     }
+
+    private void startDownloadFile() {
+        showLoadingDialog();
+        setProgressMessage(R.string.downloading_file);
+        String url = SERVER_BASE_PATH + currentFolder + currentFileName;
+        HttpDownloadController.getInstance().startDownload(url, this);
+    }
+
+
 
     private void showLoadFileError(){
         showMessage(R.string.can_not_read_file);
@@ -147,9 +167,12 @@ public class QuestionActivityBase extends BaseActivity implements Runnable, Http
         return decimalFormat.format(timeDuration / 60) + ":" + decimalFormat.format(timeDuration % 60);
     }
 
+
     public void onDownloadDone(String url, byte[] data) {
         try {
-            showData(OnlineDataController.getInstance().loadTestFile(data));
+            String fileContent = new String(data, "UTF-8");
+            FileCachingController.getInstance().add(currentFolder+currentFileName, fileContent);
+            showTestContent(OnlineDataController.getInstance().loadTestFile(fileContent));
         } catch (UnsupportedEncodingException e) {
             showLoadFileError();
         }finally {

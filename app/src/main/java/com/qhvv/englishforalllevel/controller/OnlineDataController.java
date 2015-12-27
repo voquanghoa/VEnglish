@@ -52,9 +52,8 @@ public class OnlineDataController implements IDataController {
         }
     }
 
-    public TestContent loadTestFile(byte[] data) throws UnsupportedEncodingException {
-        String strData = new String(data, "UTF-8");
-        ArrayList<String> lines = new ArrayList<>(Arrays.asList(strData.split("\n")));
+    public TestContent loadTestFile(String fileData) throws UnsupportedEncodingException {
+        ArrayList<String> lines = new ArrayList<>(Arrays.asList(fileData.split("\n")));
         return QuestionHelper.readQuestion(lines);
     }
 
