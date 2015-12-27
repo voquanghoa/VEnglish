@@ -12,6 +12,7 @@ import android.widget.Toast;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdSize;
 import com.google.android.gms.ads.AdView;
+import com.google.android.gms.ads.InterstitialAd;
 import com.qhvv.englishforalllevel.R;
 import com.qhvv.englishforalllevel.constant.AppConstant;
 
@@ -24,18 +25,39 @@ public class BaseActivity extends Activity implements DialogInterface.OnCancelLi
     private AdView adView;
     private static AdRequest adRequest;
 
+    protected InterstitialAd mInterstitialAd;
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         requestWindowFeature(Window.FEATURE_NO_TITLE);
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
 
         if(adRequest == null){
-            adRequest = new AdRequest.Builder()
-                    .addTestDevice(AdRequest.DEVICE_ID_EMULATOR)
-                    .addTestDevice("EF966C3E6FD639F322B1250C72187DF5")
-                    .addTestDevice("E62072DEC66B8E891FC23264834F5CCA")
-                    .build();
+            adRequest = createAdsRequest();
         }
+    }
+
+    protected void requestNewInterstitial() {
+        AdRequest adRequest = new AdRequest.Builder()
+                .addTestDevice(AdRequest.DEVICE_ID_EMULATOR)
+                .addTestDevice("EF966C3E6FD639F322B1250C72187DF5")
+                .addTestDevice("E62072DEC66B8E891FC23264834F5CCA")
+                .build();
+
+        mInterstitialAd.loadAd(adRequest);
+    }
+
+    protected void loadFullAds(){
+        mInterstitialAd = new InterstitialAd(this);
+        mInterstitialAd.setAdUnitId(getString(R.string.admob_id_full_screen));
+        requestNewInterstitial();
+    }
+
+    protected AdRequest createAdsRequest(){
+        return new AdRequest.Builder()
+                .addTestDevice(AdRequest.DEVICE_ID_EMULATOR)
+                .addTestDevice("EF966C3E6FD639F322B1250C72187DF5")
+                .addTestDevice("E62072DEC66B8E891FC23264834F5CCA")
+                .build();
     }
 
     public void setContentView(int layoutResID) {

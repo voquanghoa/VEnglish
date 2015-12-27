@@ -4,17 +4,37 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
+import com.google.android.gms.ads.AdListener;
 import com.qhvv.englishforalllevel.constant.AppConstant;
 import com.qhvv.englishforalllevel.control.BaseActivity;
 import com.qhvv.englishforalllevel.controller.AssetDataController;
 import com.qhvv.englishforalllevel.controller.HttpDownloadController;
 import com.qhvv.englishforalllevel.controller.OnlineDataController;
+import com.qhvv.englishforalllevel.util.Utils;
 
 public class MainActivity extends BaseActivity implements HttpDownloadController.IDownload, AppConstant {
+
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main_menu_layout);
         AssetDataController.getInstance().loadDataItem(this);
+
+        loadFullAds();
+
+        mInterstitialAd.setAdListener(new AdListener() {
+            public void onAdClosed() {
+                finish();
+            }
+        });
+    }
+
+    public void onBackPressed() {
+        if (mInterstitialAd.isLoaded()) {
+            mInterstitialAd.show();
+        } else {
+            Utils.Log("DID NOT LOAD FULL SCREEN ADS");
+            super.onBackPressed();
+        }
     }
 
     public void onGrammarClicked(View view){
@@ -65,5 +85,11 @@ public class MainActivity extends BaseActivity implements HttpDownloadController
 
     public void onDownloadProgress(int done, int total) {
         setProgressMessage("Download " + (done/1024)+" Kb/" + (total/1024)+" Kb.");
+    }
+
+
+
+    public void onDestroy() {
+        super.onDestroy();
     }
 }

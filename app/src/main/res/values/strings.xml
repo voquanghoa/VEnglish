@@ -9,7 +9,7 @@
     <string name="duration_time_format" formatted="false">%2d:%2d</string>
     <string name="delay_backkey_message">Please click BACK again to exit</string>
     <string name="admob_id">ca-app-pub-8190508285797907/3171395470</string>
-
+    <string name="admob_id_full_screen">ca-app-pub-3940256099942544/1033173712</string>
     <string name="downloading_file">Downloading file...</string>
     <string name="can_not_read_file">Can not read file.</string>
     <string name="download_fail_message">Can not download the file from server. Please check your internet connection.</string>
