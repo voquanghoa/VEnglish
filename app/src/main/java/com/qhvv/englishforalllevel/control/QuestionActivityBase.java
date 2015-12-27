@@ -181,7 +181,8 @@ public class QuestionActivityBase extends BaseActivity implements Runnable, Http
     }
 
     public void onDownloadFail(String message) {
-        showLoadFileError();
+        closeLoadingDialog();
+        showMessage(R.string.download_fail_message);
     }
 
     public void onDownloadProgress(int done, int total) {

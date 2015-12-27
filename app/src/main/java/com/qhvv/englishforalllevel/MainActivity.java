@@ -59,7 +59,8 @@ public class MainActivity extends BaseActivity implements HttpDownloadController
     }
 
     public void onDownloadFail(String message) {
-        showMessage("Download file fail !!!");
+        closeLoadingDialog();
+        showMessage(R.string.download_fail_message);
     }
 
     public void onDownloadProgress(int done, int total) {
