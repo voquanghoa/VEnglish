@@ -61,15 +61,6 @@ public class QuestionActivityBase extends BaseActivity implements Runnable, Http
         timeDuration = 0;
 
         loadFileData();
-        if(Utils.checkAds()){
-            loadFullAds();
-
-            mInterstitialAd.setAdListener(new AdListener() {
-                public void onAdLoaded() {
-                    mInterstitialAd.show();
-                }
-            });
-        }
     }
 
     private void showTestContent(TestContent testContent) {
@@ -118,12 +109,12 @@ public class QuestionActivityBase extends BaseActivity implements Runnable, Http
 
     private void showLoadFileError(){
         showMessage(R.string.can_not_read_file);
-        Utils.Log("Can not load file "+currentFileName);
+        Utils.Log("Can not load file " + currentFileName);
     }
 
     public void onSubmit(View view){
         if (questionAnswerAdapter ==null || questionAnswerAdapter.isShowAnswer()) {
-            this.finish();
+            this.userRequestFinishActivity();
         } else {
             AlertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(this);
             alertDialogBuilder
@@ -155,6 +146,23 @@ public class QuestionActivityBase extends BaseActivity implements Runnable, Http
                 }
             }, BACK_KEY_DELAY_TIME);
         } else {
+            this.userRequestFinishActivity();
+        }
+    }
+
+    private void userRequestFinishActivity(){
+        if(Utils.checkAds()){
+            loadFullAds();
+
+            mInterstitialAd.setAdListener(new AdListener() {
+                public void onAdLoaded() {
+                    mInterstitialAd.show();
+                }
+                public void onAdClosed(){
+                   QuestionActivityBase.this.finish();
+                }
+            });
+        }else{
             this.finish();
         }
     }
@@ -174,7 +182,6 @@ public class QuestionActivityBase extends BaseActivity implements Runnable, Http
     private String getDurationTime() {
         return decimalFormat.format(timeDuration / 60) + ":" + decimalFormat.format(timeDuration % 60);
     }
-
 
     public void onDownloadDone(String url, byte[] data) {
         try {
