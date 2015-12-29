@@ -122,7 +122,7 @@ public class QuestionActivityBase extends BaseActivity implements Runnable, Http
     }
 
     public void onSubmit(View view){
-        if (questionAnswerAdapter.isShowAnswer()) {
+        if (questionAnswerAdapter ==null || questionAnswerAdapter.isShowAnswer()) {
             this.finish();
         } else {
             AlertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(this);
@@ -146,7 +146,7 @@ public class QuestionActivityBase extends BaseActivity implements Runnable, Http
     }
 
     public void onBackPressed() {
-        if (isDelayFinish && !questionAnswerAdapter.isShowAnswer()) {
+        if (isDelayFinish && questionAnswerAdapter!=null && !questionAnswerAdapter.isShowAnswer()) {
             showMessage(R.string.delay_backkey_message);
             isDelayFinish = false;
             new Handler().postDelayed(new Runnable() {
@@ -190,6 +190,7 @@ public class QuestionActivityBase extends BaseActivity implements Runnable, Http
 
     public void onDownloadFail(String message) {
         closeLoadingDialog();
+        submitButton.setText(R.string.finish);
         showMessage(R.string.download_fail_message);
     }
 

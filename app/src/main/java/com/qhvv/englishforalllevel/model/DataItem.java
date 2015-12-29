@@ -1,5 +1,6 @@
 package com.qhvv.englishforalllevel.model;
 
+import java.util.ArrayList;
 import java.util.List;
 
 
@@ -8,6 +9,9 @@ public class DataItem {
     private String display;
     private List<DataItem> children;
 
+    public DataItem(){
+        children = new ArrayList<>();
+    }
 
     public String getFileName() {
         return fileName;
