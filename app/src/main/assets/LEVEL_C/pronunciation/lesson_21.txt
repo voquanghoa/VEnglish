@@ -1,71 +1,71 @@
 1.
-a. <u><font color='red'>va</font></u>lid
-b. <u><font color='red'>va</font></u>liant
-c. <u><font color='red'>va</font></u>lley
-d.  <u><font color='red'>va</font></u>lise
+<u><font color='red'>va</font></u>lid
+<u><font color='red'>va</font></u>liant
+<u><font color='red'>va</font></u>lley
+ <u><font color='red'>va</font></u>lise
 
 2.
-a.  mech<u><font color='red'>a</font></u>nics
-b. mech<u><font color='red'>a</font></u>nise
-c. mech<u><font color='red'>a</font></u>nism
-d. mech<u><font color='red'>a</font></u>nist
+ mech<u><font color='red'>a</font></u>nics
+mech<u><font color='red'>a</font></u>nise
+mech<u><font color='red'>a</font></u>nism
+mech<u><font color='red'>a</font></u>nist
 
 3.
-a.  ya<u><font color='red'>ch</font></u>t
-b. chur<u><font color='red'>ch</font></u>
-c. <u><font color='red'>ch</font></u>ange
-d. <u><font color='red'>ch</font></u>eat
+ ya<u><font color='red'>ch</font></u>t
+chur<u><font color='red'>ch</font></u>
+<u><font color='red'>ch</font></u>ange
+<u><font color='red'>ch</font></u>eat
 
 4.
-a.  gin<u><font color='red'>g</font></u>er
-b. in<u><font color='red'>g</font></u>redient
-c. dialo<u><font color='red'>g</font></u>ue
-d. lea<u><font color='red'>g</font></u>ue
+ gin<u><font color='red'>g</font></u>er
+in<u><font color='red'>g</font></u>redient
+dialo<u><font color='red'>g</font></u>ue
+lea<u><font color='red'>g</font></u>ue
 
 5.
-a. vi<u><font color='red'>s</font></u>ion
-b.  ten<u><font color='red'>s</font></u>ion
-c. lei<u><font color='red'>s</font></u>ure
-d. ca<u><font color='red'>s</font></u>ualty
+vi<u><font color='red'>s</font></u>ion
+ ten<u><font color='red'>s</font></u>ion
+lei<u><font color='red'>s</font></u>ure
+ca<u><font color='red'>s</font></u>ualty
 
 6.
-a.  st<u><font color='red'>a</font></u>re
-b. d<u><font color='red'>a</font></u>te
-c. f<u><font color='red'>a</font></u>te
-d. st<u><font color='red'>a</font></u>te
+ st<u><font color='red'>a</font></u>re
+d<u><font color='red'>a</font></u>te
+f<u><font color='red'>a</font></u>te
+st<u><font color='red'>a</font></u>te
 
 1.
-a.  brea<u><font color='red'>th</font></u>e
-b. au<u><font color='red'>th</font></u>ority
-c. bir<u><font color='red'>th</font></u>day
-d. <u><font color='red'>th</font></u>eory
+ brea<u><font color='red'>th</font></u>e
+au<u><font color='red'>th</font></u>ority
+bir<u><font color='red'>th</font></u>day
+<u><font color='red'>th</font></u>eory
 
 2.
-a. p<u><font color='red'>oo</font></u>dle
-b. b<u><font color='red'>oo</font></u>t
-c.  fl<u><font color='red'>oo</font></u>d
-d. sm<u><font color='red'>oo</font></u>th
+p<u><font color='red'>oo</font></u>dle
+b<u><font color='red'>oo</font></u>t
+ fl<u><font color='red'>oo</font></u>d
+sm<u><font color='red'>oo</font></u>th
 
 3.
-a. f<u><font color='red'>a</font></u>mous
-b.  <u><font color='red'>a</font></u>nother
-c. railw<u><font color='red'>a</font></u>y
-d. <u><font color='red'>a</font></u>che
+f<u><font color='red'>a</font></u>mous
+ <u><font color='red'>a</font></u>nother
+railw<u><font color='red'>a</font></u>y
+<u><font color='red'>a</font></u>che
 
 4.
-a.  loo<u><font color='red'>se</font></u>
-b. ro<u><font color='red'>se</font></u>
-c. tea<u><font color='red'>se</font></u>
-d. po<u><font color='red'>se</font></u>
+ loo<u><font color='red'>se</font></u>
+ro<u><font color='red'>se</font></u>
+tea<u><font color='red'>se</font></u>
+po<u><font color='red'>se</font></u>
 
 5.
-a.  <u><font color='red'>th</font></u>y
-b. <u><font color='red'>th</font></u>irty
-c. brea<u><font color='red'>th</font></u>
-d. clo<u><font color='red'>th</font></u>
+ <u><font color='red'>th</font></u>y
+<u><font color='red'>th</font></u>irty
+brea<u><font color='red'>th</font></u>
+clo<u><font color='red'>th</font></u>
 
 6.
-a.  <u><font color='red'>th</font></u>in
-b. <u><font color='red'>th</font></u>is
-c. <u><font color='red'>th</font></u>an
-d. <u><font color='red'>th</font></u>ere
+ <u><font color='red'>th</font></u>in
+<u><font color='red'>th</font></u>is
+<u><font color='red'>th</font></u>an
+<u><font color='red'>th</font></u>ere

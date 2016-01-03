@@ -1,65 +1,65 @@
 Pronunciation
 1.
-a. g<u><font color='red'>i</font></u>rl
-b. st<u><font color='red'>i</font></u>r
-c.  g<u><font color='red'>i</font></u>raffe
-d. f<u><font color='red'>i</font></u>rm
+g<u><font color='red'>i</font></u>rl
+st<u><font color='red'>i</font></u>r
+ g<u><font color='red'>i</font></u>raffe
+f<u><font color='red'>i</font></u>rm
 
 2.
-a. fr<u><font color='red'>o</font></u>m
-b. pr<u><font color='red'>o</font></u>mpt
-c. b<u><font color='red'>o</font></u>mb
-d.  t<u><font color='red'>o</font></u>mb
+fr<u><font color='red'>o</font></u>m
+pr<u><font color='red'>o</font></u>mpt
+b<u><font color='red'>o</font></u>mb
+ t<u><font color='red'>o</font></u>mb
 
 3.
-a. b<u><font color='red'>ou</font></u>ght
-b.  dr<u><font color='red'>ou</font></u>ght
-c. s<u><font color='red'>ou</font></u>ght
-d. th<u><font color='red'>ou</font></u>ght
+b<u><font color='red'>ou</font></u>ght
+ dr<u><font color='red'>ou</font></u>ght
+s<u><font color='red'>ou</font></u>ght
+th<u><font color='red'>ou</font></u>ght
 
 4.
-a.  m<u><font color='red'>o</font></u>nkey
-b. gr<u><font color='red'>o</font></u>cer
-c. c<u><font color='red'>o</font></u>mb
-d. <u><font color='red'>o</font></u>cean
+ m<u><font color='red'>o</font></u>nkey
+gr<u><font color='red'>o</font></u>cer
+c<u><font color='red'>o</font></u>mb
+<u><font color='red'>o</font></u>cean
 
 5.
-a. p<u><font color='red'>a</font></u>rk
-b.  p<u><font color='red'>a</font></u>tch
-c. b<u><font color='red'>a</font></u>rn
-d. m<u><font color='red'>a</font></u>rch
+p<u><font color='red'>a</font></u>rk
+ p<u><font color='red'>a</font></u>tch
+b<u><font color='red'>a</font></u>rn
+m<u><font color='red'>a</font></u>rch
 
 6.
-a. c<u><font color='red'>o</font></u>mpany
-b.  c<u><font color='red'>o</font></u>mpare
-c. c<u><font color='red'>o</font></u>ver
-d. gl<u><font color='red'>o</font></u>ve
+c<u><font color='red'>o</font></u>mpany
+ c<u><font color='red'>o</font></u>mpare
+c<u><font color='red'>o</font></u>ver
+gl<u><font color='red'>o</font></u>ve
 
 7.
-a. r<u><font color='red'>u</font></u>bber
-b.  b<u><font color='red'>u</font></u>tcher
-c. s<u><font color='red'>u</font></u>btle
-d. sh<u><font color='red'>u</font></u>ttle
+r<u><font color='red'>u</font></u>bber
+ b<u><font color='red'>u</font></u>tcher
+s<u><font color='red'>u</font></u>btle
+sh<u><font color='red'>u</font></u>ttle
 
 
 Find the mistakes
 8. The blind <u><font color='red'>is</font></u> <u><font color='red'>unable</font></u> <u><font color='red'>to see</font></u> <u><font color='red'>anything</font></u>.
-a.  is
-b. unable
-c. to see
-d. anything
+ is
+unable
+to see
+anything
 
 9. "<u><font color='red'>How far</font></u> Vietnamese <u><font color='red'>do</font></u> you <u><font color='red'>know</font></u>?� <u><font color='red'>asked</font></u> my friend.
-a.  How far
-b. do
-c. know
-d. asked
+ How far
+do
+know
+asked
 
 10. I <u><font color='red'>will come</font></u> <u><font color='red'>back</font></u> as <u><font color='red'>quickly</font></u> as <u><font color='red'>possible</font></u>.
-a. will come
-b. back
-c.  quickly
-d. possible
+will come
+back
+ quickly
+possible
 
 
 Grammar and Vocabulary
@@ -159,7 +159,7 @@ on
 at
 to
 
-17. I would go to the seaside if the weather ________ good. 
+17. I would go to the seaside if the weather ________ good . 
  were
 is
 has been

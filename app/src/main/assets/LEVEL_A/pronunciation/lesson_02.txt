@@ -1,71 +1,71 @@
 1.
-a. interm<u><font color='red'>e</font></u>diate
-b. imm<u><font color='red'>e</font></u>diate
-c. m<u><font color='red'>e</font></u>dium
-d.  m<u><font color='red'>e</font></u>dicine
+interm<u><font color='red'>e</font></u>diate
+imm<u><font color='red'>e</font></u>diate
+m<u><font color='red'>e</font></u>dium
+ m<u><font color='red'>e</font></u>dicine
 
 2.
-a.  cl<u><font color='red'>i</font></u>mb
-b. d<u><font color='red'>i</font></u>ctionary
-c. phys<u><font color='red'>i</font></u>cs
-d. s<u><font color='red'>i</font></u>x
+ cl<u><font color='red'>i</font></u>mb
+d<u><font color='red'>i</font></u>ctionary
+phys<u><font color='red'>i</font></u>cs
+s<u><font color='red'>i</font></u>x
 
 3.
-a. dict<u><font color='red'>a</font></u>tion
-b. pl<u><font color='red'>a</font></u>ce
-c. st<u><font color='red'>a</font></u>tion
-d.  th<u><font color='red'>a</font></u>nk
+dict<u><font color='red'>a</font></u>tion
+pl<u><font color='red'>a</font></u>ce
+st<u><font color='red'>a</font></u>tion
+ th<u><font color='red'>a</font></u>nk
 
 4.
-a. st<u><font color='red'>u</font></u>dent
-b. st<u><font color='red'>u</font></u>pid
-c.  st<u><font color='red'>u</font></u>bby
-d. st<u><font color='red'>u</font></u>dio
+st<u><font color='red'>u</font></u>dent
+st<u><font color='red'>u</font></u>pid
+ st<u><font color='red'>u</font></u>bby
+st<u><font color='red'>u</font></u>dio
 
 5.
-a. str<u><font color='red'>a</font></u>nge
-b. ch<u><font color='red'>a</font></u>nge
-c.  ch<u><font color='red'>a</font></u>nce
-d. n<u><font color='red'>a</font></u>me
+str<u><font color='red'>a</font></u>nge
+ch<u><font color='red'>a</font></u>nge
+ ch<u><font color='red'>a</font></u>nce
+n<u><font color='red'>a</font></u>me
 
 6.
-a. amu<u><font color='red'>s</font></u>ing
-b. ro<u><font color='red'>s</font></u>e
-c. lo<u><font color='red'>s</font></u>e
-d.  hou<u><font color='red'>s</font></u>e
+amu<u><font color='red'>s</font></u>ing
+ro<u><font color='red'>s</font></u>e
+lo<u><font color='red'>s</font></u>e
+ hou<u><font color='red'>s</font></u>e
 
 1.
-a.  <u><font color='red'>th</font></u>ink
-b. <u><font color='red'>th</font></u>e
-c. <u><font color='red'>th</font></u>at
-d. <u><font color='red'>th</font></u>en
+ <u><font color='red'>th</font></u>ink
+<u><font color='red'>th</font></u>e
+<u><font color='red'>th</font></u>at
+<u><font color='red'>th</font></u>en
 
 2.
-a. b<u><font color='red'>e</font></u>t
-b. b<u><font color='red'>e</font></u>d
-c. m<u><font color='red'>e</font></u>n
-d.  b<u><font color='red'>e</font></u>low
+b<u><font color='red'>e</font></u>t
+b<u><font color='red'>e</font></u>d
+m<u><font color='red'>e</font></u>n
+ b<u><font color='red'>e</font></u>low
 
 3.
-a. f<u><font color='red'>ew</font></u>
-b. n<u><font color='red'>ew</font></u>
-c.  gr<u><font color='red'>ew</font></u>
-d. kn<u><font color='red'>ew</font></u>
+f<u><font color='red'>ew</font></u>
+n<u><font color='red'>ew</font></u>
+ gr<u><font color='red'>ew</font></u>
+kn<u><font color='red'>ew</font></u>
 
 4.
-a. nic<u><font color='red'>est</font></u>
-b. short<u><font color='red'>est</font></u>
-c. hott<u><font color='red'>est</font></u>
-d.  gu<u><font color='red'>est</font></u>
+nic<u><font color='red'>est</font></u>
+short<u><font color='red'>est</font></u>
+hott<u><font color='red'>est</font></u>
+ gu<u><font color='red'>est</font></u>
 
 5.
-a. b<u><font color='red'>a</font></u>re
-b. d<u><font color='red'>a</font></u>re
-c. c<u><font color='red'>a</font></u>re
-d.  f<u><font color='red'>a</font></u>r
+b<u><font color='red'>a</font></u>re
+d<u><font color='red'>a</font></u>re
+c<u><font color='red'>a</font></u>re
+ f<u><font color='red'>a</font></u>r
 
 6.
-a. <u><font color='red'>c</font></u>ould
-b.  <u><font color='red'>c</font></u>ell
-c. <u><font color='red'>c</font></u>all
-d. <u><font color='red'>c</font></u>old
+<u><font color='red'>c</font></u>ould
+ <u><font color='red'>c</font></u>ell
+<u><font color='red'>c</font></u>all
+<u><font color='red'>c</font></u>old

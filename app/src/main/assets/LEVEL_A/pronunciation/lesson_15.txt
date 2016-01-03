@@ -1,71 +1,71 @@
 1.
-a. bro<u><font color='red'>th</font></u>er
-b. <u><font color='red'>th</font></u>ere
-c.  <u><font color='red'>th</font></u>ought
-d. <u><font color='red'>th</font></u>ey
+bro<u><font color='red'>th</font></u>er
+<u><font color='red'>th</font></u>ere
+ <u><font color='red'>th</font></u>ought
+<u><font color='red'>th</font></u>ey
 
 2.
-a. f<u><font color='red'>i</font></u>ne
-b. sh<u><font color='red'>i</font></u>ne
-c. d<u><font color='red'>i</font></u>ne
-d.  th<u><font color='red'>i</font></u>nk
+f<u><font color='red'>i</font></u>ne
+sh<u><font color='red'>i</font></u>ne
+d<u><font color='red'>i</font></u>ne
+ th<u><font color='red'>i</font></u>nk
 
 3.
-a. <u><font color='red'>s</font></u>eat
-b. <u><font color='red'>s</font></u>ay
-c.  <u><font color='red'>s</font></u>urely
-d. <u><font color='red'>s</font></u>and
+<u><font color='red'>s</font></u>eat
+<u><font color='red'>s</font></u>ay
+ <u><font color='red'>s</font></u>urely
+<u><font color='red'>s</font></u>and
 
 4.
-a. <u><font color='red'>h</font></u>ouse
-b.  <u><font color='red'>h</font></u>onest
-c. <u><font color='red'>h</font></u>eat
-d. <u><font color='red'>h</font></u>and
+<u><font color='red'>h</font></u>ouse
+ <u><font color='red'>h</font></u>onest
+<u><font color='red'>h</font></u>eat
+<u><font color='red'>h</font></u>and
 
 5.
-a. enou<u><font color='red'>gh</font></u>
-b. cou<u><font color='red'>gh</font></u>
-c.  hi<u><font color='red'>gh</font></u>
-d. rou<u><font color='red'>gh</font></u>
+enou<u><font color='red'>gh</font></u>
+cou<u><font color='red'>gh</font></u>
+ hi<u><font color='red'>gh</font></u>
+rou<u><font color='red'>gh</font></u>
 
 6.
-a. f<u><font color='red'>ew</font></u>
-b.  l<u><font color='red'>ew</font></u>is
-c. ph<u><font color='red'>ew</font></u>
-d. h<u><font color='red'>ew</font></u>
+f<u><font color='red'>ew</font></u>
+ l<u><font color='red'>ew</font></u>is
+ph<u><font color='red'>ew</font></u>
+h<u><font color='red'>ew</font></u>
 
 1.
-a. forb<u><font color='red'>i</font></u>d
-b.  p<u><font color='red'>i</font></u>le
-c. br<u><font color='red'>i</font></u>ng
-d. dr<u><font color='red'>i</font></u>ll
+forb<u><font color='red'>i</font></u>d
+ p<u><font color='red'>i</font></u>le
+br<u><font color='red'>i</font></u>ng
+dr<u><font color='red'>i</font></u>ll
 
 2.
-a. <u><font color='red'>s</font></u>uit
-b. <u><font color='red'>s</font></u>even
-c.  <u><font color='red'>s</font></u>ugar
-d. <u><font color='red'>s</font></u>un
+<u><font color='red'>s</font></u>uit
+<u><font color='red'>s</font></u>even
+ <u><font color='red'>s</font></u>ugar
+<u><font color='red'>s</font></u>un
 
 3.
-a.  a<u><font color='red'>cc</font></u>urate
-b. a<u><font color='red'>cc</font></u>ept
-c. a<u><font color='red'>cc</font></u>ident
-d. su<u><font color='red'>cc</font></u>ess
+ a<u><font color='red'>cc</font></u>urate
+a<u><font color='red'>cc</font></u>ept
+a<u><font color='red'>cc</font></u>ident
+su<u><font color='red'>cc</font></u>ess
 
 4.
-a. h<u><font color='red'>a</font></u>ppy
-b. m<u><font color='red'>a</font></u>n
-c.  c<u><font color='red'>a</font></u>bal
-d. f<u><font color='red'>a</font></u>t
+h<u><font color='red'>a</font></u>ppy
+m<u><font color='red'>a</font></u>n
+ c<u><font color='red'>a</font></u>bal
+f<u><font color='red'>a</font></u>t
 
 5.
-a. h<u><font color='red'>e</font></u>r
-b. w<u><font color='red'>e</font></u>re
-c. p<u><font color='red'>e</font></u>rson
-d.  wh<u><font color='red'>e</font></u>re
+h<u><font color='red'>e</font></u>r
+w<u><font color='red'>e</font></u>re
+p<u><font color='red'>e</font></u>rson
+ wh<u><font color='red'>e</font></u>re
 
 6.
-a.  <u><font color='red'>c</font></u>at
-b. <u><font color='red'>c</font></u>eiling
-c. ni<u><font color='red'>c</font></u>e
-d. <u><font color='red'>c</font></u>enter
+ <u><font color='red'>c</font></u>at
+<u><font color='red'>c</font></u>eiling
+ni<u><font color='red'>c</font></u>e
+<u><font color='red'>c</font></u>enter

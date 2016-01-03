@@ -88,7 +88,7 @@ going
 to go
  go
 
-16.  Which city did you like most?  I enjoyed all of the cities on the tour, but the city ________ I enjoyed most was Miami, Florida. 
+16.  Which city did you like most?  I enjoyed all of the cities on the tour, but the city ________ I enjoyed most was Miami, Florida . 
 what
  that
 where

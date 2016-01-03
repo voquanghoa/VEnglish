@@ -40,7 +40,7 @@ didn't tell
 doesn't tell
 don't tell
 
-8. I'm very tired. I ________ all morning. 
+8. I'm very tired . I ________ all morning. 
 work
 was worked
 am working
@@ -88,7 +88,7 @@ few
 little
 a little
 
-16. He is a good student. He always ________ his hand. 
+16. He is a good student. He always ________ his hand . 
 rises
  raises
 arises

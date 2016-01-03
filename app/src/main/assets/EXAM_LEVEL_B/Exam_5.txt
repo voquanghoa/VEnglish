@@ -1,71 +1,71 @@
 Pronunciation
 1. 
-a.  m<u><font color='red'>a</font></u>jor	
-b. c<u><font color='red'>a</font></u>lf	
-c. h<u><font color='red'>a</font></u>lf	
-d. <u><font color='red'>a</font></u>fter
+ m<u><font color='red'>a</font></u>jor	
+c<u><font color='red'>a</font></u>lf	
+h<u><font color='red'>a</font></u>lf	
+<u><font color='red'>a</font></u>fter
 
 2. 
-a.  m<u><font color='red'>a</font></u>chine	
-b. m<u><font color='red'>a</font></u>gic	
-c. m<u><font color='red'>a</font></u>gnet	
-d. m<u><font color='red'>a</font></u>g
+ m<u><font color='red'>a</font></u>chine	
+m<u><font color='red'>a</font></u>gic	
+m<u><font color='red'>a</font></u>gnet	
+m<u><font color='red'>a</font></u>g
 
 3. 
-a. dea<u><font color='red'>th</font></u>	
-b. six<u><font color='red'>th</font></u>	
-c. my<u><font color='red'>th</font></u>	
-d.  wi<u><font color='red'>th</font></u>
+dea<u><font color='red'>th</font></u>	
+six<u><font color='red'>th</font></u>	
+my<u><font color='red'>th</font></u>	
+ wi<u><font color='red'>th</font></u>
 
 4. 
-a. <u><font color='red'>g</font></u>uest	
-b. a<u><font color='red'>g</font></u>ain	
-c.  <u><font color='red'>g</font></u>ene	
-d. <u><font color='red'>g</font></u>audy
+<u><font color='red'>g</font></u>uest	
+a<u><font color='red'>g</font></u>ain	
+ <u><font color='red'>g</font></u>ene	
+<u><font color='red'>g</font></u>audy
 
 5. 
-a. <u><font color='red'>th</font></u>ink	
-b. steal<u><font color='red'>th</font></u>	
-c. sympa<u><font color='red'>th</font></u>y	
-d.  <u><font color='red'>th</font></u>ese
+<u><font color='red'>th</font></u>ink	
+steal<u><font color='red'>th</font></u>	
+sympa<u><font color='red'>th</font></u>y	
+ <u><font color='red'>th</font></u>ese
 
 6. 
-a. s<u><font color='red'>u</font></u>gar	
-b.  l<u><font color='red'>u</font></u>nar	
-c. b<u><font color='red'>u</font></u>llet	
-d. p<u><font color='red'>u</font></u>llover
+s<u><font color='red'>u</font></u>gar	
+ l<u><font color='red'>u</font></u>nar	
+b<u><font color='red'>u</font></u>llet	
+p<u><font color='red'>u</font></u>llover
 
 
 Find the mistakes
 7. Henry objects to <u><font color='red'>our buying</font></u> this house <u><font color='red'>without the approval</font></u> <u><font color='red'>of our attorney</font></u>, and <u><font color='red'>John does so</font></u>.
-a. our buying
-b. without the approval
-c. of our attorney
-d.  John does so
+our buying
+without the approval
+of our attorney
+ John does so
 
 8. Rita enjoyed <u><font color='red'>to be</font></u> <u><font color='red'>able to meet</font></u> <u><font color='red'>several</font></u> members of Congress during <u><font color='red'>her vacation</font></u>.
-a.  to be
-b. able to meet
-c. several
-d. her vacation
+ to be
+able to meet
+several
+her vacation
 
 9. Harry's advisor persuaded <u><font color='red'>his taking</font></u> several courses <u><font color='red'>which</font></u> did <u><font color='red'>not involve</font></u> <u><font color='red'>much knowledge of mathematics</font></u>.
-a.  his taking
-b. which
-c. not involve
-d. much knowledge of mathematics
+ his taking
+which
+not involve
+much knowledge of mathematics
 
 10. The work performed <u><font color='red'>by these officers</font></u> <u><font color='red'>are</font></u> not <u><font color='red'>worth our paying</font></u> <u><font color='red'>them any longer</font></u>.
-a. by these officers
-b.  are
-c. worth our paying
-d. them any longer
+by these officers
+ are
+worth our paying
+them any longer
 
 11. <u><font color='red'>The</font></u> president went <u><font color='red'>fishing</font></u> <u><font color='red'>after</font></u> he <u><font color='red'>has finished</font></u> with the conferences.
-a. The
-b. fishing
-c. after
-d.  has finished
+The
+fishing
+after
+ has finished
 
 
 Grammar and Vocabulary
@@ -105,7 +105,7 @@ is working
 work to
  to work
  
-7. His parents made him ________ very hard. 
+7. His parents made him ________ very hard . 
  work
 to work
 work to
@@ -183,7 +183,7 @@ few
 many
 little
 
-20. There is no necessary connection between a dollar and what can be purchased for a dollar; the value of money is ________ and can be ________ by supply and demand. 
+20. There is no necessary connection between a dollar and what can be purchased for a dollar; the value of money is ________ and can be ________ by supply and demand . 
  arbitrary … altered
 predetermined …overruled
 conventional … inspired

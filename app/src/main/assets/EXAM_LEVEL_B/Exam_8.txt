@@ -1,70 +1,70 @@
 Pronunciation
 1. 
-a. m<u><font color='red'>a</font></u>tch	
-b.  m<u><font color='red'>ar</font></u>ket	
-c. t<u><font color='red'>a</font></u>p	
-d. c<u><font color='red'>a</font></u>p
+m<u><font color='red'>a</font></u>tch	
+ m<u><font color='red'>ar</font></u>ket	
+t<u><font color='red'>a</font></u>p	
+c<u><font color='red'>a</font></u>p
 
 2. 
-a. b<u><font color='red'>oo</font></u>k  	
-b. l<u><font color='red'>oo</font></u>k	
-c.  fl<u><font color='red'>oo</font></u>r	
-d. h<u><font color='red'>oo</font></u>k
+b<u><font color='red'>oo</font></u>k  	
+l<u><font color='red'>oo</font></u>k	
+ fl<u><font color='red'>oo</font></u>r	
+h<u><font color='red'>oo</font></u>k
 
 3. 
-a. h<u><font color='red'>i</font></u>re	
-b. f<u><font color='red'>i</font></u>nd	
-c. f<u><font color='red'>i</font></u>le	
-d.  f<u><font color='red'>i</font></u>lm
+h<u><font color='red'>i</font></u>re	
+f<u><font color='red'>i</font></u>nd	
+f<u><font color='red'>i</font></u>le	
+ f<u><font color='red'>i</font></u>lm
 
 4. 
-a.  h<u><font color='red'>a</font></u>te	
-b. f<u><font color='red'>a</font></u>t	
-c. c<u><font color='red'>a</font></u>t	
-d. b<u><font color='red'>a</font></u>t
+ h<u><font color='red'>a</font></u>te	
+f<u><font color='red'>a</font></u>t	
+c<u><font color='red'>a</font></u>t	
+b<u><font color='red'>a</font></u>t
 
 5. 
-a. s<u><font color='red'>u</font></u>n	
-b.  p<u><font color='red'>u</font></u>ll	
-c. f<u><font color='red'>u</font></u>n	
-d. h<u><font color='red'>u</font></u>nt
+s<u><font color='red'>u</font></u>n	
+ p<u><font color='red'>u</font></u>ll	
+f<u><font color='red'>u</font></u>n	
+h<u><font color='red'>u</font></u>nt
 
 6. 
-a. p<u><font color='red'>a</font></u>rdon	
-b. h<u><font color='red'>a</font></u>rd	
-c.  p<u><font color='red'>a</font></u>rent	
-d. p<u><font color='red'>a</font></u>rk
+p<u><font color='red'>a</font></u>rdon	
+h<u><font color='red'>a</font></u>rd	
+ p<u><font color='red'>a</font></u>rent	
+p<u><font color='red'>a</font></u>rk
 
 Find the mistakes
 7. Catherine <u><font color='red'>is studying</font></u> <u><font color='red'>law</font></u> <u><font color='red'>at the university</font></u>, and <u><font color='red'>so does John</font></u>.
-a. is studying
-b. law
-c. at the university
-d.  so does John
+is studying
+law
+at the university
+ so does John
 
 8. The company <u><font color='red'>has</font></u> <u><font color='red'>so little</font></u> money <u><font color='red'>that it</font></u> <u><font color='red'>can't hardly</font></u> operate anymore.
-a. has
-b. so little
-c. that it
-d.  can't hardly
+has
+so little
+that it
+ can't hardly
 
 9. <u><font color='red'>My cousin</font></u> attends <u><font color='red'>an university</font></u> in the Midwest which <u><font color='red'>specializes</font></u> <u><font color='red'>in astronomy</font></u>.
-a. My cousin
-b.  an university
-c. specializes
-d. in astronomy
+My cousin
+ an university
+specializes
+in astronomy
 
 10. The students <u><font color='red'>were</font></u> <u><font color='red'>interested</font></u> <u><font color='red'>in take</font></u> a field trip to The National History Museum, but they <u><font color='red'>were not able to raise</font></u> enough money.
-a. were
-b. interested
-c.  in take
-d. were not able to raise
+were
+interested
+ in take
+were not able to raise
 
 11. <u><font color='red'>Us students</font></u> <u><font color='red'>would rather not attend</font></u> night classes in the summer, but <u><font color='red'>we</font></u> often <u><font color='red'>have to</font></u>.
-a.  Us students
-b. would rather not attend
-c. we
-d. have to
+ Us students
+would rather not attend
+we
+have to
 
 Grammar and Vocabulary
 1. He hoped the appointment would enable him to gain greater ________ in publishing. 
@@ -115,7 +115,7 @@ isn't coming
 doesn't come
 don't come
 
-9. I've decided to join ________ this club. 
+9. I've decided to join ________ this club . 
 to
 at
  -
@@ -169,7 +169,7 @@ length
 breadth
  height
  
-18. Studying late at night is one of those things that ________ me tired. 
+18. Studying late at night is one of those things that ________ me tired . 
  make
 are making
 makes

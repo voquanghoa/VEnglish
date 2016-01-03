@@ -1,52 +1,52 @@
 Pronunciation
 1.
-a.  <u><font color='red'>ch</font></u>oir
-b. <u><font color='red'>ch</font></u>at
-c. <u><font color='red'>ch</font></u>op
-d. <u><font color='red'>ch</font></u>alk
+ <u><font color='red'>ch</font></u>oir
+<u><font color='red'>ch</font></u>at
+<u><font color='red'>ch</font></u>op
+<u><font color='red'>ch</font></u>alk
 
 2.
-a.  t<u><font color='red'>i</font></u>n
-b. t<u><font color='red'>i</font></u>dy
-c. t<u><font color='red'>i</font></u>mer
-d. t<u><font color='red'>i</font></u>tle
+ t<u><font color='red'>i</font></u>n
+t<u><font color='red'>i</font></u>dy
+t<u><font color='red'>i</font></u>mer
+t<u><font color='red'>i</font></u>tle
 
 3.
-a. t<u><font color='red'>y</font></u>pe
-b. t<u><font color='red'>y</font></u>phoon
-c.  t<u><font color='red'>y</font></u>pical
-d. st<u><font color='red'>y</font></u>le
+t<u><font color='red'>y</font></u>pe
+t<u><font color='red'>y</font></u>phoon
+ t<u><font color='red'>y</font></u>pical
+st<u><font color='red'>y</font></u>le
 
 4.
-a. n<u><font color='red'>ie</font></u>ce
-b. p<u><font color='red'>ie</font></u>ce
-c.  cl<u><font color='red'>ie</font></u>nt
-d. br<u><font color='red'>ie</font></u>f
+n<u><font color='red'>ie</font></u>ce
+p<u><font color='red'>ie</font></u>ce
+ cl<u><font color='red'>ie</font></u>nt
+br<u><font color='red'>ie</font></u>f
 
 5.
-a. f<u><font color='red'>oo</font></u>t
-b. b<u><font color='red'>oo</font></u>k
-c. st<u><font color='red'>oo</font></u>d
-d.  fl<u><font color='red'>oo</font></u>d
+f<u><font color='red'>oo</font></u>t
+b<u><font color='red'>oo</font></u>k
+st<u><font color='red'>oo</font></u>d
+ fl<u><font color='red'>oo</font></u>d
 
 Find the mistakes
 6. <u><font color='red'>Let's</font></u> <u><font color='red'>wait</font></u> <u><font color='red'>in</font></u> the zebra <u><font color='red'>crossings</font></u>.
-a. Let's
-b. wait
-c.  in
-d. crossings
+Let's
+wait
+ in
+crossings
 
 7. There <u><font color='red'>is</font></u> <u><font color='red'>many</font></u> <u><font color='red'>traffic</font></u> <u><font color='red'>in</font></u> the city center.
-a. is
-b.  many
-c. traffic
-d. in
+is
+ many
+traffic
+in
 
 8. The children <u><font color='red'>hurried</font></u> to <u><font color='red'>the</font></u> bus station. They <u><font color='red'>were</font></u> <u><font color='red'>afraid to</font></u> missing the last bus.
-a. hurried
-b. the
-c. were
-d.  afraid to
+hurried
+the
+were
+ afraid to
 
 Grammar and Vocabulary
  Kate is pretty, but not so pretty ________ Jenny. 
@@ -73,7 +73,7 @@ You're falling
  You'll fall
 Will you fall
 
-5.  I'm afraid I've broken your umbrella.  ________. 
+5.  I'm afraid I've broken your umbrella .  ________. 
 Don't mention it
 Not at all
 It's the same
@@ -85,7 +85,7 @@ they
  them
 these
 
-7. This is a letter ________ my brother in Australia. 
+7. This is a letter ________ my brother in Australia . 
 off
 of
  from

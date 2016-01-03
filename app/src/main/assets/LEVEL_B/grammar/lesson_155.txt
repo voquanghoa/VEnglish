@@ -16,7 +16,7 @@ peculiar
 usual
 typical
 
-4. Perhaps I should explain the ____ reason for working in a restaurant as a waiter in preparation for a marketing job.
+4. Perhaps I should explain the ____ reason for working in a restaurant as a waiter in preparation for a marketing job .
 underground
 undercover
 understanding
@@ -28,7 +28,7 @@ pervade
  tempt
 instruct
 
-6. I am sure I could very easily ____ all the requirements of the job.
+6. I am sure I could very easily ____ all the requirements of the job .
 complete
  fulfil
 commit

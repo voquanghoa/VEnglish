@@ -1,64 +1,64 @@
 Pronunciation
 1. 
-a.  w<u><font color='red'>ear</font></u> 
-b. <u><font color='red'>ear</font></u> 
-c. h<u><font color='red'>ear</font></u> 
-d. n<u><font color='red'>ear</font></u>ly
+ w<u><font color='red'>ear</font></u> 
+<u><font color='red'>ear</font></u> 
+h<u><font color='red'>ear</font></u> 
+n<u><font color='red'>ear</font></u>ly
 
 2. 
-a. <u><font color='red'>ear</font></u>n 
-b. th<u><font color='red'>ir</font></u>d 
-c.  wh<u><font color='red'>ere</font></u> 
-d. d<u><font color='red'>ir</font></u>ty
+<u><font color='red'>ear</font></u>n 
+th<u><font color='red'>ir</font></u>d 
+ wh<u><font color='red'>ere</font></u> 
+d<u><font color='red'>ir</font></u>ty
 
 3. 
-a. p<u><font color='red'>ur</font></u>ple 
-b. th<u><font color='red'>ir</font></u>st 
-c. j<u><font color='red'>our</font></u>ney 
-d.  th<u><font color='red'>ere</font></u>
+p<u><font color='red'>ur</font></u>ple 
+th<u><font color='red'>ir</font></u>st 
+j<u><font color='red'>our</font></u>ney 
+ th<u><font color='red'>ere</font></u>
 
 4. 
-a. t<u><font color='red'>oo</font></u> 
-b. f<u><font color='red'>oo</font></u>d 
-c. s<u><font color='red'>oo</font></u>n 
-d.  g<u><font color='red'>oo</font></u>d
+t<u><font color='red'>oo</font></u> 
+f<u><font color='red'>oo</font></u>d 
+s<u><font color='red'>oo</font></u>n 
+ g<u><font color='red'>oo</font></u>d
 
 5. 
-a. b<u><font color='red'>e</font></u>d 
-b. g<u><font color='red'>e</font></u>t 
-c.  d<u><font color='red'>e</font></u>cide 
-d. s<u><font color='red'>e</font></u>tting
+b<u><font color='red'>e</font></u>d 
+g<u><font color='red'>e</font></u>t 
+ d<u><font color='red'>e</font></u>cide 
+s<u><font color='red'>e</font></u>tting
 
 6. 
-a. dr<u><font color='red'>ea</font></u>d 
-b. br<u><font color='red'>ea</font></u>d 
-c.  b<u><font color='red'>ea</font></u>d 
-d. h<u><font color='red'>ea</font></u>d
+dr<u><font color='red'>ea</font></u>d 
+br<u><font color='red'>ea</font></u>d 
+ b<u><font color='red'>ea</font></u>d 
+h<u><font color='red'>ea</font></u>d
 
 7. 
-a. b<u><font color='red'>oa</font></u>t 
-b. r<u><font color='red'>oa</font></u>d 
-c.  br<u><font color='red'>oa</font></u>d 
-d. c<u><font color='red'>oa</font></u>t
+b<u><font color='red'>oa</font></u>t 
+r<u><font color='red'>oa</font></u>d 
+ br<u><font color='red'>oa</font></u>d 
+c<u><font color='red'>oa</font></u>t
 
 Find the mistakes
 8. When Guilliver <u><font color='red'>woke up</font></u> he <u><font color='red'>found</font></u> himself in a country <u><font color='red'>what</font></u> very small people <u><font color='red'>lived</font></u>.
-a. woke up
-b. found
-c.  what
-d. lived
+woke up
+found
+ what
+lived
 
 9. It <u><font color='red'>is believed</font></u> that the <u><font color='red'>wanted</font></u> man <u><font color='red'>was living</font></u> <u><font color='red'>in</font></u> London.
-a. is believed
-b. wanted
-c.  was living
-d. in
+is believed
+wanted
+ was living
+in
 
 10. The letter <u><font color='red'>was typed</font></u> <u><font color='red'>clear and careful</font></u>, but <u><font color='red'>without</font></u> <u><font color='red'>any</font></u> address or signature.
-a. was typed
-b.  clear and careful
-c. without
-d. any
+was typed
+ clear and careful
+without
+any
 
 Grammar and Vocabulary
 1. Is there ________ bread for all the sandwiches we have to make? 
@@ -73,7 +73,7 @@ work
 employment
  occupation
 
-3. No, the letter didn't come through the post. It was delivered personally, ________ hand. 
+3. No, the letter didn't come through the post. It was delivered personally, ________ hand . 
 with
 from
 in
@@ -115,7 +115,7 @@ kettle
 dish
 tin
 
-10. He ________ being given a receipt for the bill he had paid. 
+10. He ________ being given a receipt for the bill he had paid . 
 asked to
 demanded
  insisted on
@@ -145,7 +145,7 @@ to
  with
 by
 
-15. I'm thinking ________ looking for a new job. 
+15. I'm thinking ________ looking for a new job . 
 on
 at
 to

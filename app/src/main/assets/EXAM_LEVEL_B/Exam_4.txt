@@ -1,70 +1,70 @@
 Pronunciation
 1. 
-a. n<u><font color='red'>o</font></u>ne
-b. h<u><font color='red'>u</font></u>stle
-c. <u><font color='red'>o</font></u>nce
-d.  J<u><font color='red'>u</font></u>ne
+n<u><font color='red'>o</font></u>ne
+h<u><font color='red'>u</font></u>stle
+<u><font color='red'>o</font></u>nce
+ J<u><font color='red'>u</font></u>ne
 
 2. 
-a.  p<u><font color='red'>oo</font></u>l	
-b. b<u><font color='red'>oo</font></u>k	
-c. h<u><font color='red'>oo</font></u>k	
-d. g<u><font color='red'>oo</font></u>d
+ p<u><font color='red'>oo</font></u>l	
+b<u><font color='red'>oo</font></u>k	
+h<u><font color='red'>oo</font></u>k	
+g<u><font color='red'>oo</font></u>d
 
 3. 
-a.  gr<u><font color='red'>ea</font></u>t	
-b. m<u><font color='red'>ea</font></u>n	
-c. k<u><font color='red'>ey</font></u>	
-d. t<u><font color='red'>ea</font></u>se
+ gr<u><font color='red'>ea</font></u>t	
+m<u><font color='red'>ea</font></u>n	
+k<u><font color='red'>ey</font></u>	
+t<u><font color='red'>ea</font></u>se
 
 4. 
-a.  p<u><font color='red'>u</font></u>sh	
-b. sk<u><font color='red'>u</font></u>ll	
-c. p<u><font color='red'>u</font></u>blic	
-d. st<u><font color='red'>u</font></u>ck
+ p<u><font color='red'>u</font></u>sh	
+sk<u><font color='red'>u</font></u>ll	
+p<u><font color='red'>u</font></u>blic	
+st<u><font color='red'>u</font></u>ck
 
 5. 
-a. adv<u><font color='red'>i</font></u>se	
-b. rev<u><font color='red'>i</font></u>se	
-c. w<u><font color='red'>i</font></u>se	
-d.  pract<u><font color='red'>i</font></u>se
+adv<u><font color='red'>i</font></u>se	
+rev<u><font color='red'>i</font></u>se	
+w<u><font color='red'>i</font></u>se	
+ pract<u><font color='red'>i</font></u>se
 
 6. 
-a. <u><font color='red'>sh</font></u>ot	
-b.  <u><font color='red'>ch</font></u>icken	
-c. thre<u><font color='red'>sh</font></u>	
-d. <u><font color='red'>ch</font></u>ampagne
+<u><font color='red'>sh</font></u>ot	
+ <u><font color='red'>ch</font></u>icken	
+thre<u><font color='red'>sh</font></u>	
+<u><font color='red'>ch</font></u>ampagne
 
 Find the mistakes
 7. After John <u><font color='red'>eat</font></u> dinner, <u><font color='red'>he wrote</font></u> <u><font color='red'>several letters</font></u> and <u><font color='red'>went to bed</font></u>.
-a.  eat
-b. he wrote
-c. several letters
-d. went to bed
+ eat
+he wrote
+several letters
+went to bed
 
 8. The manager <u><font color='red'>has finished</font></u> <u><font color='red'>working</font></u> <u><font color='red'>on the report</font></u> last night, and now she will begin <u><font color='red'>to write</font></u> the other proposal.
-a.  has finished
-b. working
-c. on the report
-d. to write
+ has finished
+working
+on the report
+to write
 
 9. <u><font color='red'>Because</font></u> Sam and Michelle <u><font color='red'>had done</font></u> all of the work <u><font color='red'>theirselves</font></u>, they were <u><font color='red'>unwilling to give</font></u> the results to Joan.
-a. Because
-b. had done
-c.  theirselves
-d. unwilling to give
+Because
+had done
+ theirselves
+unwilling to give
 
 10. We insist on <u><font color='red'>you</font></u> <u><font color='red'>leaving</font></u> the meeting <u><font color='red'>before</font></u> any <u><font color='red'>further outbursts</font></u> take place.
-a.  you	
-b. leaving	
-c. before	
-d. further outbursts
+ you	
+leaving	
+before	
+further outbursts
 
 11. It <u><font color='red'>has</font></u> been <u><font color='red'>a long time</font></u> <u><font color='red'>since</font></u> we talked to John, <u><font color='red'>isn't it</font></u>?
-a. has
-b. a long time
-c. since
-d.  isn't it
+has
+a long time
+since
+ isn't it
 
 Grammar and Vocabulary
 1. I go ________ school in the morning. 
@@ -151,7 +151,7 @@ the closet of the hall
 the hall's closet
 hall closet
 
-15. On the ________ to the town there is a beautiful wood. 
+15. On the ________ to the town there is a beautiful wood . 
 direction
 street
  way

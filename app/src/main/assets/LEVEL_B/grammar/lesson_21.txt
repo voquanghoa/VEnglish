@@ -10,7 +10,7 @@ brave
 unfriendly
 angry
 
-3. I ________ away for the next weekend. 
+3. I ________ away for the next weekend . 
  am going to go
 go
 goes
@@ -64,7 +64,7 @@ disapprove
 want
 object
 
-12. You're really old-fashioned. It's time you got more ________ it. 
+12. You're really old-fashioned . It's time you got more ________ it. 
  with
 at
 on

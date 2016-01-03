@@ -1,59 +1,59 @@
 Pronunciation
 1.
-a. interm<u><font color='red'>e</font></u>diate
-b. imm<u><font color='red'>e</font></u>diate
-c. m<u><font color='red'>e</font></u>dium
-d.  m<u><font color='red'>e</font></u>dicine
+interm<u><font color='red'>e</font></u>diate
+imm<u><font color='red'>e</font></u>diate
+m<u><font color='red'>e</font></u>dium
+ m<u><font color='red'>e</font></u>dicine
 
 2.
-a.  cl<u><font color='red'>i</font></u>mb
-b. d<u><font color='red'>i</font></u>ctionary
-c. phys<u><font color='red'>i</font></u>cs
-d. s<u><font color='red'>i</font></u>x
+ cl<u><font color='red'>i</font></u>mb
+d<u><font color='red'>i</font></u>ctionary
+phys<u><font color='red'>i</font></u>cs
+s<u><font color='red'>i</font></u>x
 
 3.
-a. dict<u><font color='red'>a</font></u>tion
-b. pl<u><font color='red'>a</font></u>ce
-c. st<u><font color='red'>a</font></u>tion
-d.  th<u><font color='red'>a</font></u>nk
+dict<u><font color='red'>a</font></u>tion
+pl<u><font color='red'>a</font></u>ce
+st<u><font color='red'>a</font></u>tion
+ th<u><font color='red'>a</font></u>nk
 
 4.
-a. st<u><font color='red'>u</font></u>dent
-b. st<u><font color='red'>u</font></u>pid
-c.  st<u><font color='red'>u</font></u>bby
-d. st<u><font color='red'>u</font></u>dio
+st<u><font color='red'>u</font></u>dent
+st<u><font color='red'>u</font></u>pid
+ st<u><font color='red'>u</font></u>bby
+st<u><font color='red'>u</font></u>dio
 
 5.
-a. str<u><font color='red'>a</font></u>nge
-b. ch<u><font color='red'>a</font></u>nge
-c.  ch<u><font color='red'>a</font></u>nce
-d. n<u><font color='red'>a</font></u>me
+str<u><font color='red'>a</font></u>nge
+ch<u><font color='red'>a</font></u>nge
+ ch<u><font color='red'>a</font></u>nce
+n<u><font color='red'>a</font></u>me
 
 6.
-a. amu<u><font color='red'>s</font></u>ing
-b. ro<u><font color='red'>s</font></u>e
-c. lo<u><font color='red'>s</font></u>e
-d.  hou<u><font color='red'>s</font></u>e
+amu<u><font color='red'>s</font></u>ing
+ro<u><font color='red'>s</font></u>e
+lo<u><font color='red'>s</font></u>e
+ hou<u><font color='red'>s</font></u>e
 
 
 Find the mistakes
 7. <u><font color='red'>There</font></u> <u><font color='red'>used to</font></u> <u><font color='red'>having</font></u> a castle <u><font color='red'>on</font></u> the hill.
-a. There
-b. used to
-c.  having
-d. on
+There
+used to
+ having
+on
 
 8. It <u><font color='red'>took</font></u> <u><font color='red'>him</font></u> only thirty minutes <u><font color='red'>to go to</font></u> school <u><font color='red'>every day</font></u> by bicycle.
-a.  took
-b. him
-c. to go to
-d. every day
+ took
+him
+to go to
+every day
 
 9. My parents <u><font color='red'>didn't buy</font></u> that house. I <u><font color='red'>wish</font></u> <u><font color='red'>they</font></u> <u><font color='red'>bought</font></u> it.
-a. didn't buy
-b. wish
-c. they
-d.  bought
+didn't buy
+wish
+they
+ bought
 
 
 Grammar and Vocabulary
@@ -129,13 +129,13 @@ despite
 in spite of
  although
 
-13. Susan ________ to clean the car at the weekend. 
+13. Susan ________ to clean the car at the weeken
 hasn't have
  doesn't have
 doesn't has
 don't have
 
-14. ________ patient, and you will succeed. 
+14. ________ patient, and you will succee
  Be
 Being
 To be
@@ -147,7 +147,7 @@ snake
 eel
  egg
  
-16. He died ________ hunger and cold. 
+16. He died ________ hunger and col
 by
  of
 with

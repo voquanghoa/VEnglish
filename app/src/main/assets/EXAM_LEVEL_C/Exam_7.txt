@@ -1,59 +1,59 @@
 Pronunciation
 1. 
-a. sl<u><font color='red'>o</font></u>gan 
-b.  l<u><font color='red'>o</font></u>unge 
-c. p<u><font color='red'>o</font></u>em 
-d. <u><font color='red'>o</font></u>cean
+sl<u><font color='red'>o</font></u>gan 
+ l<u><font color='red'>o</font></u>unge 
+p<u><font color='red'>o</font></u>em 
+<u><font color='red'>o</font></u>cean
 
 2. 
-a. <u><font color='red'>ear</font></u>n 
-b. l<u><font color='red'>ear</font></u>n 
-c. p<u><font color='red'>ear</font></u>l 
-d.  p<u><font color='red'>ear</font></u>
+<u><font color='red'>ear</font></u>n 
+l<u><font color='red'>ear</font></u>n 
+p<u><font color='red'>ear</font></u>l 
+ p<u><font color='red'>ear</font></u>
 
 3. 
-a. <u><font color='red'>i</font></u>ssue 
-b.  t<u><font color='red'>i</font></u>ny 
-c. t<u><font color='red'>i</font></u>ssue 
-d. m<u><font color='red'>i</font></u>ss
+<u><font color='red'>i</font></u>ssue 
+ t<u><font color='red'>i</font></u>ny 
+t<u><font color='red'>i</font></u>ssue 
+m<u><font color='red'>i</font></u>ss
 
 4. 
-a. d<u><font color='red'>ear</font></u> 
-b. h<u><font color='red'>ear</font></u> 
-c. f<u><font color='red'>ear</font></u> 
-d.  b<u><font color='red'>ear</font></u>
+d<u><font color='red'>ear</font></u> 
+h<u><font color='red'>ear</font></u> 
+f<u><font color='red'>ear</font></u> 
+ b<u><font color='red'>ear</font></u>
 
 5. 
-a. <u><font color='red'>r</font></u>ecent 
-b. <u><font color='red'>r</font></u>ate 
-c.  i<u><font color='red'>r</font></u>on 
-d. <u><font color='red'>r</font></u>ight
+<u><font color='red'>r</font></u>ecent 
+<u><font color='red'>r</font></u>ate 
+ i<u><font color='red'>r</font></u>on 
+<u><font color='red'>r</font></u>ight
 
 6. 
-a.  m<u><font color='red'>ea</font></u>nt 
-b. l<u><font color='red'>ea</font></u>n 
-c. b<u><font color='red'>ea</font></u>n 
-d. cl<u><font color='red'>ea</font></u>n
+ m<u><font color='red'>ea</font></u>nt 
+l<u><font color='red'>ea</font></u>n 
+b<u><font color='red'>ea</font></u>n 
+cl<u><font color='red'>ea</font></u>n
 
 
 Find the mistakes
 7. Why <u><font color='red'>are</font></u> you always <u><font color='red'>jealous</font></u> <u><font color='red'>with</font></u> <u><font color='red'>other</font></u> friends?
-a. are
-b. jealous
-c.  with
-d. other
+are
+jealous
+ with
+other
 
 8. <u><font color='red'>I had tried</font></u> to <u><font color='red'>get through</font></u> to Pearson <u><font color='red'>for days now</font></u>. Either he<u><font color='red'>'s away</font></u> or his phone's out of order.
-a.  I had tried
-b. get through
-c. for days now
-d. 's away
+ I had tried
+get through
+for days now
+'s away
 
 9. <u><font color='red'>Would you</font></u> buy some <u><font color='red'>banana</font></u> if the <u><font color='red'>greengrocer's</font></u> is still <u><font color='red'>open</font></u>?
-a.  Would you
-b. banana
-c. greengrocer's
-d. open
+ Would you
+banana
+greengrocer's
+open
 
 
 Grammar and Vocabulary
@@ -153,7 +153,7 @@ on
 to
 at
 
-17. It's no use complaining ________ the cold. 
+17. It's no use complaining ________ the cold . 
 on
 in
 from
@@ -171,7 +171,7 @@ diminishing...musicians
 waning...novices
  flourishing...expatriates
 
-20. She was ________ disappointed when she learned that she had not got the job. 
+20. She was ________ disappointed when she learned that she had not got the job . 
 gravely
 fully
 highly

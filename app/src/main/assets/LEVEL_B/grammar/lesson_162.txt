@@ -1,4 +1,4 @@
-1. Here is the news read by Alan Townend. Today the Government is____ plans for a new scheme to help society.
+1. Here is the news read by Alan Townend . Today the Government is____ plans for a new scheme to help society.
 opening
  unveiling
 undoing
@@ -34,7 +34,7 @@ speak person
 spoken person
  spokesperson
 
-7. Last week the Prime Minister had to give an important address to an international____ when he found his speech had disappeared.
+7. Last week the Prime Minister had to give an important address to an international____ when he found his speech had disappeared .
 assembled
  assembly
 assembling

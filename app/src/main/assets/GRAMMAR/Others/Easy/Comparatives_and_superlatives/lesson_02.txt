@@ -1,39 +1,39 @@
 1. Big
-a.   the biggest
-b.  the most big
+  the biggest
+ the most big
 
 2. Interesting
-a.  the interestingest
-b.   the most interesting
+ the interestingest
+  the most interesting
 
 3. Crazy
-a.   the craziest
-b.  the most crazy
+  the craziest
+ the most crazy
 
 4. Beautiful 
-a.  the beautifulest
-b.   the most beautiful
+ the beautifulest
+  the most beautiful
 
 5. Old
-a.   the oldest
-b.  the most old
+  the oldest
+ the most old
 
 6. Intelligent
-a.  the intelligentest
-b.   the most intelligent
+ the intelligentest
+  the most intelligent
 
 7. Great
-a.   the greatest
-b.  the most great
+  the greatest
+ the most great
 
 8. Soft
-a.   the softest
-b.  the most soft
+  the softest
+ the most soft
 
 9. Small
-a.   the smallest
-b.  the most small
+  the smallest
+ the most small
 
 10. Exciting
-a.  the excitingest
-b.   the most exciting
+ the excitingest
+  the most exciting

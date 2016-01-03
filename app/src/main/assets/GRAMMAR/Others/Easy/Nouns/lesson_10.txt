@@ -1,39 +1,39 @@
 1. city
-a. citys 
-b.  cities 
+citys 
+ cities 
 
 2. house
-a. housees
-b.  houses .
+housees
+ houses .
 
 3. boy 
-a.  boys .
-b. boyes
+ boys .
+boyes
 
 4. familymily 
-a. familys
-b.  families.
+familys
+ families.
 
 5. life 
-a.  lives .
-b. lifes
+ lives .
+lifes
 
 6. photo 
-a.  photos .
-b. photoes
+ photos .
+photoes
 
 7. phone 
-a.  phones.
-b. phonees
+ phones.
+phonees
 
 8. sandwich
-a. sandwichs
-b.  sandwiches.
+sandwichs
+ sandwiches.
 
 9. nurse 
-a. nursees
-b.  nurses .
+nursees
+ nurses .
 
 10. elf 
-a.  elves .
-b. elfes
+ elves .
+elfes

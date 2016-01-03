@@ -1,71 +1,71 @@
 1. 
-a. th<u><font color='red'>ou</font></u>sand	
-b. m<u><font color='red'>ou</font></u>th	
-c. m<u><font color='red'>ou</font></u>se	
-d.  m<u><font color='red'>ou</font></u>stache
+th<u><font color='red'>ou</font></u>sand	
+m<u><font color='red'>ou</font></u>th	
+m<u><font color='red'>ou</font></u>se	
+ m<u><font color='red'>ou</font></u>stache
 
 2. 
-a.  str<u><font color='red'>i</font></u>ker	
-b. str<u><font color='red'>i</font></u>p	
-c. mach<u><font color='red'>i</font></u>ne	
-d. sw<u><font color='red'>i</font></u>ng
+ str<u><font color='red'>i</font></u>ker	
+str<u><font color='red'>i</font></u>p	
+mach<u><font color='red'>i</font></u>ne	
+sw<u><font color='red'>i</font></u>ng
 
 3. 
-a. h<u><font color='red'>ear</font></u>	
-b. d<u><font color='red'>ear</font></u>	
-c.  p<u><font color='red'>ear</font></u>	
-d. cl<u><font color='red'>ear</font></u>
+h<u><font color='red'>ear</font></u>	
+d<u><font color='red'>ear</font></u>	
+ p<u><font color='red'>ear</font></u>	
+cl<u><font color='red'>ear</font></u>
 
 4. 
-a. p<u><font color='red'>u</font></u>nctual	
-b. r<u><font color='red'>u</font></u>bbish	
-c. fr<u><font color='red'>u</font></u>strate	
-d.  f<u><font color='red'>u</font></u>rious
+p<u><font color='red'>u</font></u>nctual	
+r<u><font color='red'>u</font></u>bbish	
+fr<u><font color='red'>u</font></u>strate	
+ f<u><font color='red'>u</font></u>rious
 
 5. 
-a. <u><font color='red'>th</font></u>eatre	
-b.  <u><font color='red'>th</font></u>erefore	
-c. <u><font color='red'>th</font></u>roughout	
-d. <u><font color='red'>th</font></u>under
+<u><font color='red'>th</font></u>eatre	
+ <u><font color='red'>th</font></u>erefore	
+<u><font color='red'>th</font></u>roughout	
+<u><font color='red'>th</font></u>under
 
 6. 
-a.  influenc<u><font color='red'>ed</font></u>	
-b. accompani<u><font color='red'>ed</font></u>	
-c. terrifi<u><font color='red'>ed</font></u>	
-d. averag<u><font color='red'>ed</font></u>
+ influenc<u><font color='red'>ed</font></u>	
+accompani<u><font color='red'>ed</font></u>	
+terrifi<u><font color='red'>ed</font></u>	
+averag<u><font color='red'>ed</font></u>
 
 1. 
-a. val<u><font color='red'>ue</font></u>	
-b.  fl<u><font color='red'>ue</font></u>nt	
-c. f<u><font color='red'>ue</font></u>l	
-d. d<u><font color='red'>ue</font></u>
+val<u><font color='red'>ue</font></u>	
+ fl<u><font color='red'>ue</font></u>nt	
+f<u><font color='red'>ue</font></u>l	
+d<u><font color='red'>ue</font></u>
 
 2. 
-a. n<u><font color='red'>ei</font></u>ther	
-b. <u><font color='red'>ei</font></u>ther	
-c. h<u><font color='red'>ei</font></u>ght	
-d.  l<u><font color='red'>ei</font></u>sure
+n<u><font color='red'>ei</font></u>ther	
+<u><font color='red'>ei</font></u>ther	
+h<u><font color='red'>ei</font></u>ght	
+ l<u><font color='red'>ei</font></u>sure
 
 3. 
-a. m<u><font color='red'>ea</font></u>sure	
-b. pl<u><font color='red'>ea</font></u>sure	
-c. f<u><font color='red'>ea</font></u>ther	
-d.  m<u><font color='red'>ea</font></u>n
+m<u><font color='red'>ea</font></u>sure	
+pl<u><font color='red'>ea</font></u>sure	
+f<u><font color='red'>ea</font></u>ther	
+ m<u><font color='red'>ea</font></u>n
 
 4. 
-a. iss<u><font color='red'>ue</font></u>	
-b.  infl<u><font color='red'>ue</font></u>nce	
-c. purs<u><font color='red'>ue</font></u>	
-d. stat<u><font color='red'>ue</font></u>
+iss<u><font color='red'>ue</font></u>	
+ infl<u><font color='red'>ue</font></u>nce	
+purs<u><font color='red'>ue</font></u>	
+stat<u><font color='red'>ue</font></u>
 
 5. 
-a.  b<u><font color='red'>ear</font></u>	
-b. h<u><font color='red'>ear</font></u>	
-c. f<u><font color='red'>ear</font></u>	
-d. d<u><font color='red'>ear</font></u>
+ b<u><font color='red'>ear</font></u>	
+h<u><font color='red'>ear</font></u>	
+f<u><font color='red'>ear</font></u>	
+d<u><font color='red'>ear</font></u>
 
 6. 
-a. p<u><font color='red'>u</font></u>sh	
-b. b<u><font color='red'>u</font></u>sh	
-c.  f<u><font color='red'>u</font></u>ssy	
-d. b<u><font color='red'>u</font></u>llet
+p<u><font color='red'>u</font></u>sh	
+b<u><font color='red'>u</font></u>sh	
+ f<u><font color='red'>u</font></u>ssy	
+b<u><font color='red'>u</font></u>llet

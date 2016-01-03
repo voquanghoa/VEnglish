@@ -1,35 +1,35 @@
 8. The human ear <u><font color='red'>cannot</font></u> hear a sound <u><font color='red'>that</font></u> vibrates <u><font color='red'>less than</font></u> 16 times <u><font color='red'>the</font></u> second.
-a. cannot
-b. that
-c. less than
-d.  the
+cannot
+that
+less than
+ the
 
 9. Some <u><font color='red'>tree</font></u> frogs <u><font color='red'>can alter</font></u> their colors <u><font color='red'>in order</font></u> to blend <u><font color='red'>to</font></u> their environment.
-a. tree
-b. can alter
-c. in order
-d.  to
+tree
+can alter
+in order
+ to
 
 10. If <u><font color='red'>one</font></u> is invited <u><font color='red'>out</font></u> to a dinner, it is perfectly proper <u><font color='red'>to go</font></u> either with or without <u><font color='red'>no</font></u> a gift.
-a. one
-b. out
-c. to go
-d.  no
+one
+out
+to go
+ no
 
 8. Some birds, such as quails, can move <u><font color='red'>instant</font></u> from a <u><font color='red'>resting</font></u> position <u><font color='red'>to</font></u> full <u><font color='red'>flight</font></u>.
-a.  instant
-b. resting
-c. to
-d. flight
+ instant
+resting
+to
+flight
 
 9. He <u><font color='red'>launched</font></u> <u><font color='red'>out</font></u> <u><font color='red'>in</font></u> <u><font color='red'>extravagance</font></u>.
-a. launched
-b. out
-c. in
-d.  extravagance
+launched
+out
+in
+ extravagance
 
 10. Geochemistry includes <u><font color='red'>the study of</font></u> the movement <u><font color='red'>of elements</font></u> from one place to another <u><font color='red'>as a</font></u> result of <u><font color='red'>processes chemical</font></u>.
-a. the study of
-b. of elements
-c. as a
-d.  processes chemical
+the study of
+of elements
+as a
+ processes chemical

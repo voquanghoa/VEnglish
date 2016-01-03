@@ -1,70 +1,70 @@
 Pronunciation
 1. 
-a.  <u><font color='red'>are</font></u>
-b. f<u><font color='red'>air</font></u> 		
-c. th<u><font color='red'>ere</font></u> 		
-d. w<u><font color='red'>ear</font></u> 
+ <u><font color='red'>are</font></u>
+f<u><font color='red'>air</font></u> 		
+th<u><font color='red'>ere</font></u> 		
+w<u><font color='red'>ear</font></u> 
 
 2. 
-a. c<u><font color='red'>o</font></u>me 	
-b. l<u><font color='red'>o</font></u>ve 		
-c.  w<u><font color='red'>o</font></u>men 		
-d. s<u><font color='red'>o</font></u>me
+c<u><font color='red'>o</font></u>me 	
+l<u><font color='red'>o</font></u>ve 		
+ w<u><font color='red'>o</font></u>men 		
+s<u><font color='red'>o</font></u>me
 
 3. 
-a.  w<u><font color='red'>ou</font></u>ld 	
-b. ab<u><font color='red'>ou</font></u>t 		
-c. r<u><font color='red'>ou</font></u>nd 		
-d. <u><font color='red'>ou</font></u>t
+ w<u><font color='red'>ou</font></u>ld 	
+ab<u><font color='red'>ou</font></u>t 		
+r<u><font color='red'>ou</font></u>nd 		
+<u><font color='red'>ou</font></u>t
 
 4. 
-a. <u><font color='red'>g</font></u>et 	
-b.  <u><font color='red'>g</font></u>entle 		
-c. <u><font color='red'>g</font></u>ive 			
-d. <u><font color='red'>g</font></u>uest
+<u><font color='red'>g</font></u>et 	
+ <u><font color='red'>g</font></u>entle 		
+<u><font color='red'>g</font></u>ive 			
+<u><font color='red'>g</font></u>uest
 
 5. 
-a.  c<u><font color='red'>ure</font></u> 	
-b. pict<u><font color='red'>ure</font></u> 		
-c. lect<u><font color='red'>ure</font></u> 		
-d. furnit<u><font color='red'>ure</font></u>
+ c<u><font color='red'>ure</font></u> 	
+pict<u><font color='red'>ure</font></u> 		
+lect<u><font color='red'>ure</font></u> 		
+furnit<u><font color='red'>ure</font></u>
 
 6. 
-a. pl<u><font color='red'>ow</font></u> 	
-b. h<u><font color='red'>ow</font></u> 		
-c. c<u><font color='red'>ow</font></u> 			
-d.  r<u><font color='red'>ow</font></u>
+pl<u><font color='red'>ow</font></u> 	
+h<u><font color='red'>ow</font></u> 		
+c<u><font color='red'>ow</font></u> 			
+ r<u><font color='red'>ow</font></u>
 
 Find the mistakes
 7. <u><font color='red'>The</font></u> council set off <u><font color='red'>controversial</font></u> by its <u><font color='red'>strong</font></u> position on <u><font color='red'>wildlife</font></u> management.
-a. The
-b.  controversial
-c. strong
-d. wildlife
+The
+ controversial
+strong
+wildlife
 
 8. While <u><font color='red'>searching</font></u> for gold, <u><font color='red'>the</font></u> Spanish <u><font color='red'>found</font></u> the Grand Canyon to be an <u><font color='red'>impassably</font></u> barrier.
-a. searching
-b. the
-c. found
-d.  impassably
+searching
+the
+found
+ impassably
 
 9. <u><font color='red'>The</font></u> assassins <u><font color='red'>hastily</font></u> to hide the <u><font color='red'>evidence</font></u> against <u><font color='red'>them</font></u>.
-a. The
-b.  hastily
-c. evidence
-d. them
+The
+ hastily
+evidence
+them
 
 10. The figure was <u><font color='red'>carved</font></u> on a <u><font color='red'>hillside</font></u> <u><font color='red'>enough</font></u> that it could be seen from <u><font color='red'>a</font></u> distance of several miles.
-a. carved
-b. hillside
-c.  enough
-d. a
+carved
+hillside
+ enough
+a
 
 11. In <u><font color='red'>ancient</font></u> Greek <u><font color='red'>traditional</font></u>, weapons and <u><font color='red'>stable</font></u> gear were placed upon the <u><font color='red'>grave</font></u>.
-a. ancient
-b.  traditional
-c. stable
-d. grave
+ancient
+ traditional
+stable
+grave
 
 Grammar and Vocabulary
 1. Where do you ________ going for your holidays this year. 
@@ -109,7 +109,7 @@ came
 will have com
  come
 
-8. As soon as you ________ that, I'd like you to go to bed. 
+8. As soon as you ________ that, I'd like you to go to bed . 
 did
 will do
 will have done

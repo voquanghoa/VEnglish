@@ -1,71 +1,71 @@
 1. 
-a. <u><font color='red'>ch</font></u>ancellor	
-b.  <u><font color='red'>ch</font></u>aracter	
-c. <u><font color='red'>ch</font></u>allenger	
-d. <u><font color='red'>ch</font></u>apter
+<u><font color='red'>ch</font></u>ancellor	
+ <u><font color='red'>ch</font></u>aracter	
+<u><font color='red'>ch</font></u>allenger	
+<u><font color='red'>ch</font></u>apter
 
 2. 
-a. b<u><font color='red'>ou</font></u>ght	
-b. s<u><font color='red'>ou</font></u>ght	
-c.  dr<u><font color='red'>ou</font></u>ght	
-d. f<u><font color='red'>ou</font></u>ght
+b<u><font color='red'>ou</font></u>ght	
+s<u><font color='red'>ou</font></u>ght	
+ dr<u><font color='red'>ou</font></u>ght	
+f<u><font color='red'>ou</font></u>ght
 
 3. 
-a. r<u><font color='red'>ea</font></u>d	
-b. t<u><font color='red'>ea</font></u>ch	
-c.  gr<u><font color='red'>ea</font></u>t	
-d. m<u><font color='red'>ea</font></u>t
+r<u><font color='red'>ea</font></u>d	
+t<u><font color='red'>ea</font></u>ch	
+ gr<u><font color='red'>ea</font></u>t	
+m<u><font color='red'>ea</font></u>t
 
 4. 
-a. w<u><font color='red'>ai</font></u>t	
-b.  s<u><font color='red'>ai</font></u>d	
-c. r<u><font color='red'>ai</font></u>n	
-d. l<u><font color='red'>ai</font></u>d
+w<u><font color='red'>ai</font></u>t	
+ s<u><font color='red'>ai</font></u>d	
+r<u><font color='red'>ai</font></u>n	
+l<u><font color='red'>ai</font></u>d
 
 5. 
-a. <u><font color='red'>c</font></u>orn	
-b. <u><font color='red'>c</font></u>ut	
-c. <u><font color='red'>c</font></u>oat	
-d.  <u><font color='red'>c</font></u>eiling
+<u><font color='red'>c</font></u>orn	
+<u><font color='red'>c</font></u>ut	
+<u><font color='red'>c</font></u>oat	
+ <u><font color='red'>c</font></u>eiling
 
 6. 
-a.  br<u><font color='red'>ea</font></u>k	
-b. tr<u><font color='red'>ea</font></u>t	
-c. sp<u><font color='red'>ea</font></u>k	
-d. pl<u><font color='red'>ea</font></u>se
+ br<u><font color='red'>ea</font></u>k	
+tr<u><font color='red'>ea</font></u>t	
+sp<u><font color='red'>ea</font></u>k	
+pl<u><font color='red'>ea</font></u>se
 
 1. 
-a. clo<u><font color='red'>se</font></u>	
-b. <u><font color='red'>s</font></u>aw	
-c. u<u><font color='red'>se</font></u>less	
-d.  lo<u><font color='red'>s</font></u>e
+clo<u><font color='red'>se</font></u>	
+<u><font color='red'>s</font></u>aw	
+u<u><font color='red'>se</font></u>less	
+ lo<u><font color='red'>s</font></u>e
 
 2. 
-a. <u><font color='red'>ch</font></u>ance	
-b. whi<u><font color='red'>ch</font></u>	
-c.  s<u><font color='red'>ch</font></u>ool	
-d. chur<u><font color='red'>ch</font></u>
+<u><font color='red'>ch</font></u>ance	
+whi<u><font color='red'>ch</font></u>	
+ s<u><font color='red'>ch</font></u>ool	
+chur<u><font color='red'>ch</font></u>
 
 3. 
-a. r<u><font color='red'>ow</font></u>	
-b.  wh<u><font color='red'>o</font></u>se	
-c. wind<u><font color='red'>ow</font></u>	
-d. t<u><font color='red'>oa</font></u>st
+r<u><font color='red'>ow</font></u>	
+ wh<u><font color='red'>o</font></u>se	
+wind<u><font color='red'>ow</font></u>	
+t<u><font color='red'>oa</font></u>st
 
 4. 
-a. t<u><font color='red'>o</font></u>mb	
-b.  b<u><font color='red'>o</font></u>ne	
-c. w<u><font color='red'>o</font></u>unded	
-d. m<u><font color='red'>o</font></u><u><font color='red'>o</font></u>d
+t<u><font color='red'>o</font></u>mb	
+ b<u><font color='red'>o</font></u>ne	
+w<u><font color='red'>o</font></u>unded	
+m<u><font color='red'>o</font></u><u><font color='red'>o</font></u>d
 
 5. 
-a. cra<u><font color='red'>b</font></u>	
-b. so<u><font color='red'>b</font></u>	
-c.  clim<u><font color='red'>b</font></u>	
-d. cu<u><font color='red'>b</font></u>
+cra<u><font color='red'>b</font></u>	
+so<u><font color='red'>b</font></u>	
+ clim<u><font color='red'>b</font></u>	
+cu<u><font color='red'>b</font></u>
 
 6. 
-a. b<u><font color='red'>oa</font></u>t	
-b. h<u><font color='red'>o</font></u>le	
-c. sl<u><font color='red'>o</font></u>pe	
-d.  d<u><font color='red'>o</font></u>zen
+b<u><font color='red'>oa</font></u>t	
+h<u><font color='red'>o</font></u>le	
+sl<u><font color='red'>o</font></u>pe	
+ d<u><font color='red'>o</font></u>zen

@@ -1,28 +1,34 @@
-﻿Find the plural form
+﻿You have left __________________ on the lawn. You must get rid of it.
+ a lot of rubbish
+a lot of rubbishes
+many rubbish
 
-1. Lord-justice 
-Lord-justices
+Why so __________________? It is nothing, I'm just doing my job.
+many praise
+many praises
+ much praise
 
-2. Manservant 
-Menservants
+There are two __________________ in the cowshed.
+oxens
+oxes
+ oxen
+ 
+Only __________________ is playing in the covered playground.
+a children
+ one child
+two children
 
-3. ski boot 
-ski boots
+When the cat is away, the __________________ will play.
+ mice
+mouses
+mouse
 
-4. Gentleman farmer 
-Gentlemen farmers
+The court didn't have __________________, but this man was convicted nevertheless.
+many concrete evidences
+ a lot of concrete evidence
+much concrete evidences
 
-5. Housemaid 
-Housemaids
-
-6. Spoonful 
-Spoonfuls
-
-7. Sodawater 
-Sodawater
-
-8. Snowball 
-Snowballs
-
-9. Gunpowder 
-Gunpowder
+We take care of ourselves. That is why we have got into the habit of eating__________________.
+a lot of fruit
+ a lot of fruits
+much fruits

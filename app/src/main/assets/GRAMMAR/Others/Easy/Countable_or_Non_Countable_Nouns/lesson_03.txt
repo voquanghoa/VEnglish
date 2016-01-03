@@ -1,39 +1,39 @@
 1. window
-(a)  Countable
-(b) Non_Countable
+ Countable
+Non_Countable
  
 2. coal
-(a) Countable
-(b)  Non_Countable
+Countable
+ Non_Countable
 
 3. camera
-(a)  Countable
-(b) Non_Countable
+ Countable
+Non_Countable
 
 4. bag
-(a)  Countable
-(b) Non_Countable
+ Countable
+Non_Countable
 
 5. ice
-(a) Countable
-(b)  Non_Countable
+Countable
+ Non_Countable
 
 6. problem
-(a)  Countable
-(b) Non_Countable
+ Countable
+Non_Countable
 
 7. daughter
-(a)  Countable
-(b) Non_Countable
+ Countable
+Non_Countable
 
 8. fork
-(a)  Countable
-(b) Non_Countable
+ Countable
+Non_Countable
 
 9. dress
-(a)  Countable
-(b) Non_Countable
+ Countable
+Non_Countable
 
 10. juice
-(a) Countable
-(b)  Non_Countable
+Countable
+ Non_Countable

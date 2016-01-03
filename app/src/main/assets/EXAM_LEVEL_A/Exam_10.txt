@@ -1,58 +1,58 @@
 Pronunciation
 1. 
-a. gr<u><font color='red'>ea</font></u>t 
-b.  d<u><font color='red'>ea</font></u>d 
-c. br<u><font color='red'>ea</font></u>k 
-d. st<u><font color='red'>ea</font></u>k
+gr<u><font color='red'>ea</font></u>t 
+ d<u><font color='red'>ea</font></u>d 
+br<u><font color='red'>ea</font></u>k 
+st<u><font color='red'>ea</font></u>k
 
 2. 
-a.  w<u><font color='red'>ou</font></u>ld 
-b. f<u><font color='red'>ou</font></u>l 
-c. r<u><font color='red'>ou</font></u>nd 
-d. <u><font color='red'>ou</font></u>t
+ w<u><font color='red'>ou</font></u>ld 
+f<u><font color='red'>ou</font></u>l 
+r<u><font color='red'>ou</font></u>nd 
+<u><font color='red'>ou</font></u>t
 
 3. 
-a. hou<u><font color='red'>gh</font></u> 
-b. cou<u><font color='red'>gh</font></u> 
-c.  thou<u><font color='red'>gh</font></u> 
-d. rou<u><font color='red'>gh</font></u>
+hou<u><font color='red'>gh</font></u> 
+cou<u><font color='red'>gh</font></u> 
+ thou<u><font color='red'>gh</font></u> 
+rou<u><font color='red'>gh</font></u>
 
 4. 
-a. f<u><font color='red'>ew</font></u> 
-b.  thr<u><font color='red'>ew</font></u> 
-c. d<u><font color='red'>ew</font></u> 
-d. n<u><font color='red'>ew</font></u>
+f<u><font color='red'>ew</font></u> 
+ thr<u><font color='red'>ew</font></u> 
+d<u><font color='red'>ew</font></u> 
+n<u><font color='red'>ew</font></u>
 
 5. 
-a. choo<u><font color='red'>s</font></u>e 
-b. ro<u><font color='red'>s</font></u>e 
-c. ri<u><font color='red'>s</font></u>e 
-d.  hor<u><font color='red'>s</font></u>e
+choo<u><font color='red'>s</font></u>e 
+ro<u><font color='red'>s</font></u>e 
+ri<u><font color='red'>s</font></u>e 
+ hor<u><font color='red'>s</font></u>e
 
 6. 
-a. <u><font color='red'>s</font></u>eason 
-b. <u><font color='red'>s</font></u>even 
-c.  <u><font color='red'>s</font></u>ugar 
-d. <u><font color='red'>s</font></u>un
+<u><font color='red'>s</font></u>eason 
+<u><font color='red'>s</font></u>even 
+ <u><font color='red'>s</font></u>ugar 
+<u><font color='red'>s</font></u>un
 
 Find the mistakes
 7. His father <u><font color='red'>would rather</font></u> <u><font color='red'>ask</font></u> his son <u><font color='red'>fix</font></u> the <u><font color='red'>broken</font></u> radio.
-a. would rather
-b. ask
-c.  fix
-d. broken
+would rather
+ask
+ fix
+broken
 
 8. It <u><font color='red'>is</font></u> not <u><font color='red'>easy</font></u> <u><font color='red'>do</font></u> <u><font color='red'>metal</font></u> work.
-a. is
-b. easy
-c.  do
-d. metal
+is
+easy
+ do
+metal
 
 9. His sister <u><font color='red'>explained</font></u> <u><font color='red'>to her</font></u> <u><font color='red'>how</font></u> <u><font color='red'>make</font></u> cookies.
-a. explained
-b. to her
-c. how
-d.  make
+explained
+to her
+how
+ make
 
 Grammar and Vocabulary
  He's listening ________ the radio. 
@@ -67,7 +67,7 @@ at
 after
 on
 
-3. John ________ very hard. 
+3. John ________ very har
 he work not
  doesn't work
 not works

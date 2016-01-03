@@ -1,65 +1,65 @@
 Pronunciation
 1. 
-a. c<u><font color='red'>ou</font></u>ntry 
-b. f<u><font color='red'>u</font></u>n 
-c. s<u><font color='red'>u</font></u>mmer 
-d.  tr<u><font color='red'>u</font></u>th
+c<u><font color='red'>ou</font></u>ntry 
+f<u><font color='red'>u</font></u>n 
+s<u><font color='red'>u</font></u>mmer 
+ tr<u><font color='red'>u</font></u>th
 
 2. 
-a.  tr<u><font color='red'>ou</font></u>ble 
-b. fl<u><font color='red'>u</font></u> 
-c. t<u><font color='red'>oo</font></u>th 
-d. sh<u><font color='red'>oe</font></u>
+ tr<u><font color='red'>ou</font></u>ble 
+fl<u><font color='red'>u</font></u> 
+t<u><font color='red'>oo</font></u>th 
+sh<u><font color='red'>oe</font></u>
 
 3. 
-a.  h<u><font color='red'>ear</font></u>t 
-b. t<u><font color='red'>ur</font></u>n 
-c. <u><font color='red'>ear</font></u>ly 
-d. th<u><font color='red'>ir</font></u>d
+ h<u><font color='red'>ear</font></u>t 
+t<u><font color='red'>ur</font></u>n 
+<u><font color='red'>ear</font></u>ly 
+th<u><font color='red'>ir</font></u>d
 
 4. 
-a. s<u><font color='red'>o</font></u>ng 
-b.  <u><font color='red'>o</font></u>ne 
-c. l<u><font color='red'>o</font></u>ng 
-d. g<u><font color='red'>o</font></u>ne
+s<u><font color='red'>o</font></u>ng 
+ <u><font color='red'>o</font></u>ne 
+l<u><font color='red'>o</font></u>ng 
+g<u><font color='red'>o</font></u>ne
 
 5. 
-a. f<u><font color='red'>or</font></u>k 
-b. f<u><font color='red'>a</font></u>ll 
-c.  wr<u><font color='red'>o</font></u>ng 
-d. c<u><font color='red'>au</font></u>ght
+f<u><font color='red'>or</font></u>k 
+f<u><font color='red'>a</font></u>ll 
+ wr<u><font color='red'>o</font></u>ng 
+c<u><font color='red'>au</font></u>ght
 
 6. 
-a. f<u><font color='red'>u</font></u>ll 
-b. p<u><font color='red'>u</font></u>sh 
-c.  b<u><font color='red'>u</font></u>t 
-d. p<u><font color='red'>u</font></u>t
+f<u><font color='red'>u</font></u>ll 
+p<u><font color='red'>u</font></u>sh 
+ b<u><font color='red'>u</font></u>t 
+p<u><font color='red'>u</font></u>t
 
 7. 
-a. d<u><font color='red'>ea</font></u>l 
-b. h<u><font color='red'>ea</font></u>l 
-c.  st<u><font color='red'>ea</font></u>lth 
-d. st<u><font color='red'>ea</font></u>l
+d<u><font color='red'>ea</font></u>l 
+h<u><font color='red'>ea</font></u>l 
+ st<u><font color='red'>ea</font></u>lth 
+st<u><font color='red'>ea</font></u>l
 
 
 Find the mistakes
 8. At present, I am a student <u><font color='red'>at</font></u> the Local Technical College, <u><font color='red'>which</font></u> I <u><font color='red'>am studying</font></u> <u><font color='red'>English part-time</font></u>.
-a. at
-b.  which
-c. am studying
-d. English part-time
+at
+ which
+am studying
+English part-time
 
 9. One of <u><font color='red'>the girl</font></u> <u><font color='red'>who</font></u> <u><font color='red'>worked</font></u> in that company <u><font color='red'>died</font></u>.
-a.  the girl
-b. who
-c. worked
-d. died
+ the girl
+who
+worked
+died
 
 10. This lesson <u><font color='red'>is</font></u> <u><font color='red'>such</font></u> long <u><font color='red'>that</font></u> I <u><font color='red'>have written</font></u> it for 30 minutes.
-a. is
-b.  such
-c. that
-d. have written
+is
+ such
+that
+have written
 
 
 Grammar and Vocabulary
@@ -135,7 +135,7 @@ condemned for
 accused of
 found fault with for
 
-13. She is teaching two classes and is examining at a literature exam tomorrow. ________, she is chairing a meeting at the Pen Club. 
+13. She is teaching two classes and is examining at a literature exam tomorrow. ________, she is chairing a meeting at the Pen Club . 
 on the top of it
 on top of it
 at the top of it

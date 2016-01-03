@@ -22,7 +22,7 @@ You're falling
  You'll fall
 Will you fall
 
-5.  I'm afraid I've broken your umbrella.  ________. 
+5.  I'm afraid I've broken your umbrella .  ________. 
 Don't mention it
 Not at all
 It's the same
@@ -34,7 +34,7 @@ they
  them
 these
 
-7. This is a letter ________ my brother in Australia. 
+7. This is a letter ________ my brother in Australia . 
 off
 of
  from

@@ -1,71 +1,71 @@
 1. 
-a.  <u><font color='red'>ch</font></u>ampagne	
-b. <u><font color='red'>ch</font></u>erry	
-c. <u><font color='red'>ch</font></u>ange	
-d. <u><font color='red'>ch</font></u>eese
+ <u><font color='red'>ch</font></u>ampagne	
+<u><font color='red'>ch</font></u>erry	
+<u><font color='red'>ch</font></u>ange	
+<u><font color='red'>ch</font></u>eese
 
 2. 
-a. bo<u><font color='red'>th</font></u>	
-b.  smoo<u><font color='red'>th</font></u>	
-c. <u><font color='red'>th</font></u>row	
-d. heal<u><font color='red'>th</font></u>
+bo<u><font color='red'>th</font></u>	
+ smoo<u><font color='red'>th</font></u>	
+<u><font color='red'>th</font></u>row	
+heal<u><font color='red'>th</font></u>
 
 3. 
-a. <u><font color='red'>h</font></u>ost	
-b. <u><font color='red'>h</font></u>am	
-c.  <u><font color='red'>h</font></u>eir	
-d. <u><font color='red'>h</font></u>ygiene
+<u><font color='red'>h</font></u>ost	
+<u><font color='red'>h</font></u>am	
+ <u><font color='red'>h</font></u>eir	
+<u><font color='red'>h</font></u>ygiene
 
 4. 
-a. div<u><font color='red'>i</font></u>dend	
-b. exper<u><font color='red'>i</font></u>ment	
-c.  <u><font color='red'>i</font></u>sland	
-d. dec<u><font color='red'>i</font></u>sion
+div<u><font color='red'>i</font></u>dend	
+exper<u><font color='red'>i</font></u>ment	
+ <u><font color='red'>i</font></u>sland	
+dec<u><font color='red'>i</font></u>sion
 
 5. 
-a. st<u><font color='red'>ar</font></u>	
-b.  w<u><font color='red'>ar</font></u>	
-c. l<u><font color='red'>ar</font></u>ge	
-d. b<u><font color='red'>ar</font></u>k
+st<u><font color='red'>ar</font></u>	
+ w<u><font color='red'>ar</font></u>	
+l<u><font color='red'>ar</font></u>ge	
+b<u><font color='red'>ar</font></u>k
 
 6. 
-a. m<u><font color='red'>ea</font></u>sure	
-b. f<u><font color='red'>ea</font></u>ther	
-c.  l<u><font color='red'>ea</font></u>der	
-d. pl<u><font color='red'>ea</font></u>sure
+m<u><font color='red'>ea</font></u>sure	
+f<u><font color='red'>ea</font></u>ther	
+ l<u><font color='red'>ea</font></u>der	
+pl<u><font color='red'>ea</font></u>sure
 
 1. 
-a. t<u><font color='red'>ear</font></u>	
-b. h<u><font color='red'>ear</font></u>er	
-c.  b<u><font color='red'>ear</font></u>ish	
-d. w<u><font color='red'>ear</font></u>y
+t<u><font color='red'>ear</font></u>	
+h<u><font color='red'>ear</font></u>er	
+ b<u><font color='red'>ear</font></u>ish	
+w<u><font color='red'>ear</font></u>y
 
 2. 
-a.  m<u><font color='red'>oo</font></u>d	
-b. l<u><font color='red'>oo</font></u>k	
-c. w<u><font color='red'>oo</font></u>d	
-d. g<u><font color='red'>oo</font></u>d	
+ m<u><font color='red'>oo</font></u>d	
+l<u><font color='red'>oo</font></u>k	
+w<u><font color='red'>oo</font></u>d	
+g<u><font color='red'>oo</font></u>d	
 
 3. 
-a. bagga<u><font color='red'>g</font></u>e	
-b. fra<u><font color='red'>g</font></u>ile	
-c. <u><font color='red'>g</font></u>en	
-d.  bar<u><font color='red'>g</font></u>ain
+bagga<u><font color='red'>g</font></u>e	
+fra<u><font color='red'>g</font></u>ile	
+<u><font color='red'>g</font></u>en	
+ bar<u><font color='red'>g</font></u>ain
 
 4. 
-a. cl<u><font color='red'>ou</font></u>d	
-b. s<u><font color='red'>ou</font></u>nd	
-c.  c<u><font color='red'>ou</font></u>rage	
-d. s<u><font color='red'>ou</font></u>th
+cl<u><font color='red'>ou</font></u>d	
+s<u><font color='red'>ou</font></u>nd	
+ c<u><font color='red'>ou</font></u>rage	
+s<u><font color='red'>ou</font></u>th
 
 5. 
-a. congr<u><font color='red'>e</font></u>ss	
-b. unl<u><font color='red'>e</font></u>ss	
-c. m<u><font color='red'>e</font></u>ssy	
-d.  usel<u><font color='red'>e</font></u>ss
+congr<u><font color='red'>e</font></u>ss	
+unl<u><font color='red'>e</font></u>ss	
+m<u><font color='red'>e</font></u>ssy	
+ usel<u><font color='red'>e</font></u>ss
 
 6. 
-a.  w<u><font color='red'>al</font></u>k	
-b. w<u><font color='red'>a</font></u>sh	
-c. s<u><font color='red'>o</font></u>nic	
-d. h<u><font color='red'>o</font></u>t
+ w<u><font color='red'>al</font></u>k	
+w<u><font color='red'>a</font></u>sh	
+s<u><font color='red'>o</font></u>nic	
+h<u><font color='red'>o</font></u>t

@@ -1,58 +1,58 @@
 Pronunciation
 1. 
-a. st<u><font color='red'>o</font></u>p 
-b. h<u><font color='red'>o</font></u>t 
-c.  m<u><font color='red'>o</font></u>re 
-d. cr<u><font color='red'>o</font></u>p
+st<u><font color='red'>o</font></u>p 
+h<u><font color='red'>o</font></u>t 
+ m<u><font color='red'>o</font></u>re 
+cr<u><font color='red'>o</font></u>p
 
 2. 
-a. f<u><font color='red'>or</font></u>k 
-b.  f<u><font color='red'>or</font></u>get 
-c. p<u><font color='red'>or</font></u>k 
-d. b<u><font color='red'>or</font></u>n
+f<u><font color='red'>or</font></u>k 
+ f<u><font color='red'>or</font></u>get 
+p<u><font color='red'>or</font></u>k 
+b<u><font color='red'>or</font></u>n
 
 3. 
-a. t<u><font color='red'>ur</font></u>n 
-b. b<u><font color='red'>ur</font></u>n 
-c. c<u><font color='red'>ur</font></u>ly 
-d.  b<u><font color='red'>ur</font></u>y
+t<u><font color='red'>ur</font></u>n 
+b<u><font color='red'>ur</font></u>n 
+c<u><font color='red'>ur</font></u>ly 
+ b<u><font color='red'>ur</font></u>y
 
 4. 
-a.  ch<u><font color='red'>oi</font></u>r 
-b. ch<u><font color='red'>oi</font></u>ce 
-c. n<u><font color='red'>oi</font></u>se 
-d. v<u><font color='red'>oi</font></u>ce
+ ch<u><font color='red'>oi</font></u>r 
+ch<u><font color='red'>oi</font></u>ce 
+n<u><font color='red'>oi</font></u>se 
+v<u><font color='red'>oi</font></u>ce
 
 5. 
-a. l<u><font color='red'>a</font></u>te 
-b. n<u><font color='red'>a</font></u>me 
-c. l<u><font color='red'>a</font></u>dy 
-d.  m<u><font color='red'>a</font></u>p
+l<u><font color='red'>a</font></u>te 
+n<u><font color='red'>a</font></u>me 
+l<u><font color='red'>a</font></u>dy 
+ m<u><font color='red'>a</font></u>p
 
 6. 
-a. <u><font color='red'>e</font></u>ven 
-b. k<u><font color='red'>e</font></u>y 
-c.  <u><font color='red'>e</font></u>ye 
-d. m<u><font color='red'>e</font></u>
+<u><font color='red'>e</font></u>ven 
+k<u><font color='red'>e</font></u>y 
+ <u><font color='red'>e</font></u>ye 
+m<u><font color='red'>e</font></u>
 
 Find the mistakes
 7. We <u><font color='red'>go</font></u> <u><font color='red'>to</font></u> the library <u><font color='red'>in</font></u> <u><font color='red'>Monday afternoon</font></u>.
-a. go
-b. to
-c.  in
-d. Monday afternoon
+go
+to
+ in
+Monday afternoon
 
 8. I <u><font color='red'>am planting</font></u> <u><font color='red'>some roses</font></u>. Do you <u><font color='red'>want to help</font></u> <u><font color='red'>mine</font></u>?
-a. am planting
-b. some roses
-c. want to help
-d.  mine
+am planting
+some roses
+want to help
+ mine
 
 9. There <u><font color='red'>aren't</font></u> <u><font color='red'>some</font></u> <u><font color='red'>Chinese pupils</font></u> in <u><font color='red'>the</font></u> English school.
-a. aren't
-b.  some
-c. Chinese pupils
-d. the
+aren't
+ some
+Chinese pupils
+the
 
 Grammar and Vocabulary
  I suggest that you should ________ them about their plans. 
@@ -103,7 +103,7 @@ one
 two
 an
 
-9. Under no circumstances ________ or exchanged. 
+9. Under no circumstances ________ or exchange
 good will be returned
 goods should be returned
  can good be returned
@@ -169,7 +169,7 @@ seeing
  seen
 see
 
-20. No, thank you, I don't ________ sugar in tea. 
+20. No, thank you, I don't ________ sugar in tea . 
  take
 put
 eat

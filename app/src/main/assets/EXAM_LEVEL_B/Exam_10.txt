@@ -1,70 +1,70 @@
 Pronunciation
 1. 
-a. r<u><font color='red'>o</font></u>se	
-b.  c<u><font color='red'>o</font></u>ver	
-c. n<u><font color='red'>o</font></u>se	
-d. <u><font color='red'>o</font></u>ver
+r<u><font color='red'>o</font></u>se	
+ c<u><font color='red'>o</font></u>ver	
+n<u><font color='red'>o</font></u>se	
+<u><font color='red'>o</font></u>ver
 
 2. 
-a.  st<u><font color='red'>age</font></u>	
-b. man<u><font color='red'>age</font></u>	
-c. vill<u><font color='red'>age</font></u>	
-d. bagg<u><font color='red'>age</font></u>
+ st<u><font color='red'>age</font></u>	
+man<u><font color='red'>age</font></u>	
+vill<u><font color='red'>age</font></u>	
+bagg<u><font color='red'>age</font></u>
 
 3. 
-a. <u><font color='red'>s</font></u>ea	
-b. <u><font color='red'>s</font></u>and	
-c. <u><font color='red'>s</font></u>un	
-d.  <u><font color='red'>s</font></u>ure
+<u><font color='red'>s</font></u>ea	
+<u><font color='red'>s</font></u>and	
+<u><font color='red'>s</font></u>un	
+ <u><font color='red'>s</font></u>ure
 
 4. 
-a. s<u><font color='red'>u</font></u>pply	
-b.  s<u><font color='red'>u</font></u>permaket	
-c. s<u><font color='red'>u</font></u>pport	
-d. s<u><font color='red'>u</font></u>ppose
+s<u><font color='red'>u</font></u>pply	
+ s<u><font color='red'>u</font></u>permaket	
+s<u><font color='red'>u</font></u>pport	
+s<u><font color='red'>u</font></u>ppose
 
 5. 
-a.  bl<u><font color='red'>oo</font></u>d	
-b. m<u><font color='red'>oo</font></u>d	
-c. m<u><font color='red'>oo</font></u>n	
-d. s<u><font color='red'>oo</font></u>n
+ bl<u><font color='red'>oo</font></u>d	
+m<u><font color='red'>oo</font></u>d	
+m<u><font color='red'>oo</font></u>n	
+s<u><font color='red'>oo</font></u>n
 
 6. 
-a. g<u><font color='red'>oo</font></u>d	
-b. r<u><font color='red'>oo</font></u>f	
-c. f<u><font color='red'>oo</font></u>t	
-d.  fl<u><font color='red'>oo</font></u>d
+g<u><font color='red'>oo</font></u>d	
+r<u><font color='red'>oo</font></u>f	
+f<u><font color='red'>oo</font></u>t	
+ fl<u><font color='red'>oo</font></u>d
 
 Find the mistakes
 7. There's <u><font color='red'>a</font></u> <u><font color='red'>new</font></u> Oriental restaurant <u><font color='red'>in town</font></u>, <u><font color='red'>isn't it</font></u>?
-a. a
-b. new
-c. in town
-d.  isn't it
+a
+new
+in town
+ isn't it
 
 8. The government <u><font color='red'>has</font></u> decided <u><font color='red'>voting</font></u> <u><font color='red'>on the resolution</font></u> now <u><font color='red'>rather</font></u> than next month.
-a. has
-b.  voting
-c. on the resolution
-d. rather
+has
+ voting
+on the resolution
+rather
 
 9. The professor <u><font color='red'>is</font></u> thinking <u><font color='red'>to go</font></u> to the conference <u><font color='red'>on aerodynamics</font></u> <u><font color='red'>next month</font></u>.
-a. is
-b.  to go
-c. on aerodynamics
-d. next month
+is
+ to go
+on aerodynamics
+next month
 
 10. His father <u><font color='red'>does not</font></u> approve <u><font color='red'>him to go</font></u> to the banquet <u><font color='red'>without dressing</font></u> <u><font color='red'>formally</font></u>.
-a. does not
-b.  him to go
-c. without dressing
-d. formally
+does not
+ him to go
+without dressing
+formally
 
 11. No one would have <u><font color='red'>attended</font></u> the lecture if you <u><font color='red'>told</font></u> <u><font color='red'>the truth about</font></u> the <u><font color='red'>guest speaker</font></u>.
-a. attended
-b.  told
-c. the truth about
-d. guest speaker
+attended
+ told
+the truth about
+guest speaker
 
 Grammar and Vocabulary
 1. This young tree could not have been damaged by accident: I believe it was done ________. 
@@ -103,7 +103,7 @@ we girls
 girls we
 girls
 
-7. Please go to ________ to pick up your ID card. 
+7. Please go to ________ to pick up your ID card . 
 third window
 the window three
 window third
@@ -139,7 +139,7 @@ starts
  steps
 actions
 
-13. His performance was ________; the audience was delighted. 
+13. His performance was ________; the audience was delighted . 
 unmarked
  faultless
 worthless
@@ -169,7 +169,7 @@ go
 gone
 to be going
 
-18. I ________ the hot weather in Thailand. 
+18. I ________ the hot weather in Thailand . 
 use to
 used to
 uses to

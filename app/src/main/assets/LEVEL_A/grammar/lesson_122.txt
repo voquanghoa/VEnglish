@@ -82,7 +82,7 @@ believe
 is believing
 has believed
 
-15. The aeroplane ________ down at Cairo on its way to India. 
+15. The aeroplane ________ down at Cairo on its way to India . 
 remained
 stayed
 landed

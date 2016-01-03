@@ -1,37 +1,69 @@
-﻿Ex: book --> books
+﻿Gymnastics __________________ my favourite sport.
+are
+0
+ is
 
-1. man  
-men
+The trousers you bought for me __________________ me.
+doesn't
+ don't fit
+0
 
-2. kiss  
-kisses
+The police __________________ to interview two men about the robbery last week
+ want
+0
+wants
 
-3. child  
-children
+Physics __________________ my best subject at school.
+0
+ was
+were
 
-4. thief  
-thieves
+Can I borrow your scissors? Mine __________________ sharp enough.
+ aren't
+0
+isn't
 
-5. roof  
-roofs
+Fortunately the news __________________ as bad as we expected.
+weren't
+0
+ wasn't
 
-6. box  
-boxes
+Three days __________________ long enough for a good holiday
+aren't
+ isn't
+0
 
-7. leaf  
-leaves
+I can't find my binoculars. Do you know where __________________ ?
+ they are
+it is
+0
 
-8. wife  
-wives
+Do you think the people __________________ happy with the government ?
+0
+is
+ are
 
-9. foot  
-feet
+__________________ the police know how the accident happened?
+ Do
+0
+Does
 
-10. mouse  
-mice
+I don't like very hot weather. Thirty degrees __________________ too warm for me.
+are
+ is
+0
 
-11. woman  
-women
+Twenty thousand pounds __________________ stolen in the robbery.
+0
+ was
+were
 
-12. boy  
-boys
+The staff at the school __________________ happy with their new working conditions.
+0
+ aren't
+isn't
+
+Scotland __________________ playing France next week (in a football match)
+0
+ are
+is

@@ -1,29 +1,39 @@
 ﻿1.  ___  bath (baignoire) 
-a
+ a
+an
 
 2.  ___  alarm (alarme) 
-an
+ an
+a
 
 3.  ___  traffic jam (embouteillage) 
-a
+ a
+an
 
 4.  ___  rug (tapis) 
-a
+ a
+an
 
 5.  ___  mirror (miroir) 
-a
+ a
+an
 
 6.  ___  engine (locomotive) 
-an
+ an
+a
 
 7.  ___  towel (serviette) 
-a
+ a
+an
 
 8.  ___  earring (boucle d'oreille) 
-an
+ an
+a
 
 9.  ___  arm (bras) 
-an
+ an
+a
 
 10.  ___  desk (pupitre) 
-a
+ a
+an

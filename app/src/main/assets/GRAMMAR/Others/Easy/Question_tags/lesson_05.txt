@@ -1,49 +1,49 @@
 1. You are a primary school student,____ ?
-a. are you
-b.  aren't you
-c. you are
+are you
+ aren't you
+you are
 
 2. You are not ready,____ ?
-a.  are you
-b. aren't you
-c. you are
+ are you
+aren't you
+you are
 
 3. She is at home now,____ ?
-a.  isn't she
-b. doesn't she
-c. does she
+ isn't she
+doesn't she
+does she
 
 4. Amy isn't in the garden,____ ?
-a.  is she
-b. isn't she
-c.  does she
+ is she
+isn't she
+ does she
 
 5. I am not interested in maths,____ ?
-a.  am I
-b. am not I
-c. I am
+ am I
+am not I
+I am
 
 6. I am good at English,____ ?
-a. are I
-b.  aren't I
-c. I are
+are I
+ aren't I
+I are
 
 7. They go online every day,____ ?    
-a.  don't they
-b. didn't they
-c. did they
+ don't they
+didn't they
+did they
 
 8. She wants a new car,____ ?
-a. isn't she
-b.  doesn't she
-c. does she
+isn't she
+ doesn't she
+does she
 
 9. I read a lot,____ ?
-a.  don't I
-b. will I
-c. won't I
+ don't I
+will I
+won't I
 
 10. She came late last night,____ ?
-a.  didn't she
-b. has she
-c. hasn't she
+ didn't she
+has she
+hasn't she

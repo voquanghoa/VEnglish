@@ -1,35 +1,35 @@
 7. I <u><font color='red'>will go</font></u> <u><font color='red'>to see</font></u> her if I <u><font color='red'>have</font></u> time <u><font color='red'>enough</font></u>.
-a. will go
-b. to see
-c. have
-d.  enough
+will go
+to see
+have
+ enough
 
 8. My brother <u><font color='red'>always</font></u> <u><font color='red'>makes</font></u> my parents <u><font color='red'>to laugh</font></u> <u><font color='red'>all the time</font></u>.
-a. always
-b. makes
-c.  to laugh
-d. all the time
+always
+makes
+ to laugh
+all the time
 
 9. <u><font color='red'>My</font></u> sister <u><font color='red'>and</font></u> my brother <u><font color='red'>is</font></u> <u><font color='red'>teachers</font></u>.
-a. My
-b. and
-c.  is
-d. teachers
+My
+and
+ is
+teachers
 
 7. His father <u><font color='red'>would rather</font></u> <u><font color='red'>ask</font></u> his son <u><font color='red'>fix</font></u> the <u><font color='red'>broken</font></u> radio.
-a. would rather
-b. ask
-c.  fix
-d. broken
+would rather
+ask
+ fix
+broken
 
 8. It <u><font color='red'>is</font></u> not <u><font color='red'>easy</font></u> <u><font color='red'>do</font></u> <u><font color='red'>metal</font></u> work.
-a. is
-b. easy
-c.  do
-d. metal
+is
+easy
+ do
+metal
 
 9. His sister <u><font color='red'>explained</font></u> <u><font color='red'>to her</font></u> <u><font color='red'>how</font></u> <u><font color='red'>make</font></u> cookies.
-a. explained
-b. to her
-c. how
-d.  make
+explained
+to her
+how
+ make

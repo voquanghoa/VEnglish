@@ -1,29 +1,39 @@
 ﻿1. That's Jane. What's ___ job? 
-her
+ her
+hers
 
 2. That's Mr Smith. I think ___ is a teacher. 
-he
-
-3. That's Peter. What's ___ job? 
+ he
 his
 
-4. That's Helen. I think ___ is a nurse. 
-she
+3. That's Peter. What's ___ job? 
+ his
+he
 
-5. That's Mrs Jones. What's ___ job? 
+4. That's Helen. I think ___ is a nurse. 
+ she
 her
 
-6. Tim and Tom? I think ___ are detectives. 
-they
+5. That's Mrs Jones. What's ___ job? 
+ her
+she
 
-7. That's Bob and Tom. What's ___ job? 
+6. Tim and Tom? I think ___ are detectives. 
+ they
 their
 
+7. That's Bob and Tom. What's ___ job? 
+ their
+they
+
 8. Julie and I? I think ___ are doctors. 
-we
+ we
+our
 
 9. Hello! What's ___ name? 
-your
+ your
+our
 
 10. The neighbours? I think ___ are bus drivers. 
-they
+ they
+their

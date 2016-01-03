@@ -1,53 +1,53 @@
 Pronunciation
 1.
-a. <u><font color='red'>k</font></u>ind
-b. <u><font color='red'>k</font></u>eep
-c.  <u><font color='red'>k</font></u>night
-d. <u><font color='red'>k</font></u>it
+<u><font color='red'>k</font></u>ind
+<u><font color='red'>k</font></u>eep
+ <u><font color='red'>k</font></u>night
+<u><font color='red'>k</font></u>it
 
 2.
-a.  <u><font color='red'>c</font></u>ease
-b. <u><font color='red'>c</font></u>at
-c. <u><font color='red'>c</font></u>ome
-d. <u><font color='red'>c</font></u>ar
+ <u><font color='red'>c</font></u>ease
+<u><font color='red'>c</font></u>at
+<u><font color='red'>c</font></u>ome
+<u><font color='red'>c</font></u>ar
 
 3.
-a. du<u><font color='red'>b</font></u><u><font color='red'>b</font></u>ing
-b. ro<u><font color='red'>b</font></u>ot
-c.  clim<u><font color='red'>b</font></u>ing
-d. so<u><font color='red'>b</font></u>er
+du<u><font color='red'>b</font></u><u><font color='red'>b</font></u>ing
+ro<u><font color='red'>b</font></u>ot
+ clim<u><font color='red'>b</font></u>ing
+so<u><font color='red'>b</font></u>er
 
 4.
-a.  ref<u><font color='red'>er</font></u>
-b. nurs<u><font color='red'>er</font></u>
-c. teach<u><font color='red'>er</font></u>
-d. work<u><font color='red'>er</font></u>
+ ref<u><font color='red'>er</font></u>
+nurs<u><font color='red'>er</font></u>
+teach<u><font color='red'>er</font></u>
+work<u><font color='red'>er</font></u>
 
 5.
-a. book<u><font color='red'>ed</font></u>
-b. look<u><font color='red'>ed</font></u>
-c.  fool<u><font color='red'>ed</font></u>
-d. wash<u><font color='red'>ed</font></u>
+book<u><font color='red'>ed</font></u>
+look<u><font color='red'>ed</font></u>
+ fool<u><font color='red'>ed</font></u>
+wash<u><font color='red'>ed</font></u>
 
 
 Find the mistakes
 6. What <u><font color='red'>does</font></u> the weather <u><font color='red'>like</font></u> <u><font color='red'>in</font></u> Hanoi in <u><font color='red'>fall</font></u>?
-a.  does
-b. like
-c. in
-d. fall
+ does
+like
+in
+fall
 
 7. We will <u><font color='red'>be</font></u> <u><font color='red'>for</font></u> on <u><font color='red'>time for</font></u> <u><font color='red'>appointment</font></u>.
-a. be
-b.  for
-c. time for
-d. appointment
+be
+ for
+time for
+appointment
 
 8. <u><font color='red'>Let</font></u> <u><font color='red'>is</font></u> <u><font color='red'>sing</font></u> this song. It is a <u><font color='red'>beautiful</font></u> song.
-a. Let
-b.  is
-c. sing
-d. beautiful
+Let
+ is
+sing
+beautiful
 
 
 Grammar and Vocabulary
@@ -141,7 +141,7 @@ had cooked
  was cooking
 would cook
 
-16. Modern buildings should ________ with the surrouding area. 
+16. Modern buildings should ________ with the surrouding area . 
 suit
 fit
  blend

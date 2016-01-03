@@ -1,113 +1,113 @@
 12. - "The movie ............... last night was terrific." - "What is it about?"
-a. I went
-b. I went to it
-c.  I went to
-d. that I went
+I went
+I went to it
+ I went to
+that I went
 
 13. He didn't like the people ............. disagreed with his opinion.
-a.  who
-b. which
-c. where
-d. when
+ who
+which
+where
+when
 
-14. The programmer explained in great ................. how the computer worked.
-a. clarity
-b.  detail
-c. information
-d. example
+14. The programmer explained in great ................. how the computer worked .
+clarity
+ detail
+information
+example
 
 15. The wind blew so hard and so strongly that the windows ................
-a.  rattled
-b. slapped
-c. flapped
-d. shocked
+ rattled
+slapped
+flapped
+shocked
 
-16. The camera can't be loaded. I will help you find the ................ for it.
-a.  handbook
-b. note book
-c. work book
-d. cheque-book
+16. The camera can't be loaded . I will help you find the ................ for it.
+ handbook
+note book
+work book
+cheque-book
 
-17. The problem .................. never occurred.
-a. I had expected it
-b. which I had expected it
-c. that I had expected it
-d.  I had expected
+17. The problem .................. never occurred .
+I had expected it
+which I had expected it
+that I had expected it
+ I had expected
 
 18. If you don't stop teasing the cat, it'll ................ you.
-a. turn up
-b. turn down
-c. turn off
-d.  turn on
+turn up
+turn down
+turn off
+ turn on
 
 19. His family travel to Australia by the most ................ route.
-a. easy
-b.  direct
-c. straight
-d. unique
+easy
+ direct
+straight
+unique
 
 20. When I ................ the doctor, I will ask him to look at my throat.
-a. will see
-b. would see
-c.  see
-d. have seen
+will see
+would see
+ see
+have seen
 
 21. - "My writing has improved a lot in this class." - "Mine has, too. All the students ............. do well in writing."
-a. whom Mr. David teaches them
-b. that Mr. David teaches them
-c. which Mr. David teaches
-d.  Mr. David teaches
+whom Mr. David teaches them
+that Mr. David teaches them
+which Mr. David teaches
+ Mr. David teaches
 
 22. Can you do me a(n) ................ and cook the meal?
-a. help
-b. promise
-c.  favour
-d. aid
+help
+promise
+ favour
+aid
 
 23. My class has 17 students, most of ............... speak English very well.
-a. who
-b. those
-c.  whom
-d. which
+who
+those
+ whom
+which
 
 24. Daisy is going to have a short rest because she ................ a headache.
-a. takes
-b.  has
-c. feels
-d. suffers
+takes
+ has
+feels
+suffers
 
 25. Ann's doctor insists ................ for a few days.
-a. that she is resting
-b. her resting
-c. her to rest
-d.  that she rest
+that she is resting
+her resting
+her to rest
+ that she rest
 
 26. It is imperative that you ................ at home.
-a.  be
-b. will be
-c. will
-d. are
+ be
+will be
+will
+are
 
 27. I borrowed four books on gardening the last time I .............. to the library.
-a. go
-b.  went
-c. had gone
-d. have gone
+go
+ went
+had gone
+have gone
 
 28. ................ you rather drink some beer?
-a. Don't
-b. Will
-c.  Wouldn't
-d. Won't
+Don't
+Will
+ Wouldn't
+Won't
 
-29. Cars have become much more complicated. .............., mechanics need more training than in the past.
-a. Because
-b.  Therefore
-c. So that
-d. For
+29. Cars have become much more complicated . .............., mechanics need more training than in the past.
+Because
+ Therefore
+So that
+For
 
 30. I didn't get home after midnight last night. Otherwise, I ............... your call.
-a. returned
-b. had returned
-c. would return
-d.  would have returned
+returned
+had returned
+would return
+ would have returned

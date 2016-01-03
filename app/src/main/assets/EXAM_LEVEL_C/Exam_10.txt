@@ -1,58 +1,58 @@
 Pronunciation
 1. 
-a. m<u><font color='red'>o</font></u>nster 
-b.  c<u><font color='red'>o</font></u>ne 
-c. p<u><font color='red'>o</font></u>nd 
-d. b<u><font color='red'>o</font></u>nd
+m<u><font color='red'>o</font></u>nster 
+ c<u><font color='red'>o</font></u>ne 
+p<u><font color='red'>o</font></u>nd 
+b<u><font color='red'>o</font></u>nd
 
 2. 
-a. s<u><font color='red'>e</font></u>nse 
-b.  nons<u><font color='red'>e</font></u>nse 
-c. c<u><font color='red'>e</font></u>nt 
-d. b<u><font color='red'>e</font></u>nd
+s<u><font color='red'>e</font></u>nse 
+ nons<u><font color='red'>e</font></u>nse 
+c<u><font color='red'>e</font></u>nt 
+b<u><font color='red'>e</font></u>nd
 
 3. 
-a. s<u><font color='red'>u</font></u>gar 
-b. l<u><font color='red'>u</font></u>nar 
-c. b<u><font color='red'>u</font></u>llet 
-d.  lot<u><font color='red'>u</font></u>s
+s<u><font color='red'>u</font></u>gar 
+l<u><font color='red'>u</font></u>nar 
+b<u><font color='red'>u</font></u>llet 
+ lot<u><font color='red'>u</font></u>s
 
 4. 
-a.  cl<u><font color='red'>o</font></u>th 
-b. cl<u><font color='red'>o</font></u>the 
-c. cl<u><font color='red'>o</font></u>se 
-d. p<u><font color='red'>o</font></u>se
+ cl<u><font color='red'>o</font></u>th 
+cl<u><font color='red'>o</font></u>the 
+cl<u><font color='red'>o</font></u>se 
+p<u><font color='red'>o</font></u>se
 
 5. 
-a. h<u><font color='red'>ou</font></u>r 
-b. s<u><font color='red'>ou</font></u>nd 
-c.  s<u><font color='red'>ou</font></u>l 
-d. cl<u><font color='red'>ou</font></u>d
+h<u><font color='red'>ou</font></u>r 
+s<u><font color='red'>ou</font></u>nd 
+ s<u><font color='red'>ou</font></u>l 
+cl<u><font color='red'>ou</font></u>d
 
 6. 
-a.  illu<u><font color='red'>s</font></u>ion 
-b. ver<u><font color='red'>s</font></u>ion 
-c. pen<u><font color='red'>s</font></u>ion 
-d. ten<u><font color='red'>s</font></u>ion
+ illu<u><font color='red'>s</font></u>ion 
+ver<u><font color='red'>s</font></u>ion 
+pen<u><font color='red'>s</font></u>ion 
+ten<u><font color='red'>s</font></u>ion
 
 Find the mistakes
 7. <u><font color='red'>The</font></u> two houses <u><font color='red'>stood</font></u> 500 <u><font color='red'>meters</font></u> apart <u><font color='red'>from</font></u>.
-a. The
-b. stood
-c. meters
-d.  from
+The
+stood
+meters
+ from
 
 8. Let's <u><font color='red'>cut through</font></u> a wood <u><font color='red'>instead for</font></u> <u><font color='red'>going</font></u> <u><font color='red'>by</font></u> the road?
-a. cut through
-b.  instead for
-c. going
-d. by
+cut through
+ instead for
+going
+by
 
 9. <u><font color='red'>Unluckily</font></u> Jim's illness <u><font color='red'>turned out</font></u> to be <u><font color='red'>extreme</font></u> infectious. The consequence of that was he was kept <u><font color='red'>in isolation</font></u>.
-a. Unluckily
-b. turned out
-c.  extreme
-d. in isolation
+Unluckily
+turned out
+ extreme
+in isolation
 
 Grammar and Vocabulary
 1. There's something wrong with my watch: it's ________ fifteen minutes in the last twelve hours. 
@@ -133,7 +133,7 @@ he did see
 has he seen
 he saw
 
-14. I'm sorry I'm so late; we had a meeting at work which went ________ much longer than we expected. 
+14. I'm sorry I'm so late; we had a meeting at work which went ________ much longer than we expected . 
  on
 in
 by

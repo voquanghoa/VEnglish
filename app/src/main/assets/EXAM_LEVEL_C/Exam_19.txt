@@ -1,65 +1,65 @@
 Pronunciation
 1.
-a.  s<u><font color='red'>ur</font></u>e
-b. s<u><font color='red'>ur</font></u>name
-c. c<u><font color='red'>ur</font></u>tail
-d. c<u><font color='red'>ur</font></u>tain
+ s<u><font color='red'>ur</font></u>e
+s<u><font color='red'>ur</font></u>name
+c<u><font color='red'>ur</font></u>tail
+c<u><font color='red'>ur</font></u>tain
 
 2.
-a. sh<u><font color='red'>ou</font></u>t
-b. l<u><font color='red'>ou</font></u>d
-c.  p<u><font color='red'>ou</font></u>r
-d. m<u><font color='red'>ou</font></u>se
+sh<u><font color='red'>ou</font></u>t
+l<u><font color='red'>ou</font></u>d
+ p<u><font color='red'>ou</font></u>r
+m<u><font color='red'>ou</font></u>se
 
 3.
-a.  r<u><font color='red'>oa</font></u>r
-b. c<u><font color='red'>oa</font></u>t
-c. r<u><font color='red'>oa</font></u>st
-d. t<u><font color='red'>oa</font></u>st
+ r<u><font color='red'>oa</font></u>r
+c<u><font color='red'>oa</font></u>t
+r<u><font color='red'>oa</font></u>st
+t<u><font color='red'>oa</font></u>st
 
 4.
-a. <u><font color='red'>s</font></u>ick
-b.  <u><font color='red'>s</font></u>urely
-c. <u><font color='red'>s</font></u>earch
-d. <u><font color='red'>s</font></u>end
+<u><font color='red'>s</font></u>ick
+ <u><font color='red'>s</font></u>urely
+<u><font color='red'>s</font></u>earch
+<u><font color='red'>s</font></u>end
 
 5.
-a. r<u><font color='red'>oo</font></u>m
-b. gl<u><font color='red'>oo</font></u>my
-c.  p<u><font color='red'>oo</font></u>r
-d. w<u><font color='red'>oo</font></u>d
+r<u><font color='red'>oo</font></u>m
+gl<u><font color='red'>oo</font></u>my
+ p<u><font color='red'>oo</font></u>r
+w<u><font color='red'>oo</font></u>d
 
 6.
-a.  kn<u><font color='red'>ow</font></u>
-b. c<u><font color='red'>ow</font></u>
-c. t<u><font color='red'>ow</font></u>er
-d. n<u><font color='red'>ow</font></u>
+ kn<u><font color='red'>ow</font></u>
+c<u><font color='red'>ow</font></u>
+t<u><font color='red'>ow</font></u>er
+n<u><font color='red'>ow</font></u>
 
 7.
-a. d<u><font color='red'>ou</font></u>bt
-b. c<u><font color='red'>ou</font></u>nt
-c.  b<u><font color='red'>ou</font></u>ght
-d. cl<u><font color='red'>ou</font></u>d
+d<u><font color='red'>ou</font></u>bt
+c<u><font color='red'>ou</font></u>nt
+ b<u><font color='red'>ou</font></u>ght
+cl<u><font color='red'>ou</font></u>d
 
 
 Find the mistakes
 8. We <u><font color='red'>can prevent</font></u> flood <u><font color='red'>by</font></u> <u><font color='red'>preservation</font></u> <u><font color='red'>the forests</font></u>.
-a. can prevent
-b. by
-c.  preservation
-d. the forests
+can prevent
+by
+ preservation
+the forests
 
 9. <u><font color='red'>Does</font></u> <u><font color='red'>the</font></u> grass <u><font color='red'>need</font></u> <u><font color='red'>be cut</font></u>?
-a. Does
-b. the
-c. need
-d.  be cut
+Does
+the
+need
+ be cut
 
 10. Jane <u><font color='red'>said</font></u> she <u><font color='red'>is</font></u> 18 <u><font color='red'>years</font></u> <u><font color='red'>the</font></u> following week.
-a. said
-b.  is
-c. years
-d. the
+said
+ is
+years
+the
 
 
 Grammar and Vocabulary
@@ -177,7 +177,7 @@ spinner
 trade
 killing
 
-20. Some practical ________ is desireable for candidates interested in applying for this job. 
+20. Some practical ________ is desireable for candidates interested in applying for this job . 
 exploit
 adventure
 initiative

@@ -46,7 +46,7 @@ isn't coming
 doesn't come
 don't come
 
-9. I've decided to join ________ this club. 
+9. I've decided to join ________ this club . 
 to
 at
  -
@@ -100,7 +100,7 @@ length
 breadth
  height
  
-18. Studying late at night is one of those things that ________ me tired. 
+18. Studying late at night is one of those things that ________ me tired . 
  make
 are making
 makes

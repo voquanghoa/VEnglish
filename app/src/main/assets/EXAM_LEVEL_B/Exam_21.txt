@@ -1,71 +1,71 @@
 Pronunciation
 1. 
-a. <u><font color='red'>c</font></u>ar	 
-b. <u><font color='red'>c</font></u>arriage	
-c. <u><font color='red'>c</font></u>orn	 
-d.  <u><font color='red'>c</font></u>ity 
+<u><font color='red'>c</font></u>ar	 
+<u><font color='red'>c</font></u>arriage	
+<u><font color='red'>c</font></u>orn	 
+ <u><font color='red'>c</font></u>ity 
 
 2. 
-a.  ch<u><font color='red'>i</font></u>ldren	
-b. ch<u><font color='red'>i</font></u>ld	
-c. l<u><font color='red'>i</font></u>ne	
-d. s<u><font color='red'>i</font></u>gn 
+ ch<u><font color='red'>i</font></u>ldren	
+ch<u><font color='red'>i</font></u>ld	
+l<u><font color='red'>i</font></u>ne	
+s<u><font color='red'>i</font></u>gn 
 
 3. 
-a. <u><font color='red'>ei</font></u>ght	 
-b. w<u><font color='red'>ei</font></u>ght	
-c. fr<u><font color='red'>ei</font></u>ght	
-d.  h<u><font color='red'>ei</font></u>ghten 
+<u><font color='red'>ei</font></u>ght	 
+w<u><font color='red'>ei</font></u>ght	
+fr<u><font color='red'>ei</font></u>ght	
+ h<u><font color='red'>ei</font></u>ghten 
 
 4. 
-a. exc<u><font color='red'>ur</font></u>sion	 
-b. f<u><font color='red'>ur</font></u>	
-c. h<u><font color='red'>ur</font></u>ry	 
-d.  b<u><font color='red'>ur</font></u>y
+exc<u><font color='red'>ur</font></u>sion	 
+f<u><font color='red'>ur</font></u>	
+h<u><font color='red'>ur</font></u>ry	 
+ b<u><font color='red'>ur</font></u>y
 
 5. 
-a. w<u><font color='red'>a</font></u>rm	 
-b.  w<u><font color='red'>a</font></u>sh	
-c. w<u><font color='red'>a</font></u>ll	
-d. w<u><font color='red'>a</font></u>lk 
+w<u><font color='red'>a</font></u>rm	 
+ w<u><font color='red'>a</font></u>sh	
+w<u><font color='red'>a</font></u>ll	
+w<u><font color='red'>a</font></u>lk 
 
 6. 
-a. pl<u><font color='red'>ow</font></u>	
-b. h<u><font color='red'>ow</font></u>	
-c. c<u><font color='red'>ow</font></u>	
-d.  fl<u><font color='red'>ow</font></u> 
+pl<u><font color='red'>ow</font></u>	
+h<u><font color='red'>ow</font></u>	
+c<u><font color='red'>ow</font></u>	
+ fl<u><font color='red'>ow</font></u> 
 
 
 Find the mistakes
 7. The blankets of fog that <u><font color='red'>cover often</font></u> coastlines and valleys are <u><font color='red'>really</font></u> <u><font color='red'>ground-level clouds</font></u> which are <u><font color='red'>usually composed</font></u> of minute water droplets.
-a.  cover often
-b. really
-c. ground-level clouds
-d. usually composed
+ cover often
+really
+ground-level clouds
+usually composed
 
 8. When the eggs of the Nile crocodile are <u><font color='red'>close to hatching</font></u>, <u><font color='red'>the young within</font></u> make <u><font color='red'>piping calls</font></u> which are <u><font color='red'>too loud</font></u> that they can be heard from several yards.
-a. close to hatching
-b. the young within
-c. piping calls
-d.  too loud
+close to hatching
+the young within
+piping calls
+ too loud
 
 9. The <u><font color='red'>multi-storied</font></u> skyscraper, developed by Louis Sullivan, with <u><font color='red'>its</font></u> <u><font color='red'>iron or steel</font></u> framework reflected some of American's <u><font color='red'>industrial great</font></u> achievements in the last half of the 19th century.
-a. multi-storied
-b. its
-c. iron or steel	
-d.  industrial great
+multi-storied
+its
+iron or steel	
+ industrial great
 
 10. An American college <u><font color='red'>typically offers</font></u> <u><font color='red'>a blend of</font></u> <u><font color='red'>naturally</font></u> and social sciences and <u><font color='red'>humanistic studies</font></u>.
-a. typically offers
-b. a blend of
-c.  naturally
-d. humanistic studies
+typically offers
+a blend of
+ naturally
+humanistic studies
 
 11. The Grand Canyon is <u><font color='red'>too dry</font></u> that <u><font color='red'>only isolated</font></u> juniper trees and <u><font color='red'>low serub</font></u> freckle the surface of the cliffs and <u><font color='red'>the rock strata</font></u>.
-a.  too dry
-b. only isolated
-c. low serub
-d. the rock strata
+ too dry
+only isolated
+low serub
+the rock strata
 
 
 Grammar and Vocabulary
@@ -81,7 +81,7 @@ brave
 unfriendly
 angry
 
-3. I ________ away for the next weekend. 
+3. I ________ away for the next weekend . 
  am going to go
 go
 goes
@@ -135,7 +135,7 @@ disapprove
 want
 object
 
-12. You're really old-fashioned. It's time you got more ________ it. 
+12. You're really old-fashioned . It's time you got more ________ it. 
  with
 at
 on

@@ -58,7 +58,7 @@ is saying
 shall say
  says
 
-1. "You are late" he said. "I think the bus ________ already." 
+1. "You are late" he said . "I think the bus ________ already." 
 went
 was going
  has gone

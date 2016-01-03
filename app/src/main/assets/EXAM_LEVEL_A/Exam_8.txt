@@ -1,58 +1,58 @@
 Pronunciation
 1. 
-a. c<u><font color='red'>or</font></u>n 
-b. b<u><font color='red'>or</font></u>n 
-c. h<u><font color='red'>or</font></u>se 
-d.  w<u><font color='red'>or</font></u>ld
+c<u><font color='red'>or</font></u>n 
+b<u><font color='red'>or</font></u>n 
+h<u><font color='red'>or</font></u>se 
+ w<u><font color='red'>or</font></u>ld
 
 2. 
-a.  l<u><font color='red'>e</font></u>d 
-b. r<u><font color='red'>e</font></u>write 
-c. r<u><font color='red'>e</font></u>peat 
-d. p<u><font color='red'>e</font></u>ter
+ l<u><font color='red'>e</font></u>d 
+r<u><font color='red'>e</font></u>write 
+r<u><font color='red'>e</font></u>peat 
+p<u><font color='red'>e</font></u>ter
 
 3. 
-a. sp<u><font color='red'>o</font></u>ken 
-b.  w<u><font color='red'>o</font></u>man 
-c. h<u><font color='red'>o</font></u>ld 
-d. r<u><font color='red'>o</font></u>de
+sp<u><font color='red'>o</font></u>ken 
+ w<u><font color='red'>o</font></u>man 
+h<u><font color='red'>o</font></u>ld 
+r<u><font color='red'>o</font></u>de
 
 4. 
-a. pref<u><font color='red'>er</font></u> 
-b.  cl<u><font color='red'>er</font></u>k 
-c. t<u><font color='red'>er</font></u>n 
-d. c<u><font color='red'>er</font></u>tainly
+pref<u><font color='red'>er</font></u> 
+ cl<u><font color='red'>er</font></u>k 
+t<u><font color='red'>er</font></u>n 
+c<u><font color='red'>er</font></u>tainly
 
 5. 
-a. tw<u><font color='red'>i</font></u>ns 
-b.  f<u><font color='red'>i</font></u>ne 
-c. <u><font color='red'>i</font></u>nch 
-d. k<u><font color='red'>i</font></u>ng
+tw<u><font color='red'>i</font></u>ns 
+ f<u><font color='red'>i</font></u>ne 
+<u><font color='red'>i</font></u>nch 
+k<u><font color='red'>i</font></u>ng
 
 6. 
-a. sk<u><font color='red'>y</font></u> 
-b. m<u><font color='red'>y</font></u> 
-c. rel<u><font color='red'>y</font></u> 
-d.  slowl<u><font color='red'>y</font></u>
+sk<u><font color='red'>y</font></u> 
+m<u><font color='red'>y</font></u> 
+rel<u><font color='red'>y</font></u> 
+ slowl<u><font color='red'>y</font></u>
 
 Find the mistakes
 7. <u><font color='red'>My</font></u> father <u><font color='red'>is</font></u> <u><font color='red'>a</font></u> <u><font color='red'>doctors</font></u>.
-a. My
-b. is
-c. a
-d.  doctors
+My
+is
+a
+ doctors
 
 8. <u><font color='red'>Three</font></u> <u><font color='red'>and</font></u> two <u><font color='red'>are</font></u> <u><font color='red'>five</font></u>.
-a. Three
-b. and
-c.  are
-d. five
+Three
+and
+ are
+five
 
 9. <u><font color='red'>Let's</font></u> <u><font color='red'>going</font></u> to <u><font color='red'>the dancing hall</font></u> <u><font color='red'>this</font></u> Sunday.
-a. Let's
-b.  going
-c. the dancing hall
-d. this
+Let's
+ going
+the dancing hall
+this
 
 Grammar and Vocabulary
  This bread is stale. Why don't you ________ it away? 
@@ -151,7 +151,7 @@ made
  is making
 has made
 
-17. "I wish you ________ me to put these things away" he said. 
+17. "I wish you ________ me to put these things away" he sai
 will help
 help
 are helping

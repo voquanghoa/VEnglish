@@ -1,59 +1,59 @@
 7. The policeman ordered <u><font color='red'>the suspect</font></u> <u><font color='red'>to don't remove</font></u> <u><font color='red'>his hands</font></u> <u><font color='red'>from the</font></u> hood of the car.
-a. the suspect
-b.  to don't remove
-c. his hands
-d. from the
+the suspect
+ to don't remove
+his hands
+from the
 
 8. It was <u><font color='red'>him</font></u> <u><font color='red'>who</font></u> came running <u><font color='red'>into the classroom</font></u> <u><font color='red'>with the news</font></u>.
-a.  him
-b. who
-c. into the classroom
-d. with the news
+ him
+who
+into the classroom
+with the news
 
 9. <u><font color='red'>My brother</font></u> doesn't care how much <u><font color='red'>does the car cost</font></u> <u><font color='red'>because</font></u> <u><font color='red'>he is going to buy</font></u> it anyway.
-a. My brother
-b.  does the car cost
-c. because
-d. he is going to buy
+My brother
+ does the car cost
+because
+he is going to buy
 
 10. <u><font color='red'>Mary and her</font></u> sister <u><font color='red'>studied</font></u> biology <u><font color='red'>last year</font></u>, and <u><font color='red'>so does Jean</font></u>.
-a. Mary and her
-b. studied
-c. last year
-d.  so does Jean
+Mary and her
+studied
+last year
+ so does Jean
 
 11. Peter had <u><font color='red'>already saw</font></u> that musical <u><font color='red'>before</font></u> he <u><font color='red'>read</font></u> the reviews <u><font color='red'>about it</font></u>.
-a.  already saw
-b. before
-c. read
-d. about it
+ already saw
+before
+read
+about it
 
 7. There's <u><font color='red'>a</font></u> <u><font color='red'>new</font></u> Oriental restaurant <u><font color='red'>in town</font></u>, <u><font color='red'>isn't it</font></u>?
-a. a
-b. new
-c. in town
-d.  isn't it
+a
+new
+in town
+ isn't it
 
 8. The government <u><font color='red'>has</font></u> decided <u><font color='red'>voting</font></u> <u><font color='red'>on the resolution</font></u> now <u><font color='red'>rather</font></u> than next month.
-a. has
-b.  voting
-c. on the resolution
-d. rather
+has
+ voting
+on the resolution
+rather
 
 9. The professor <u><font color='red'>is</font></u> thinking <u><font color='red'>to go</font></u> to the conference <u><font color='red'>on aerodynamics</font></u> <u><font color='red'>next month</font></u>.
-a. is
-b.  to go
-c. on aerodynamics
-d. next month
+is
+ to go
+on aerodynamics
+next month
 
 10. His father <u><font color='red'>does not</font></u> approve <u><font color='red'>him to go</font></u> to the banquet <u><font color='red'>without dressing</font></u> <u><font color='red'>formally</font></u>.
-a. does not
-b.  him to go
-c. without dressing
-d. formally
+does not
+ him to go
+without dressing
+formally
 
 11. No one would have <u><font color='red'>attended</font></u> the lecture if you <u><font color='red'>told</font></u> <u><font color='red'>the truth about</font></u> the <u><font color='red'>guest speaker</font></u>.
-a. attended
-b.  told
-c. the truth about
-d. guest speaker
+attended
+ told
+the truth about
+guest speaker

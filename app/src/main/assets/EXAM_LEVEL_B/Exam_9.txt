@@ -1,71 +1,71 @@
 Pronunciation
 1. 
-a. sh<u><font color='red'>i</font></u>rt	
-b.  f<u><font color='red'>i</font></u>re	
-c. f<u><font color='red'>i</font></u>rst	
-d. b<u><font color='red'>i</font></u>rd
+sh<u><font color='red'>i</font></u>rt	
+ f<u><font color='red'>i</font></u>re	
+f<u><font color='red'>i</font></u>rst	
+b<u><font color='red'>i</font></u>rd
 
 2. 
-a. th<u><font color='red'>i</font></u>nk	
-b.  s<u><font color='red'>i</font></u>gn	
-c. r<u><font color='red'>i</font></u>ng	
-d. s<u><font color='red'>i</font></u>ng
+th<u><font color='red'>i</font></u>nk	
+ s<u><font color='red'>i</font></u>gn	
+r<u><font color='red'>i</font></u>ng	
+s<u><font color='red'>i</font></u>ng
 
 3. 
-a. f<u><font color='red'>i</font></u>ght	
-b. h<u><font color='red'>i</font></u>gh	
-c.  f<u><font color='red'>i</font></u>gure	
-d. br<u><font color='red'>i</font></u>ght
+f<u><font color='red'>i</font></u>ght	
+h<u><font color='red'>i</font></u>gh	
+ f<u><font color='red'>i</font></u>gure	
+br<u><font color='red'>i</font></u>ght
 
 4. 
-a. <u><font color='red'>h</font></u>ouse	
-b.  <u><font color='red'>h</font></u>our	
-c. <u><font color='red'>h</font></u>ow	
-d. <u><font color='red'>h</font></u>orse
+<u><font color='red'>h</font></u>ouse	
+ <u><font color='red'>h</font></u>our	
+<u><font color='red'>h</font></u>ow	
+<u><font color='red'>h</font></u>orse
 
 5. 
-a. bo<u><font color='red'>b</font></u>	
-b. ho<u><font color='red'>b</font></u>	
-c. lo<u><font color='red'>b</font></u>	
-d.  bom<u><font color='red'>b</font></u>
+bo<u><font color='red'>b</font></u>	
+ho<u><font color='red'>b</font></u>	
+lo<u><font color='red'>b</font></u>	
+ bom<u><font color='red'>b</font></u>
 
 6. 
-a. l<u><font color='red'>o</font></u>ng
-b. s<u><font color='red'>o</font></u>ng
-c.  t<u><font color='red'>o</font></u>ngue	
-d. wr<u><font color='red'>o</font></u>ng
+l<u><font color='red'>o</font></u>ng
+s<u><font color='red'>o</font></u>ng
+ t<u><font color='red'>o</font></u>ngue	
+wr<u><font color='red'>o</font></u>ng
 
 
 Find the mistakes
 7. The policeman ordered <u><font color='red'>the suspect</font></u> <u><font color='red'>to don't remove</font></u> <u><font color='red'>his hands</font></u> <u><font color='red'>from the</font></u> hood of the car.
-a. the suspect
-b.  to don't remove
-c. his hands
-d. from the
+the suspect
+ to don't remove
+his hands
+from the
 
 8. It was <u><font color='red'>him</font></u> <u><font color='red'>who</font></u> came running <u><font color='red'>into the classroom</font></u> <u><font color='red'>with the news</font></u>.
-a.  him
-b. who
-c. into the classroom
-d. with the news
+ him
+who
+into the classroom
+with the news
 
 9. <u><font color='red'>My brother</font></u> doesn't care how much <u><font color='red'>does the car cost</font></u> <u><font color='red'>because</font></u> <u><font color='red'>he is going to buy</font></u> it anyway.
-a. My brother
-b.  does the car cost
-c. because
-d. he is going to buy
+My brother
+ does the car cost
+because
+he is going to buy
 
 10. <u><font color='red'>Mary and her</font></u> sister <u><font color='red'>studied</font></u> biology <u><font color='red'>last year</font></u>, and <u><font color='red'>so does Jean</font></u>.
-a. Mary and her
-b. studied
-c. last year
-d.  so does Jean
+Mary and her
+studied
+last year
+ so does Jean
 
 11. Peter had <u><font color='red'>already saw</font></u> that musical <u><font color='red'>before</font></u> he <u><font color='red'>read</font></u> the reviews <u><font color='red'>about it</font></u>.
-a.  already saw
-b. before
-c. read
-d. about it
+ already saw
+before
+read
+about it
 
 
 Grammar and Vocabulary
@@ -111,7 +111,7 @@ haven't been feeling
 didn't feel
  haven't felt
  
-8. If he ________ lucky, he can get the job. 
+8. If he ________ lucky, he can get the job . 
  is
 had been
 would be

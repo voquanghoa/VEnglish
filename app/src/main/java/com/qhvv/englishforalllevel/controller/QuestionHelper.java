@@ -94,25 +94,11 @@ public class QuestionHelper {
     }
 
     private static String getQuestionString(ArrayList<String> lineGroup, int lineIndex){
+        String removeRegex = "^(\\d+)(\\.|\\)) ";
+
         if(lineIndex < lineGroup.size()) {
             String question = lineGroup.get(lineIndex);
-
-            if(question.length()>0){
-                char firstChar = question.charAt(0);
-
-                if(Character.isDigit(firstChar) || (firstChar=='﻿' && question.charAt(1)=='1')){
-                    if(question.charAt(1)=='.' || firstChar=='('){
-                        question=question.substring(2).trim();
-                    }else {
-                        if(question.charAt(2)=='.' || question.charAt(0)=='('){
-                            question=question.substring(3).trim();
-                        }else if(question.charAt(3)=='.' || question.charAt(0)=='('){
-                            question=question.substring(4).trim();
-                        }
-                    }
-                }
-            }
-            return question;
+            return question.replaceAll(removeRegex,"");
         }
         return "";
     }

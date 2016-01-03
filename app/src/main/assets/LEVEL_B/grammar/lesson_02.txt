@@ -1,4 +1,4 @@
-1. The funeral will be ________, and only members of the dead man's family will attend. 
+1. The funeral will be ________, and only members of the dead man's family will attend . 
 peculiar
 particular
  private
@@ -46,7 +46,7 @@ smoking
  to smoke
 some smoked
 
-9. I have absolutely no doubt ________ the innocence of the accused. 
+9. I have absolutely no doubt ________ the innocence of the accused . 
  about
 over
 on

@@ -1,35 +1,35 @@
 7. <u><font color='red'>What</font></u> a <u><font color='red'>lovely</font></u> <u><font color='red'>day</font></u> <u><font color='red'>us</font></u> had!
-a. What
-b. lovely
-c.  us
-d. day
+What
+lovely
+ us
+day
 
 8. My <u><font color='red'>former</font></u> students always <u><font color='red'>send</font></u> me letters telling <u><font color='red'>about</font></u> <u><font color='red'>theirs</font></u> life and work.
-a. former
-b. send
-c. about
-d.  theirs
+former
+send
+about
+ theirs
 
 9. <u><font color='red'>What</font></u> <u><font color='red'>is</font></u> <u><font color='red'>the</font></u> weather <u><font color='red'>like</font></u> yesterday?
-a. What
-b.  is
-c. the
-d. like
+What
+ is
+the
+like
 
 7. <u><font color='red'>This</font></u> package <u><font color='red'>is</font></u> three <u><font color='red'>pounds</font></u> <u><font color='red'>wide</font></u>.
-a. This
-b. is
-c. pounds
-d.  wide
+This
+is
+pounds
+ wide
 
 8. <u><font color='red'>Don't</font></u> <u><font color='red'>tell</font></u> her <u><font color='red'>of</font></u> <u><font color='red'>this</font></u>.
-a. Don't
-b. tell
-c.  of
-d. this
+Don't
+tell
+ of
+this
 
 9. <u><font color='red'>Three days</font></u> <u><font color='red'>ago</font></u> the Browns <u><font color='red'>go</font></u> for a picnic <u><font color='red'>in the country</font></u>.
-a. Three days
-b. ago
-c.  go
-d. in the country
+Three days
+ago
+ go
+in the country

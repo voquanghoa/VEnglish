@@ -1,71 +1,71 @@
 1. 
-a. m<u><font color='red'>i</font></u>ce 
-b.  pol<u><font color='red'>i</font></u>ce 
-c. <u><font color='red'>i</font></u>ce 
-d. sp<u><font color='red'>i</font></u>ce
+m<u><font color='red'>i</font></u>ce 
+ pol<u><font color='red'>i</font></u>ce 
+<u><font color='red'>i</font></u>ce 
+sp<u><font color='red'>i</font></u>ce
 
 2. 
-a. m<u><font color='red'>i</font></u>le 
-b. sm<u><font color='red'>i</font></u>le 
-c.  pup<u><font color='red'>i</font></u>l 
-d. p<u><font color='red'>i</font></u>le
+m<u><font color='red'>i</font></u>le 
+sm<u><font color='red'>i</font></u>le 
+ pup<u><font color='red'>i</font></u>l 
+p<u><font color='red'>i</font></u>le
 
 3. 
-a. p<u><font color='red'>o</font></u>lice 
-b. c<u><font color='red'>o</font></u>llide 
-c.  p<u><font color='red'>o</font></u>litics 
-d. p<u><font color='red'>o</font></u>lite
+p<u><font color='red'>o</font></u>lice 
+c<u><font color='red'>o</font></u>llide 
+ p<u><font color='red'>o</font></u>litics 
+p<u><font color='red'>o</font></u>lite
 
 4. 
-a.  foss<u><font color='red'>i</font></u>l 
-b. k<u><font color='red'>i</font></u>ll 
-c. f<u><font color='red'>i</font></u>ll 
-d. <u><font color='red'>i</font></u>ll
+ foss<u><font color='red'>i</font></u>l 
+k<u><font color='red'>i</font></u>ll 
+f<u><font color='red'>i</font></u>ll 
+<u><font color='red'>i</font></u>ll
 
 5. 
-a. am<u><font color='red'>u</font></u>se 
-b. conf<u><font color='red'>u</font></u>se 
-c. ref<u><font color='red'>u</font></u>se 
-d.  cl<u><font color='red'>u</font></u>ster
+am<u><font color='red'>u</font></u>se 
+conf<u><font color='red'>u</font></u>se 
+ref<u><font color='red'>u</font></u>se 
+ cl<u><font color='red'>u</font></u>ster
 
 6. 
-a. thr<u><font color='red'>ee</font></u> 
-b. tr<u><font color='red'>ee</font></u> 
-c.  p<u><font color='red'>ee</font></u>r 
-d. fr<u><font color='red'>ee</font></u>
+thr<u><font color='red'>ee</font></u> 
+tr<u><font color='red'>ee</font></u> 
+ p<u><font color='red'>ee</font></u>r 
+fr<u><font color='red'>ee</font></u>
 
 1. 
-a. m<u><font color='red'>o</font></u>nster 
-b.  c<u><font color='red'>o</font></u>ne 
-c. p<u><font color='red'>o</font></u>nd 
-d. b<u><font color='red'>o</font></u>nd
+m<u><font color='red'>o</font></u>nster 
+ c<u><font color='red'>o</font></u>ne 
+p<u><font color='red'>o</font></u>nd 
+b<u><font color='red'>o</font></u>nd
 
 2. 
-a. s<u><font color='red'>e</font></u>nse 
-b.  nons<u><font color='red'>e</font></u>nse 
-c. c<u><font color='red'>e</font></u>nt 
-d. b<u><font color='red'>e</font></u>nd
+s<u><font color='red'>e</font></u>nse 
+ nons<u><font color='red'>e</font></u>nse 
+c<u><font color='red'>e</font></u>nt 
+b<u><font color='red'>e</font></u>nd
 
 3. 
-a. s<u><font color='red'>u</font></u>gar 
-b. l<u><font color='red'>u</font></u>nar 
-c. b<u><font color='red'>u</font></u>llet 
-d.  lot<u><font color='red'>u</font></u>s
+s<u><font color='red'>u</font></u>gar 
+l<u><font color='red'>u</font></u>nar 
+b<u><font color='red'>u</font></u>llet 
+ lot<u><font color='red'>u</font></u>s
 
 4. 
-a.  cl<u><font color='red'>o</font></u>th 
-b. cl<u><font color='red'>o</font></u>the 
-c. cl<u><font color='red'>o</font></u>se 
-d. p<u><font color='red'>o</font></u>se
+ cl<u><font color='red'>o</font></u>th 
+cl<u><font color='red'>o</font></u>the 
+cl<u><font color='red'>o</font></u>se 
+p<u><font color='red'>o</font></u>se
 
 5. 
-a. h<u><font color='red'>ou</font></u>r 
-b. s<u><font color='red'>ou</font></u>nd 
-c.  s<u><font color='red'>ou</font></u>l 
-d. cl<u><font color='red'>ou</font></u>d
+h<u><font color='red'>ou</font></u>r 
+s<u><font color='red'>ou</font></u>nd 
+ s<u><font color='red'>ou</font></u>l 
+cl<u><font color='red'>ou</font></u>d
 
 6. 
-a.  illu<u><font color='red'>s</font></u>ion 
-b. ver<u><font color='red'>s</font></u>ion 
-c. pen<u><font color='red'>s</font></u>ion 
-d. ten<u><font color='red'>s</font></u>ion
+ illu<u><font color='red'>s</font></u>ion 
+ver<u><font color='red'>s</font></u>ion 
+pen<u><font color='red'>s</font></u>ion 
+ten<u><font color='red'>s</font></u>ion

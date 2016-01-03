@@ -28,7 +28,7 @@ quietly
 fairly
  simply
 
-6. I can____ you that the duties are not in any way complicated.
+6. I can____ you that the duties are not in any way complicated .
 confirm
  assure
 assert

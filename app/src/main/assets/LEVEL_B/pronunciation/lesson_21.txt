@@ -1,59 +1,59 @@
 1. 
-a. seem<u><font color='red'>ed</font></u> 	
-b. lov<u><font color='red'>ed</font></u> 		
-c. join<u><font color='red'>ed</font></u> 		
-d.  hop<u><font color='red'>ed</font></u>
+seem<u><font color='red'>ed</font></u> 	
+lov<u><font color='red'>ed</font></u> 		
+join<u><font color='red'>ed</font></u> 		
+ hop<u><font color='red'>ed</font></u>
 
 2. 
-a.  d<u><font color='red'>o</font></u> 	
-b. g<u><font color='red'>o</font></u> 		
-c. s<u><font color='red'>o</font></u> 			
-d. n<u><font color='red'>o</font></u>
+ d<u><font color='red'>o</font></u> 	
+g<u><font color='red'>o</font></u> 		
+s<u><font color='red'>o</font></u> 			
+n<u><font color='red'>o</font></u>
 
 3. 
-a. par<u><font color='red'>a</font></u>de 	
-b. ch<u><font color='red'>a</font></u>nge 		
-c. gr<u><font color='red'>a</font></u>ze 		
-d.  c<u><font color='red'>a</font></u>lf
+par<u><font color='red'>a</font></u>de 	
+ch<u><font color='red'>a</font></u>nge 		
+gr<u><font color='red'>a</font></u>ze 		
+ c<u><font color='red'>a</font></u>lf
 
 4. 
-a. <u><font color='red'>wh</font></u>ile 	
-b. <u><font color='red'>wh</font></u>ere 		
-c.  <u><font color='red'>wh</font></u>ose 		
-d. <u><font color='red'>wh</font></u>ite
+<u><font color='red'>wh</font></u>ile 	
+<u><font color='red'>wh</font></u>ere 		
+ <u><font color='red'>wh</font></u>ose 		
+<u><font color='red'>wh</font></u>ite
 
 5. 
-a. la<u><font color='red'>k</font></u>e 	
-b.  <u><font color='red'>k</font></u>nife 		
-c. <u><font color='red'>k</font></u>eep 		
-d. nec<u><font color='red'>k</font></u>
+la<u><font color='red'>k</font></u>e 	
+ <u><font color='red'>k</font></u>nife 		
+<u><font color='red'>k</font></u>eep 		
+nec<u><font color='red'>k</font></u>
 
 1. 
-a. n<u><font color='red'>o</font></u>tice 	
-b. t<u><font color='red'>o</font></u>ld 		
-c.  h<u><font color='red'>ow</font></u> 			
-d. g<u><font color='red'>oa</font></u>l
+n<u><font color='red'>o</font></u>tice 	
+t<u><font color='red'>o</font></u>ld 		
+ h<u><font color='red'>ow</font></u> 			
+g<u><font color='red'>oa</font></u>l
 
 2. 
-a. c<u><font color='red'>a</font></u>ll 	
-b. w<u><font color='red'>a</font></u>ll 		
-c. sm<u><font color='red'>a</font></u>ll 		
-d.  c<u><font color='red'>a</font></u>t
+c<u><font color='red'>a</font></u>ll 	
+w<u><font color='red'>a</font></u>ll 		
+sm<u><font color='red'>a</font></u>ll 		
+ c<u><font color='red'>a</font></u>t
 
 3. 
-a. d<u><font color='red'>ie</font></u> 	
-b. l<u><font color='red'>i</font></u>on 		
-c. ch<u><font color='red'>i</font></u>ld 		
-d.  ch<u><font color='red'>i</font></u>ldren    
+d<u><font color='red'>ie</font></u> 	
+l<u><font color='red'>i</font></u>on 		
+ch<u><font color='red'>i</font></u>ld 		
+ ch<u><font color='red'>i</font></u>ldren    
 
 4. 
-a. sh<u><font color='red'>ee</font></u>p 	
-b. sl<u><font color='red'>ee</font></u>p 		
-c. m<u><font color='red'>ee</font></u>t  		
-d.  d<u><font color='red'>ee</font></u>r 
+sh<u><font color='red'>ee</font></u>p 	
+sl<u><font color='red'>ee</font></u>p 		
+m<u><font color='red'>ee</font></u>t  		
+ d<u><font color='red'>ee</font></u>r 
 
 5. 
-a. year<u><font color='red'>s</font></u> 	
-b. hand<u><font color='red'>s</font></u> 		
-c.  shop<u><font color='red'>s</font></u> 		
-d. sign<u><font color='red'>s</font></u>    
+year<u><font color='red'>s</font></u> 	
+hand<u><font color='red'>s</font></u> 		
+ shop<u><font color='red'>s</font></u> 		
+sign<u><font color='red'>s</font></u>    

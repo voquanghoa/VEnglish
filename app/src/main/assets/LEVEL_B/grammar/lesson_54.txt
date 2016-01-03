@@ -100,7 +100,7 @@ borders
 limits
 fence
 
-18. He's not very sensible as far as money ________ are concerned. 
+18. He's not very sensible as far as money ________ are concerned . 
 things
 points
  aspects

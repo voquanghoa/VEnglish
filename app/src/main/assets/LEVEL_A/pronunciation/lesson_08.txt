@@ -1,71 +1,71 @@
 1.
-a. b<u><font color='red'>ur</font></u>n
-b. t<u><font color='red'>ur</font></u>n
-c.  p<u><font color='red'>ur</font></u>e
-d. c<u><font color='red'>ur</font></u>l
+b<u><font color='red'>ur</font></u>n
+t<u><font color='red'>ur</font></u>n
+ p<u><font color='red'>ur</font></u>e
+c<u><font color='red'>ur</font></u>l
 
 2.
-a. d<u><font color='red'>i</font></u>ne
-b. cl<u><font color='red'>i</font></u>mb
-c. f<u><font color='red'>i</font></u>ve
-d.  l<u><font color='red'>i</font></u>mb
+d<u><font color='red'>i</font></u>ne
+cl<u><font color='red'>i</font></u>mb
+f<u><font color='red'>i</font></u>ve
+ l<u><font color='red'>i</font></u>mb
 
 3.
-a. n<u><font color='red'>ei</font></u>ghbor
-b.  h<u><font color='red'>ei</font></u>ght
-c. w<u><font color='red'>ei</font></u>ght
-d. b<u><font color='red'>ei</font></u>ge
+n<u><font color='red'>ei</font></u>ghbor
+ h<u><font color='red'>ei</font></u>ght
+w<u><font color='red'>ei</font></u>ght
+b<u><font color='red'>ei</font></u>ge
 
 4.
-a.  r<u><font color='red'>ou</font></u>ble
-b. r<u><font color='red'>ou</font></u>nd
-c. am<u><font color='red'>ou</font></u>nt
-d. s<u><font color='red'>ou</font></u>th
+ r<u><font color='red'>ou</font></u>ble
+r<u><font color='red'>ou</font></u>nd
+am<u><font color='red'>ou</font></u>nt
+s<u><font color='red'>ou</font></u>th
 
 5.
-a. <u><font color='red'>k</font></u>ind
-b. <u><font color='red'>k</font></u>eep
-c.  <u><font color='red'>k</font></u>now
-d. <u><font color='red'>k</font></u>it
+<u><font color='red'>k</font></u>ind
+<u><font color='red'>k</font></u>eep
+ <u><font color='red'>k</font></u>now
+<u><font color='red'>k</font></u>it
 
 6.
-a. <u><font color='red'>c</font></u>at
-b. <u><font color='red'>c</font></u>ut
-c.  <u><font color='red'>c</font></u>ease
-d. <u><font color='red'>c</font></u>ot
+<u><font color='red'>c</font></u>at
+<u><font color='red'>c</font></u>ut
+ <u><font color='red'>c</font></u>ease
+<u><font color='red'>c</font></u>ot
 
 1.
-a. d<u><font color='red'>a</font></u>te
-b. l<u><font color='red'>a</font></u>ke
-c.  d<u><font color='red'>a</font></u>mn
-d. s<u><font color='red'>a</font></u>me
+d<u><font color='red'>a</font></u>te
+l<u><font color='red'>a</font></u>ke
+ d<u><font color='red'>a</font></u>mn
+s<u><font color='red'>a</font></u>me
 
 2.
-a. <u><font color='red'>sc</font></u>hool
-b. <u><font color='red'>sc</font></u>ot
-c.  <u><font color='red'>sc</font></u>ience
-d. <u><font color='red'>sc</font></u>an
+<u><font color='red'>sc</font></u>hool
+<u><font color='red'>sc</font></u>ot
+ <u><font color='red'>sc</font></u>ience
+<u><font color='red'>sc</font></u>an
 
 3.
-a.  ro<u><font color='red'>s</font></u>e
-b. lou<u><font color='red'>s</font></u>e
-c. mou<u><font color='red'>s</font></u>e
-d. practi<u><font color='red'>s</font></u>e
+ ro<u><font color='red'>s</font></u>e
+lou<u><font color='red'>s</font></u>e
+mou<u><font color='red'>s</font></u>e
+practi<u><font color='red'>s</font></u>e
 
 4.
-a. cl<u><font color='red'>o</font></u>se
-b. b<u><font color='red'>o</font></u>th
-c.  d<u><font color='red'>o</font></u>zen
-d. h<u><font color='red'>o</font></u>ld
+cl<u><font color='red'>o</font></u>se
+b<u><font color='red'>o</font></u>th
+ d<u><font color='red'>o</font></u>zen
+h<u><font color='red'>o</font></u>ld
 
 5.
-a. du<u><font color='red'>b</font></u>
-b. ro<u><font color='red'>b</font></u>ot
-c.  clim<u><font color='red'>b</font></u>
-d. so<u><font color='red'>b</font></u>
+du<u><font color='red'>b</font></u>
+ro<u><font color='red'>b</font></u>ot
+ clim<u><font color='red'>b</font></u>
+so<u><font color='red'>b</font></u>
 
 6.
-a.  mus<u><font color='red'>t</font></u>n't
-b. cu<u><font color='red'>t</font></u>ter
-c. mus<u><font color='red'>t</font></u>ache
-d. li<u><font color='red'>t</font></u>tle
+ mus<u><font color='red'>t</font></u>n't
+cu<u><font color='red'>t</font></u>ter
+mus<u><font color='red'>t</font></u>ache
+li<u><font color='red'>t</font></u>tle

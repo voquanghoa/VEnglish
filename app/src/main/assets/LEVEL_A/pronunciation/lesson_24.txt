@@ -1,59 +1,59 @@
 1.
-a. tr<u><font color='red'>i</font></u>be
-b. tr<u><font color='red'>i</font></u>angle
-c. tr<u><font color='red'>i</font></u>al
-d.  distr<u><font color='red'>i</font></u>bute
+tr<u><font color='red'>i</font></u>be
+tr<u><font color='red'>i</font></u>angle
+tr<u><font color='red'>i</font></u>al
+ distr<u><font color='red'>i</font></u>bute
 
 2.
-a.  disg<u><font color='red'>ui</font></u>se
-b. br<u><font color='red'>ui</font></u>se
-c. cr<u><font color='red'>ui</font></u>se
-d. br<u><font color='red'>ui</font></u>t
+ disg<u><font color='red'>ui</font></u>se
+br<u><font color='red'>ui</font></u>se
+cr<u><font color='red'>ui</font></u>se
+br<u><font color='red'>ui</font></u>t
 
 3.
-a.  <u><font color='red'>h</font></u>istoric
-b. <u><font color='red'>h</font></u>eir
-c. <u><font color='red'>h</font></u>onesty
-d. <u><font color='red'>h</font></u>onorable
+ <u><font color='red'>h</font></u>istoric
+<u><font color='red'>h</font></u>eir
+<u><font color='red'>h</font></u>onesty
+<u><font color='red'>h</font></u>onorable
 
 4.
-a. p<u><font color='red'>e</font></u>nalty
-b.  sc<u><font color='red'>e</font></u>ne
-c. <u><font color='red'>e</font></u>pidemic
-d. l<u><font color='red'>e</font></u>vel
+p<u><font color='red'>e</font></u>nalty
+ sc<u><font color='red'>e</font></u>ne
+<u><font color='red'>e</font></u>pidemic
+l<u><font color='red'>e</font></u>vel
 
 5.
-a. hook<u><font color='red'>ed</font></u>
-b. help<u><font color='red'>ed</font></u>
-c. laugh<u><font color='red'>ed</font></u>
-d.  paint<u><font color='red'>ed</font></u>
+hook<u><font color='red'>ed</font></u>
+help<u><font color='red'>ed</font></u>
+laugh<u><font color='red'>ed</font></u>
+ paint<u><font color='red'>ed</font></u>
 
 1.
-a. or<u><font color='red'>ch</font></u>estra
-b.  <u><font color='red'>ch</font></u>arity
-c. <u><font color='red'>ch</font></u>orus
-d. a<u><font color='red'>ch</font></u>e
+or<u><font color='red'>ch</font></u>estra
+ <u><font color='red'>ch</font></u>arity
+<u><font color='red'>ch</font></u>orus
+a<u><font color='red'>ch</font></u>e
 
 2.
-a.  <u><font color='red'>i</font></u>diom
-b. <u><font color='red'>i</font></u>deal
-c. <u><font color='red'>i</font></u>dle
-d. <u><font color='red'>i</font></u>tem
+ <u><font color='red'>i</font></u>diom
+<u><font color='red'>i</font></u>deal
+<u><font color='red'>i</font></u>dle
+<u><font color='red'>i</font></u>tem
 
 3.
-a. compl<u><font color='red'>ai</font></u>n
-b.  barg<u><font color='red'>ai</font></u>n
-c. ascert<u><font color='red'>ai</font></u>n
-d. camp<u><font color='red'>ai</font></u>gn
+compl<u><font color='red'>ai</font></u>n
+ barg<u><font color='red'>ai</font></u>n
+ascert<u><font color='red'>ai</font></u>n
+camp<u><font color='red'>ai</font></u>gn
 
 4.
-a. bro<u><font color='red'>ch</font>ure
-b. <u><font color='red'>s</font>ugar
-c. con<u><font color='red'>sc</font>ious
-d.  s<u><font color='red'>ch</font>olarship
+bro<u><font color='red'>ch</font>ure
+<u><font color='red'>s</font>ugar
+con<u><font color='red'>sc</font>ious
+ s<u><font color='red'>ch</font>olarship
 
 5.
-a.  l<u><font color='red'>au</font></u>ghter
-b. t<u><font color='red'>au</font></u>ght
-c. n<u><font color='red'>au</font></u>ghty
-d. sl<u><font color='red'>au</font></u>ghter
+ l<u><font color='red'>au</font></u>ghter
+t<u><font color='red'>au</font></u>ght
+n<u><font color='red'>au</font></u>ghty
+sl<u><font color='red'>au</font></u>ghter

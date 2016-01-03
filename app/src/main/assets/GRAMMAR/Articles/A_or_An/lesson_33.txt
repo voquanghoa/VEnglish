@@ -1,29 +1,39 @@
 ﻿1. I have got  ___  car 
-a
+ a
+an
 
 2. My sister has got  ___  mobile phone 
-a
+ a
+an
 
 3. I like to eat  ___  avocado 
-an
+ an
+a
 
 4. John plays  ___  interesting musical instrument. 
-an
+ an
+a
 
 5. Toto plays with  ___  ball in the garden. 
-a
+ a
+an
 
 1. ___ year 
-a
+ a
+an
 
 2. ___ hat 
-a
+ a
+an
 
 3. ___ orange 
-an
-
-4. ___ uniform 
+ an
 a
 
-5. ___ umbrella 
+4. ___ uniform 
+ a
 an
+
+5. ___ umbrella 
+ an
+a

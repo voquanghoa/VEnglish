@@ -1,63 +1,63 @@
 Pronunciation
 1. 
-a. d<u><font color='red'>ea</font></u>r 
-b. t<u><font color='red'>ea</font></u>r 
-c.  b<u><font color='red'>ea</font></u>r 
-d. n<u><font color='red'>ea</font></u>r
+d<u><font color='red'>ea</font></u>r 
+t<u><font color='red'>ea</font></u>r 
+ b<u><font color='red'>ea</font></u>r 
+n<u><font color='red'>ea</font></u>r
 
 2. 
-a. l<u><font color='red'>o</font></u>wer 
-b. c<u><font color='red'>o</font></u>at 
-c. n<u><font color='red'>o</font></u>te 
-d.  b<u><font color='red'>o</font></u>ttle
+l<u><font color='red'>o</font></u>wer 
+c<u><font color='red'>o</font></u>at 
+n<u><font color='red'>o</font></u>te 
+ b<u><font color='red'>o</font></u>ttle
 
 3. 
-a.  b<u><font color='red'>ar</font></u>e 
-b. c<u><font color='red'>ar</font></u> 
-c. st<u><font color='red'>ar</font></u> 
-d. f<u><font color='red'>ar</font></u>m
+ b<u><font color='red'>ar</font></u>e 
+c<u><font color='red'>ar</font></u> 
+st<u><font color='red'>ar</font></u> 
+f<u><font color='red'>ar</font></u>m
 
 4. 
-a. h<u><font color='red'>i</font></u>gh 
-b. f<u><font color='red'>i</font></u>ne 
-c.  l<u><font color='red'>i</font></u>t 
-d. n<u><font color='red'>i</font></u>ne
+h<u><font color='red'>i</font></u>gh 
+f<u><font color='red'>i</font></u>ne 
+ l<u><font color='red'>i</font></u>t 
+n<u><font color='red'>i</font></u>ne
 
 5. 
-a. b<u><font color='red'>a</font></u>rn 
-b. p<u><font color='red'>a</font></u>rk 
-c. f<u><font color='red'>a</font></u>rm 
-d.  w<u><font color='red'>a</font></u>rm
+b<u><font color='red'>a</font></u>rn 
+p<u><font color='red'>a</font></u>rk 
+f<u><font color='red'>a</font></u>rm 
+ w<u><font color='red'>a</font></u>rm
 
 6. 
-a.  b<u><font color='red'>o</font></u>th 
-b. p<u><font color='red'>o</font></u>t 
-c. c<u><font color='red'>o</font></u>tton 
-d. b<u><font color='red'>o</font></u>ttle
+ b<u><font color='red'>o</font></u>th 
+p<u><font color='red'>o</font></u>t 
+c<u><font color='red'>o</font></u>tton 
+b<u><font color='red'>o</font></u>ttle
 
 
 Find the mistakes
 7. There <u><font color='red'>is</font></u> <u><font color='red'>twenty four</font></u> <u><font color='red'>hours</font></u> <u><font color='red'>in</font></u> a day.
-a.  is
-b. twenty four
-c. hours
-d. in
+ is
+twenty four
+hours
+in
 
 8. <u><font color='red'>Whose</font></u> <u><font color='red'>the</font></u> hat is <u><font color='red'>this</font></u>? It's <u><font color='red'>Mary's</font></u>.
-a. Whose
-b.  the
-c. this
-d. Mary's
+Whose
+ the
+this
+Mary's
 
 9. <u><font color='red'>Uncle Ho's</font></u> birthday <u><font color='red'>is</font></u> <u><font color='red'>in</font></u> 19th <u><font color='red'>of</font></u> May.
-a. Uncle Ho's
-b. is
-c.  in
-d. of
+Uncle Ho's
+is
+ in
+of
 
 
 Grammar and Vocabulary
- They ________ last weekend. 
+ They ________ last weeken
 had swim
 went for swimming
  went swimming
@@ -105,7 +105,7 @@ has played
 plays
 played
 
-9. She always ________ to her friend when she is abroad. 
+9. She always ________ to her friend when she is abroa
  writes
 had written
 is writing
@@ -165,7 +165,7 @@ attends
 attended
  attend
  
-19. The mother looked ________ at her naughty child. 
+19. The mother looked ________ at her naughty chil
 anger
 angry
  angrily

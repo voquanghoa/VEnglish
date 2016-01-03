@@ -1,39 +1,39 @@
 1. computer
-(a)  Countable
-(b) Non_Countable
+ Countable
+Non_Countable
  
 2. clock
-(a)  Countable
-(b) Non_Countable
+ Countable
+Non_Countable
 
 3. hat
-(a)  Countable
-(b) Non_Countable
+ Countable
+Non_Countable
 
 4. answer
-(a)  Countable
-(b) Non_Countable
+ Countable
+Non_Countable
 
 5. cup
-(a)  Countable
-(b) Non_Countable
+ Countable
+Non_Countable
 
 6. baby
-(a)  Countable
-(b) Non_Countable
+ Countable
+Non_Countable
 
 7. garden
-(a)  Countable
-(b) Non_Countable
+ Countable
+Non_Countable
 
 8. keyboard
-(a)  Countable
-(b) Non_Countable
+ Countable
+Non_Countable
 
 9. word
-(a)  Countable
-(b) Non_Countable
+ Countable
+Non_Countable
 
 10. game
-(a)  Countable
-(b) Non_Countable
+ Countable
+Non_Countable

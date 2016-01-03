@@ -1,65 +1,65 @@
 Pronunciation
 1. 
-a.  pract<u><font color='red'>i</font></u>se 
-b. exerc<u><font color='red'>i</font></u>se 
-c. adv<u><font color='red'>i</font></u>se 
-d. rev<u><font color='red'>i</font></u>se
+ pract<u><font color='red'>i</font></u>se 
+exerc<u><font color='red'>i</font></u>se 
+adv<u><font color='red'>i</font></u>se 
+rev<u><font color='red'>i</font></u>se
 
 2. 
-a.  <u><font color='red'>ch</font></u>orus 
-b. <u><font color='red'>ch</font></u>at 
-c. <u><font color='red'>ch</font></u>alk 
-d. <u><font color='red'>ch</font></u>ip
+ <u><font color='red'>ch</font></u>orus 
+<u><font color='red'>ch</font></u>at 
+<u><font color='red'>ch</font></u>alk 
+<u><font color='red'>ch</font></u>ip
 
 3. 
-a.  b<u><font color='red'>ee</font></u>r 
-b. st<u><font color='red'>ee</font></u>p 
-c. j<u><font color='red'>ee</font></u>p 
-d. b<u><font color='red'>ee</font></u>f
+ b<u><font color='red'>ee</font></u>r 
+st<u><font color='red'>ee</font></u>p 
+j<u><font color='red'>ee</font></u>p 
+b<u><font color='red'>ee</font></u>f
 
 4. 
-a. <u><font color='red'>ch</font></u>eat 
-b. <u><font color='red'>ch</font></u>ief 
-c.  <u><font color='red'>ch</font></u>ef 
-d. <u><font color='red'>ch</font></u>eap
+<u><font color='red'>ch</font></u>eat 
+<u><font color='red'>ch</font></u>ief 
+ <u><font color='red'>ch</font></u>ef 
+<u><font color='red'>ch</font></u>eap
 
 5. 
-a.  mach<u><font color='red'>i</font></u>ne 
-b. mag<u><font color='red'>i</font></u>c 
-c. trag<u><font color='red'>i</font></u>c 
-d. log<u><font color='red'>i</font></u>c
+ mach<u><font color='red'>i</font></u>ne 
+mag<u><font color='red'>i</font></u>c 
+trag<u><font color='red'>i</font></u>c 
+log<u><font color='red'>i</font></u>c
 
 6. 
-a. m<u><font color='red'>ai</font></u>l 
-b. t<u><font color='red'>ai</font></u>l 
-c.  <u><font color='red'>ai</font></u>rline 
-d. s<u><font color='red'>ai</font></u>lor
+m<u><font color='red'>ai</font></u>l 
+t<u><font color='red'>ai</font></u>l 
+ <u><font color='red'>ai</font></u>rline 
+s<u><font color='red'>ai</font></u>lor
 
 7. 
-a.  f<u><font color='red'>o</font></u>cus 
-b. f<u><font color='red'>o</font></u>ssil 
-c. b<u><font color='red'>o</font></u>ss 
-d. l<u><font color='red'>o</font></u>ss
+ f<u><font color='red'>o</font></u>cus 
+f<u><font color='red'>o</font></u>ssil 
+b<u><font color='red'>o</font></u>ss 
+l<u><font color='red'>o</font></u>ss
 
 
 Find the mistakes
 8. Lasers <u><font color='red'>are</font></u> indispensable <u><font color='red'>tools</font></u> <u><font color='red'>for</font></u> delicate <u><font color='red'>eyes</font></u> surgery.
-a. are
-b. tools
-c. for
-d.  eyes
+are
+tools
+for
+ eyes
 
 9. Alexander Calder, who was <u><font color='red'>originally</font></u> interested <u><font color='red'>in</font></u> mechanical engineering, <u><font color='red'>later</font></u> became <u><font color='red'>a sculpture</font></u>.
-a. originally
-b. in
-c. later
-d.  a sculpture
+originally
+in
+later
+ a sculpture
 
 10. Christina <u><font color='red'>is</font></u> very <u><font color='red'>self-confident</font></u> character, she <u><font color='red'>was</font></u> <u><font color='red'>relaxed</font></u> with strangers.
-a. is
-b. self-confident
-c.  was
-d. relaxed
+is
+self-confident
+ was
+relaxed
 
 
 Grammar and Vocabulary
@@ -159,7 +159,7 @@ will have been made
  are made
 being made
 
-17. He's the perfect person to take on this difficult job. He's a really hard-________ person and won't stand for any nonsense. 
+17. He's the perfect person to take on this difficult job . He's a really hard-________ person and won't stand for any nonsense. 
 ship
  nosed
 handshake

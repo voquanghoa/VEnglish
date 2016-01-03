@@ -1,59 +1,59 @@
 Pronunciation
 1. 
-a.  <u><font color='red'>ow</font></u>n 
-b. d<u><font color='red'>ow</font></u>n 
-c. p<u><font color='red'>ow</font></u>er 
-d. t<u><font color='red'>ow</font></u>er
+ <u><font color='red'>ow</font></u>n 
+d<u><font color='red'>ow</font></u>n 
+p<u><font color='red'>ow</font></u>er 
+t<u><font color='red'>ow</font></u>er
 
 2. 
-a.  whis<u><font color='red'>t</font></u>le 
-b. ca<u><font color='red'>tt</font></u>le 
-c. se<u><font color='red'>tt</font></u>le 
-d. ba<u><font color='red'>tt</font></u>le
+ whis<u><font color='red'>t</font></u>le 
+ca<u><font color='red'>tt</font></u>le 
+se<u><font color='red'>tt</font></u>le 
+ba<u><font color='red'>tt</font></u>le
 
 3. 
-a. hum<u><font color='red'>our</font></u> 
-b.  fl<u><font color='red'>our</font></u> 
-c. rum<u><font color='red'>our</font></u> 
-d. hon<u><font color='red'>our</font></u>
+hum<u><font color='red'>our</font></u> 
+ fl<u><font color='red'>our</font></u> 
+rum<u><font color='red'>our</font></u> 
+hon<u><font color='red'>our</font></u>
 
 4. 
-a. b<u><font color='red'>u</font></u>sh 
-b.  r<u><font color='red'>u</font></u>sh 
-c. p<u><font color='red'>u</font></u>sh 
-d. p<u><font color='red'>u</font></u>ll
+b<u><font color='red'>u</font></u>sh 
+ r<u><font color='red'>u</font></u>sh 
+p<u><font color='red'>u</font></u>sh 
+p<u><font color='red'>u</font></u>ll
 
 5. 
-a. sock<u><font color='red'>e</font></u>t 
-b.  regr<u><font color='red'>e</font></u>t 
-c. bull<u><font color='red'>e</font></u>t 
-d. rock<u><font color='red'>e</font></u>t
+sock<u><font color='red'>e</font></u>t 
+ regr<u><font color='red'>e</font></u>t 
+bull<u><font color='red'>e</font></u>t 
+rock<u><font color='red'>e</font></u>t
 
 6. 
-a. m<u><font color='red'>a</font></u>tter 
-b. s<u><font color='red'>a</font></u>d 
-c.  b<u><font color='red'>a</font></u>rn 
-d. c<u><font color='red'>a</font></u>tch
+m<u><font color='red'>a</font></u>tter 
+s<u><font color='red'>a</font></u>d 
+ b<u><font color='red'>a</font></u>rn 
+c<u><font color='red'>a</font></u>tch
 
 
 Find the mistakes
 7. Police <u><font color='red'>had better</font></u> <u><font color='red'>never</font></u> <u><font color='red'>drinking</font></u> alcohol <u><font color='red'>on</font></u> duty.
-a. had better
-b. never
-c.  drinking
-d. on
+had better
+never
+ drinking
+on
 
 8. In his opinion, Chinese <u><font color='red'>is</font></u> a very <u><font color='red'>difficult</font></u> language <u><font color='red'>to</font></u> <u><font color='red'>pick out</font></u> quickly.
-a. is
-b. difficult
-c. to
-d.  pick out
+is
+difficult
+to
+ pick out
 
 9. Don <u><font color='red'>has always used</font></u> to write back <u><font color='red'>as soon as</font></u> he got my letters, but months <u><font color='red'>can go</font></u> by before I <u><font color='red'>get</font></u> a reply these days.
-a.  has always used
-b. as soon as
-c. can go
-d. get
+ has always used
+as soon as
+can go
+get
 
 
 Grammar and Vocabulary
@@ -165,13 +165,13 @@ resent
 respect
 sense
 
-19. Don't blame him for this; I am responsible ________ what has happened. 
+19. Don't blame him for this; I am responsible ________ what has happened . 
 with
  for
 to
 by
 
-20. He has to arrange for the ________ of his furniture before he goes abroad. 
+20. He has to arrange for the ________ of his furniture before he goes abroad . 
  sale
 sole
 seal

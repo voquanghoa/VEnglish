@@ -1,58 +1,58 @@
 Pronunciation
 1.
-a.  <u><font color='red'>th</font></u>ink
-b. <u><font color='red'>th</font></u>e
-c. <u><font color='red'>th</font></u>at
-d. <u><font color='red'>th</font></u>en
+ <u><font color='red'>th</font></u>ink
+<u><font color='red'>th</font></u>e
+<u><font color='red'>th</font></u>at
+<u><font color='red'>th</font></u>en
 
 2.
-a. b<u><font color='red'>e</font></u>t
-b. b<u><font color='red'>e</font></u>d
-c. m<u><font color='red'>e</font></u>n
-d.  b<u><font color='red'>e</font></u>low
+b<u><font color='red'>e</font></u>t
+b<u><font color='red'>e</font></u>d
+m<u><font color='red'>e</font></u>n
+ b<u><font color='red'>e</font></u>low
 
 3.
-a. f<u><font color='red'>ew</font></u>
-b. n<u><font color='red'>ew</font></u>
-c.  gr<u><font color='red'>ew</font></u>
-d. kn<u><font color='red'>ew</font></u>
+f<u><font color='red'>ew</font></u>
+n<u><font color='red'>ew</font></u>
+ gr<u><font color='red'>ew</font></u>
+kn<u><font color='red'>ew</font></u>
 
 4.
-a. nic<u><font color='red'>est</font></u>
-b. short<u><font color='red'>est</font></u>
-c. hott<u><font color='red'>est</font></u>
-d.  gu<u><font color='red'>est</font></u>
+nic<u><font color='red'>est</font></u>
+short<u><font color='red'>est</font></u>
+hott<u><font color='red'>est</font></u>
+ gu<u><font color='red'>est</font></u>
 
 5.
-a. b<u><font color='red'>a</font></u>re
-b. d<u><font color='red'>a</font></u>re
-c. c<u><font color='red'>a</font></u>re
-d.  f<u><font color='red'>a</font></u>r
+b<u><font color='red'>a</font></u>re
+d<u><font color='red'>a</font></u>re
+c<u><font color='red'>a</font></u>re
+ f<u><font color='red'>a</font></u>r
 
 6.
-a. <u><font color='red'>c</font></u>ould
-b.  <u><font color='red'>c</font></u>ell
-c. <u><font color='red'>c</font></u>all
-d. <u><font color='red'>c</font></u>old
+<u><font color='red'>c</font></u>ould
+ <u><font color='red'>c</font></u>ell
+<u><font color='red'>c</font></u>all
+<u><font color='red'>c</font></u>old
 
 Find the mistakes
 7. They <u><font color='red'>no</font></u> <u><font color='red'>wear</font></u> uniform <u><font color='red'>at</font></u> <u><font color='red'>their</font></u> school.
-a.  no
-b. wear
-c. at
-d. their
+ no
+wear
+at
+their
 
 8. Sorry. You <u><font color='red'>can't speak</font></u> <u><font color='red'>to</font></u> Jim now. He's <u><font color='red'>have</font></u> <u><font color='red'>a bath</font></u>.
-a. can't speak
-b. to
-c.  have
-d. a bath
+can't speak
+to
+ have
+a bath
 
 9. <u><font color='red'>Nick's father</font></u> is <u><font color='red'>a</font></u> businessman. He <u><font color='red'>travel</font></u> <u><font color='red'>all over</font></u> the world.
-a. Nick's father
-b. a
-c.  travel
-d. all over
+Nick's father
+a
+ travel
+all over
 
 Grammar and Vocabulary
  He's very short: ________ sisters are taller. 
@@ -115,7 +115,7 @@ is saying
 shall say
  says
 
-1. "You are late" he said. "I think the bus ________ already." 
+1. "You are late" he sai"I think the bus ________ already." 
 went
 was going
  has gone

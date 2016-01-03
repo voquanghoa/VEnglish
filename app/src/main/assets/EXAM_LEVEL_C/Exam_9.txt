@@ -1,59 +1,59 @@
 Pronunciation
 1. 
-a. m<u><font color='red'>i</font></u>ce 
-b.  pol<u><font color='red'>i</font></u>ce 
-c. <u><font color='red'>i</font></u>ce 
-d. sp<u><font color='red'>i</font></u>ce
+m<u><font color='red'>i</font></u>ce 
+ pol<u><font color='red'>i</font></u>ce 
+<u><font color='red'>i</font></u>ce 
+sp<u><font color='red'>i</font></u>ce
 
 2. 
-a. m<u><font color='red'>i</font></u>le 
-b. sm<u><font color='red'>i</font></u>le 
-c.  pup<u><font color='red'>i</font></u>l 
-d. p<u><font color='red'>i</font></u>le
+m<u><font color='red'>i</font></u>le 
+sm<u><font color='red'>i</font></u>le 
+ pup<u><font color='red'>i</font></u>l 
+p<u><font color='red'>i</font></u>le
 
 3. 
-a. p<u><font color='red'>o</font></u>lice 
-b. c<u><font color='red'>o</font></u>llide 
-c.  p<u><font color='red'>o</font></u>litics 
-d. p<u><font color='red'>o</font></u>lite
+p<u><font color='red'>o</font></u>lice 
+c<u><font color='red'>o</font></u>llide 
+ p<u><font color='red'>o</font></u>litics 
+p<u><font color='red'>o</font></u>lite
 
 4. 
-a.  foss<u><font color='red'>i</font></u>l 
-b. k<u><font color='red'>i</font></u>ll 
-c. f<u><font color='red'>i</font></u>ll 
-d. <u><font color='red'>i</font></u>ll
+ foss<u><font color='red'>i</font></u>l 
+k<u><font color='red'>i</font></u>ll 
+f<u><font color='red'>i</font></u>ll 
+<u><font color='red'>i</font></u>ll
 
 5. 
-a. am<u><font color='red'>u</font></u>se 
-b. conf<u><font color='red'>u</font></u>se 
-c. ref<u><font color='red'>u</font></u>se 
-d.  cl<u><font color='red'>u</font></u>ster
+am<u><font color='red'>u</font></u>se 
+conf<u><font color='red'>u</font></u>se 
+ref<u><font color='red'>u</font></u>se 
+ cl<u><font color='red'>u</font></u>ster
 
 6. 
-a. thr<u><font color='red'>ee</font></u> 
-b. tr<u><font color='red'>ee</font></u> 
-c.  p<u><font color='red'>ee</font></u>r 
-d. fr<u><font color='red'>ee</font></u>
+thr<u><font color='red'>ee</font></u> 
+tr<u><font color='red'>ee</font></u> 
+ p<u><font color='red'>ee</font></u>r 
+fr<u><font color='red'>ee</font></u>
 
 
 Find the mistakes
 7. <u><font color='red'>On behalf of</font></u> <u><font color='red'>all of us</font></u> who <u><font color='red'>are</font></u> here this morning, I would like <u><font color='red'>thanking</font></u> Mr. Carnegie for his help.
-a. On behalf of
-b. all of us
-c. are
-d.  thanking
+On behalf of
+all of us
+are
+ thanking
 
 8. Today <u><font color='red'>we</font></u> know <u><font color='red'>that</font></u> the earth is one of nine planets <u><font color='red'>who</font></u> <u><font color='red'>obit</font></u> the sun.
-a. we
-b. that
-c.  who
-d. obit
+we
+that
+ who
+obit
 
 9. John <u><font color='red'>bought</font></u> this vocabulary book <u><font color='red'>that</font></u> he <u><font color='red'>could go over</font></u> all the things he <u><font color='red'>has studied</font></u> this year.
-a. bought
-b.  that
-c. could go over
-d. has studied
+bought
+ that
+could go over
+has studied
 
 
 Grammar and Vocabulary
@@ -93,7 +93,7 @@ so
 much
 too
 
-7. I'm sorry, but I like my eggs soft ________, not hard. 
+7. I'm sorry, but I like my eggs soft ________, not hard . 
 cooked
 steamed
  boiled
@@ -123,7 +123,7 @@ To
 By
 For
 
-12. Father would not ________ us to go there for the weekend. 
+12. Father would not ________ us to go there for the weekend . 
 let
  permit
 agree
@@ -147,7 +147,7 @@ garage
 plan
 parking
 
-16. The smell was so bad that it completely ________ us off our food. 
+16. The smell was so bad that it completely ________ us off our food . 
 set
 took
 got
