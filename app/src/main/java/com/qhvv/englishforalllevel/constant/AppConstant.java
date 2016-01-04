@@ -24,4 +24,6 @@ public interface AppConstant {
     String APP_PACKAGE = "https://play.google.com/store/apps/details?id=" + PACKAGE_NAME;
     String FACEBOOK_SHARE_PATH = "https://www.facebook.com/sharer/sharer.php?u=";
     String FACEBOOK_SHARE_FULL_PATH = FACEBOOK_SHARE_PATH + APP_PACKAGE;
+
+    String GPLUS_URL_SHARE = "https://plus.google.com/u/0/communities/105959375540598215686";
 }

@@ -1,6 +1,7 @@
 package com.qhvv.englishforalllevel;
 
 import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.view.View;
 
@@ -75,7 +76,9 @@ public class MainActivity extends BaseActivity implements HttpDownloadController
     }
 
     public void onListenExerciseClick(View view) {
-
+        String shareUrl = AppConstant.GPLUS_URL_SHARE;
+        Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(shareUrl));
+        startActivity(intent);
     }
 
     public void onDownloadFail(String message) {
