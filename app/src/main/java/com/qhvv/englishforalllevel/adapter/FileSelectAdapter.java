@@ -128,10 +128,10 @@ public class FileSelectAdapter extends BaseAdapter {
         //NOTED : Implement pool object if any issue relative to memory leak or performance here
         int layout =  R.layout.data_item_folder_layout;
 
-        if(pathStack.size()==0){
-            layout = R.layout.data_item_category_layout;
-        }else if(dataItem.isFileTest()){
+        if(dataItem.isFileTest()){
             layout = R.layout.data_item_file_test;
+        }else if(dataItem.isFileTest()){
+            layout = R.layout.data_item_category_layout;
         }
 
         return LayoutInflater.from(context).inflate(layout, null);
