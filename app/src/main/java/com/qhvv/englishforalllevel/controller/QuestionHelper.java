@@ -98,6 +98,10 @@ public class QuestionHelper {
 
         if(lineIndex < lineGroup.size()) {
             String question = lineGroup.get(lineIndex);
+            if(question.startsWith("\uFEFF")){
+                question = question.substring(1);
+            }
+
             return question.replaceAll(removeRegex,"");
         }
         return "";
