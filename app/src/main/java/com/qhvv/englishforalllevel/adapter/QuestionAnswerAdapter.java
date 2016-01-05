@@ -151,6 +151,12 @@ public class QuestionAnswerAdapter extends BaseAdapter implements CompoundButton
             }else {
                 radioButton.setText(Html.fromHtml(answer));
             }
+
+            if(answer==null || answer.length()==0){
+                radioButton.setVisibility(View.GONE);
+            }else{
+                radioButton.setVisibility(View.VISIBLE);
+            }
         }
     }
 

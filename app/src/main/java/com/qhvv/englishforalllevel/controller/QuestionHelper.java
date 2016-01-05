@@ -102,7 +102,7 @@ public class QuestionHelper {
                 question = question.substring(1);
             }
 
-            return question.replaceAll(removeRegex,"");
+            return question.replaceAll(removeRegex,"").replaceAll("\r","");
         }
         return "";
     }
@@ -129,7 +129,7 @@ public class QuestionHelper {
                 }
             }
 
-            return answer;
+            return answer.replaceAll("\r","");
         }
         return "";
     }
